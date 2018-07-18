@@ -1,8 +1,8 @@
 #《禮記·大學》中古音及中州音
-#多音字及通假字擇音遵《禮記正義》及《四書章句集註》
-#version: 20180717
-#author: hhliow (github.com/hhliow)
-#license: cc by-nc-sa 4.0
+# 多音字及通假字擇音遵《禮記正義》及《四書章句集註》
+# version: 20180717
+# author: hhliow (github.com/hhliow)
+# license: cc by-nc-sa 4.0
 	Middle Chinese (Baxter transcription)	洪武正韻音
 大	dajH	dǎi
 學	haewk	ɦiɔ̏k
@@ -82,11 +82,11 @@
 國	kwok	kwək
 者。	tsyaeX	tʃiɛ̂
 先	sen	siɛn
-齊	dzej	tshiȅi
+齊	dzej	tshȉ
 其	gi	khȉ
 家。	kae	kia
 欲	yowk	jyȕk
-齊	dzej	tshiȅi
+齊	dzej	tshȉ
 其	gi	khȉ
 家	kae	kia
 者。	tsyaeX	tʃiɛ̂
@@ -120,7 +120,7 @@
 先	sen	siɛn
 致	trijH	tʃǐ
 其	gi	khȉ
-知。	trje	tʃǐ
+知。	trje	tʃi
 致	trijH	tʃǐ
 知	trje	tʃi
 在	dzojX	dzǎi'
@@ -155,9 +155,9 @@
 而	nyi	ɻ̏
 後	huwX	ɦǒw'
 家	kae	kia
-齊。	dzej	tshiȅi
+齊。	dzej	tshȉ
 家	kae	kia
-齊	dzej	tshiȅi
+齊	dzej	tshȉ
 而	nyi	ɻ̏
 後	huwX	ɦǒw'
 國	kwok	kwək
@@ -227,7 +227,7 @@
 者。	tsyaeX	tʃiɛ̂
 毋	mju	vȕ
 自	dzijH	dzɨ̌
-欺	khi	khiei
+欺	khi	khi
 也。	yaeX	jiɛ̂
 如	nyo	ʒy̏
 惡	'uH	ʔǔ
@@ -308,7 +308,7 @@
 也。	yaeX	jiɛ̂
 曾	tsong	tsəŋ
 子	tsiX	tsɨ̂
-曰。	hjwot	ŋyuɛ̏t
+曰。	hjwot	yuɛ̏t
 十	dzyip	ʃʒȉp
 目	mjuwk	mȕk
 所	srjoX	ʂû
@@ -328,7 +328,7 @@
 身。	syin	ʃin
 心	sim	sim
 廣	kwangX	kwɑ̂ŋ
-體	thejX	thiêi
+體	thejX	thî
 胖。	ban	phwɔ̏n
 故	kuH	kǔ
 君	kjun	kyun
@@ -470,14 +470,14 @@
 德。	tok	tək
 太	thajH	thǎi
 甲	kaep	kiap
-曰。	hjwot	ŋyuɛ̏t
+曰。	hjwot	yuɛ̏t
 顧	kuH	kǔ
 諟	dzyeX	ʃʒǐ'
 天	then	thiɛn
 之	tsyi	tʃi
 明	mjaeng	mȉŋ
 命。	mjaengH	mǐŋ
-帝	tejH	tiěi
+帝	tejH	tǐ
 典	tenX	tiɛ̂n
 曰。	hjwot	yuɛ̏t
 克	khok	khək
@@ -616,7 +616,7 @@
 也。	yaeX	jiɛ̂
 必	pjit	pit
 也	yaeX	jiɛ̂
-使	sriX	ʂî
+使	sriX	ʂɨ̂
 無	mju	vȕ
 訟	zjowngH	szyǔŋ
 乎。	hu	ɦȕ
@@ -710,7 +710,7 @@
 心。	sim	sim
 所	srjoX	ʂû
 謂	hjw+jH	ǔi
-齊	dzej	tshiȅi
+齊	dzej	tshȉ
 其	gi	khȉ
 家	kae	kia
 在	dzojX	dzǎi'
@@ -801,7 +801,7 @@
 不	pjuw	put
 可	khaX	khɔ̂
 以	yiX	jî
-齊	dzej	tshiȅi
+齊	dzej	tshȉ
 其	gi	khȉ
 家。	kae	kia
 所	srjoX	ʂû
@@ -810,7 +810,7 @@
 國	kwok	kwək
 必	pjit	pit
 先	sen	siɛn
-齊	dzej	tshiȅi
+齊	dzej	tshȉ
 其	gi	khȉ
 家	kae	kia
 者。	tsyaeX	tʃiɛ̂
@@ -844,7 +844,7 @@
 事	dzriH	ʂʐɨ̌
 君	kjun	kyun
 也。	yaeX	jiɛ̂
-弟	dejH	diěi
+弟	dejH	dǐ
 者	tsyaeX	tʃiɛ̂
 所	srjoX	ʂû
 以	yiX	jî
@@ -855,7 +855,7 @@
 者	tsyaeX	tʃiɛ̂
 所	srjoX	ʂû
 以	yiX	jî
-使	sriX	ʂî
+使	sriX	ʂɨ̂
 眾	tsyuwngH	tʃyǔŋ
 也。	yaeX	jiɛ̂
 康	khang	khɑŋ
@@ -908,7 +908,7 @@
 作	tsak	tsɔk
 亂。	lwanH	lwɔ̌n
 其	gi	khȉ
-機	kj+j	kiei
+機	kj+j	ki
 如	nyo	ʒy̏
 此。	tshjeX	tshɨ̂
 此	tshjeX	tshɨ̂
@@ -994,7 +994,7 @@
 治	dri/driH	tʃhȉ/dʒǐ
 國	kwok	kwək
 在	dzojX	dzǎi'
-齊	dzej	tshiȅi
+齊	dzej	tshȉ
 其	gi	khȉ
 家。	kae	kia
 詩	syi	ʃi
@@ -1031,11 +1031,11 @@
 宜	ngje	jȉ
 兄	xjwaeng	hyuəŋ
 宜	ngje	jȉ
-弟。	dejX	diěi'
+弟。	dejX	dǐ'
 宜	ngje	jȉ
-兄	xjwaeng	hyuŋ
+兄	xjwaeng	hyuəŋ
 宜	ngje	jȉ
-弟。	dejX	diěi'
+弟。	dejX	dǐ'
 而	nyi	ɻ̏
 後	huwX	ɦǒw'
 可	khaX	khɔ̂
@@ -1058,7 +1058,7 @@
 父	bjuX	fû
 子	tsiX	tsɨ̂
 兄	xjwaeng	hyuŋ
-弟	dejX	diěi'
+弟	dejX	dǐ'
 足	tsjowk	tsyuk
 法。	pjop	fap
 而	nyi	ɻ̏
@@ -1072,7 +1072,7 @@
 治	dri/driH	tʃhȉ/dʒǐ
 國	kwok	kwək
 在	dzojX	dzǎi'
-齊	dzej	tshiȅi
+齊	dzej	tshȉ
 其	gi	khȉ
 家。	kae	kia
 所	srjoX	ʂû
@@ -1098,7 +1098,7 @@
 而	nyi	ɻ̏
 民	mjin	mȉn
 興	xing	hiŋ
-弟。	dejH	diěi
+弟。	dejH	dǐ
 上	dzyangH	ʃʒiɑ̌ŋ
 恤	swit	syut
 孤	ku	ku
@@ -1122,7 +1122,7 @@
 上。	dzyangH	ʃʒiɑ̌ŋ
 毋	mju	vȕ
 以	yiX	jî
-使	sriX	ʂî
+使	sriX	ʂɨ̂
 下。	haeX	ɦiǎ'
 所	srjoX	ʂû
 惡	uH	ʔǔ
@@ -1214,7 +1214,7 @@
 巖。	ngaem	jiȁm
 赫	xaek	hək
 赫	xaek	hək
-師	srij	ʃi
+師	srij	ʂɨ
 尹。	ywinX	jîn
 民	mjin	mȉn
 具	kju	ky
@@ -1241,11 +1241,11 @@
 之	tsyi	tʃi
 未	mj+jH	vǐ
 喪	sangH	sɑ̌ŋ
-師。	srij	ʃi
+師。	srij	ʂɨ
 克	khok	khək
 配	phwojH	phǔi
 上	dzyangH	ʃʒiɑ̌ŋ
-帝。	tejH	tiěi
+帝。	tejH	tǐ
 儀	ngje	jȉ
 監	kaemH	kiǎm
 于	hju	jy̏
@@ -1662,7 +1662,7 @@
 不	pjuw	put
 察	tsrheat	tʂhat
 于	hju	jy̏
-雞	kej	kiei
+雞	kej	ki
 豚。	dwon	thȕn
 伐	bjot	fvȁt
 冰	ping	piŋ
@@ -1686,7 +1686,7 @@
 其	gi	khȉ
 有	hjuwX	jiôw
 聚	dzjuH	dzy̌'
-斂	ljemH	liɛ̏m
+斂	ljemH	liɛ̌m
 之	tsyi	tʃi
 臣。	dzyin	tʃhȉn
 甯	nengH	nǐŋ
@@ -1726,7 +1726,7 @@
 小	sjewX	siɛ̂w
 人	nyin	ʒȉn
 之	tsyi	tʃi
-使	sriX	ʂî
+使	sriX	ʂɨ̂
 爲	hjwe	ȕi
 國	kwok	kwək
 家。	kae	kia
