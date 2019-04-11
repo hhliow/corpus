@@ -451,7 +451,7 @@ kuŋ jiɛ̂ tʃɦiɑ̏ŋ dǐ ŋû
 · tsɨ̂ lǔ jiôw vȕn. vǐ tʃiɨ nə̏ŋ ɦȉŋ. vȉ khyûŋ jiôw vȕn.
 
 〇子貢問曰。孔文子何以謂之文也。子曰。敏而好學。不恥下問。是以謂之文也。
-· tsiX kuwngH mjunH hjwot. khungx mjun tsiX ha yiX hjw+jH tsyi mjun yaeX. tsiX hjwot. minX nyi xawH haewk. pjuw trhiX haeX mjunH. dzyeX yiX hjw+jH tsyi mjun yaeX.
+· tsiX kuwngH mjunH hjwot. khuwngx mjun tsiX ha yiX hjw+jH tsyi mjun yaeX. tsiX hjwot. minX nyi xawH haewk. pjuw trhiX haeX mjunH. dzyeX yiX hjw+jH tsyi mjun yaeX.
 · tsɨ̂ kǔŋ vǔn jyuɛ̏t. khûŋ vȕn tsɨ̂ ɦɔ̏ jî ǔi tʃiɨ vȕn jiɛ̂. tsɨ̂ jyuɛ̏t. mîn ɻ̏ hǎw ɦiɔ̏k. put tʃhî ɦiǎ' vǔn. ʃʒiɨ̌' jî ǔi tʃiɨ vȕn jiɛ̂.
 
 〇子謂子産。有君子之道四焉。其行己也恭。其事上也敬。其養民也惠。其使民也義。
@@ -695,7 +695,7 @@ zywit nyi dejH tshit
 · tsɨ̂ ʂû (ŋ)jiâ jiɛ̏n. ʃiɨ ʃy tʃip lî. kiai (ŋ)jiâ jiɛ̏n jiɛ̂.
 
 〇葉公問孔子於子路。子路不對。子曰。女奚不曰。其爲人也。發憤忘食。樂以忘憂。不知老之將至云爾。
-· syep kuwng mjunH khungx tsiX jo tsiX luH. tsiX luH pjuw twojH. tsiX hjwot. nyoX hej pjuw hjwot. gi hjwe nyin yaeX. pjot bjunX mjang zyik. lak yiX mjang juw. pjuw trje lawX tsyi tsjang tsyijH hjun nyeX.
+· syep kuwng mjunH khuwngx tsiX jo tsiX luH. tsiX luH pjuw twojH. tsiX hjwot. nyoX hej pjuw hjwot. gi hjwe nyin yaeX. pjot bjunX mjang zyik. lak yiX mjang juw. pjuw trje lawX tsyi tsjang tsyijH hjun nyeX.
 · ʃiɛp kuŋ vǔn khûŋ tsɨ̂ ʔy tsɨ̂ lǔ. tsɨ̂ lǔ put tǔi. tsɨ̂ jyuɛ̏t. ʒŷ ɦȉ put jyuɛ̏t. kɦȉ ȕi ʒȉn jiɛ̂. fat fvǔn' vɑ̏ŋ ʃʒȉk. lɔ̏k jî vɑ̏ŋ ʔiow. put tʃi lâw tʃiɨ tsiɑŋ tʃiɨ̌ jyȕn ɻ̂.
 
 〇子曰。我非生而知之者。好古敏以求之者也。
@@ -987,8 +987,80 @@ tsɨ̂ hɑ̂n dǐ kiôw
 · tɦɑ̏ŋ dǐ tʃiɨ hwa. phiɛn kɦȉ fân ɻ̏. khî put ɻ̂ sɨ. ʃit ʃʒiɨ̌' jyuɛ̂n ɻ̏. tsɨ̂ jyuɛ̏t. vǐ tʃiɨ sɨ jiɛ̂. fvȕ ɦɔ̏ jyuɛ̂n tʃiɨ jiôw.
 
 鄉黨第十
+xjang tangX dejH dzyip
+hiɑŋ tɑ̂ŋ dǐ ʃʒȉp
 
+〇孔子於鄉黨。恂恂如也。似不能言者。其在宗廟朝廷。便便言。唯謹爾。
+· khuwngX tsiX jo xjang tangX. swin swin nyo yaeX. ziX pjuw nong ngjon tsyaeX. gi dzojX tsowng mjewH drjew deng. bjien bjien ngjon. ywij kj+nX nyeX.
+· khûŋ tsɨ̂ ʔy hiɑŋ tɑ̂ŋ. syun syun ʒy̏ jiɛ̂. szɨ̌' put nə̏ŋ jiɛ̏n tʃiɛ̂. kɦȉ dzǎi' tsuŋ miɛ̌w tʃɦiɛ̏w tɦȉŋ. pɦiɛ̏n pɦiɛ̏n jiɛ̏n. vȉ kîn ɻ̂.
 
+〇朝與下大夫言。侃侃如也。與上大夫言。誾誾如也。君在。踧踖如也。與與如也。
+· drjew yoX haeX dajH pju ngjon. khanH khanH nyo yaeX. yoX dzyangH dajH pju ngjon. ngin ngin nyo yaeX. kjun dzojX. tsjuwk tsjek nyo yaeX. yo yo nyo yaeX.
+· tʃɦiɛ̏w jŷ ɦiǎ' dǎi fu jiɛ̏n. khɑ̌n khɑ̌n ʒy̏ jiɛ̂. jŷ ʃʒiɑ̌ŋ dǎi fu jiɛ̏n. (ŋ)jȉn (ŋ)jȉn ʒy̏ jiɛ̂. kyun dzǎi'. tsyuk tsik ʒy̏ jiɛ̂. jy̏ jy̏ ʒy̏ jiɛ̂.
+
+〇君召使擯。色勃如也。足躩如也。揖所與立。左右手。衣前後。襜如也。趨進。翼如也。賓退。必復命曰。賓不顧矣。
+· kjun drjewH sriX pjinH. srik bwot nyo yaeX. tsjowk khjwak nyo yaeX. jip srjoX yoX lip. tsaX hjuwX syuwX. j+j dzen huwX. tsyhemH nyo yaeX. tshju tsinH. yik nyo yaeX. pjin thwojH. pjit bjuwk mjaengH hjwot. pjin pjuw kuH hiX.
+· kyun dʒiɛ̌w ʂɨ̂ pǐn. ʂək bȕt ʒy̏ jiɛ̂. tsyuk khyuɔk ʒy̏ jiɛ̂. ʔip ʂû jŷ lȉp. tsɔ̂ jiôw/jiǒw ʃiôw. ʔi tsɦiɛ̏n ɦǒw'. tʃhiɛ̌m ʒy̏ jiɛ̂. tshy tsǐn. jȉk ʒy̏ jiɛ̂. pin thǔi. pit fvȕk mǐŋ jyuɛ̏t. pin put kǔ jî.
+
+〇入公門。鞠躬如也。如不容。立不中門。行不履閾。過位。色勃如也。足躩如也。其言似不足者。攝齊升堂。鞠躬如也。屏氣似不息者。出、降一等。逞顏色。怡怡如也。沒階趨。翼如也。復其位。踧踖如也。
+· nyip kuwng mwon. kjuwk kjuwng nyo yaeX. nyo pjuw yowng. lip pjuw trjuwngH mwon. haeng pjuw lijX hwik. kwa hwijH. srik bwot nyo yaeX. tsjowk khjwak nyo yaeX. gi ngjon ziX pjuw tsjowk tsyaeX. syep tsij sying dang. kjuwk kjuwng nyo yaeX. pjiengX khj+jH ziX pjuw sik tsyaeX. tsyhwit, kaewngH jit tongX. trhjengX ngaen srik. yi yi nyo yaeX. mwot keaj tshju. yik nyo yaeX. bjuwk gi hwijH. tsjuwk tsjek nyo yaeX.
+· ʒȉp kuŋ mȕn. kyuk kyuŋ ʒy̏ jiɛ̂. ʒy̏ put jyȕŋ. lȉp put tʃyǔŋ mȕn. ɦȉŋ put lî jyuə̏k. kwɔ ǔi. ʂək bȕt ʒy̏ jiɛ̂. tsyuk khyuɔk ʒy̏ jiɛ̂. kɦȉ jiɛ̏n szɨ̌' put tsyuk tʃiɛ̂. ʃiɛp tsɨ ʃiŋ tɦɑ̏ŋ. kyuk kyuŋ ʒy̏ jiɛ̂. pîŋ khǐ szɨ̌' put sik tʃiɛ̂. tʃhyut, kiɑ̌ŋ ʔit tə̂ŋ. tʃhîŋ (ŋ)jiȁn ʂək. jȉ jȉ ʒy̏ jiɛ̂. mȕt kiai tshy. jȉk ʒy̏ jiɛ̂. fvȕk kɦȉ ǔi. tsyuk tsik ʒy̏ jiɛ̂.
+
+〇執圭。鞠躬如也。如不勝。上如揖。下如授。勃如戰色。足縮縮。如有循。享禮、有容色。私覿。愉愉如也。
+· tsyip kwej. kjuwk kjuwng nyo yaeX. nyo pjuw sying. dzyangX nyo jip. haeX nyo dzyuwH. bwot nyo tsyenH srik. tsjowk srjuwk srjuwk. nyo hjuwX zwin. xjangX lejX, hjuwX yowng srik. sij dek. yu yu nyo yaeX.
+· tʃip kui. kyuk kyuŋ ʒy̏ jiɛ̂. ʒy̏ put ʃiŋ. ʃʒiɑ̌ŋ' ʒy̏ ʔip. ɦiǎ' ʒy̏ ʃʒiǒw. bȕt ʒy̏ tʃiɛ̌n ʂək. tsyuk ʂuk ʂuk. ʒy̏ jiôw szyȕn. hiɑ̂ŋ lî, jiôw jyȕŋ ʂək. sɨ dȉk. jy̏ jy̏ ʒy̏ jiɛ̂.
+
+〇君子不以紺緅飾。紅紫不以爲褻服。當暑紾絺綌。必表而出之。緇衣羔裘。素衣麑裘。黃衣狐裘。褻裘長。短右袂。必有寢衣。長一身有半。狐貉之厚以居。去喪無所不佩。非帷裳。必殺之。羔裘玄冠不以弔。吉月。必朝服而朝。
+· kjun tsiX pjuw yiX komH tsrjuw syik. huwng tsjeX pjuw yiX hjwe sjet bjuwk. tang syoX tsyinX trhij khjaek. pjit pjewX nyi tsyhwijH tsyi. tsri j+j kaw gjuw. suH j+j ngej gjuw. hwang j+j hu gjuw. sjet gjuw drjang. twanX hjuwX mjiejH. pjit hjuwX tshimX j+j. drjangH jit syin hjuwH panH. hu hak tsyi huwX yiX kjo. khjoX sang mju srjoX pjuw bwojH. pj+j hwij dzyang. pjit sreajH tsyi. kaw gjuw hwen kwan pjuw yiX tewH. kjit ngjwot. pjit drjew bjuwk nyi drjew.
+· kyun tsɨ̂ put jî kǎm ʈʂow ʃik. ɦȕŋ tsɨ̂ put jî ȕi siɛt fvȕk. tɑŋ ʃŷ tʃîn tʃhi khik. pit piɛ̂w ɻ̏ ʈʂhǔi tʃiɨ. ʈʂɨ ʔi kaw kɦiȍw. sǔ ʔi ŋȉ kɦiȍw. ɦwɑ̏ŋ ʔi ɦȕ kɦiȍw. siɛt kɦiȍw tʃɦiɑ̏ŋ. twɔ̂n jiôw/jiǒw mǐ. pit jiôw tshîm ʔi. dʒiɑ̌ŋ ʔit ʃin jiǒw pwɔ̌n. ɦȕ ɦɔ̏k tʃiɨ ɦǒw' jî ky. khŷ sɑŋ vȕ ʂû put bǔi. fi ȕi (t)ʃɦiɑ̏ŋ. pit ʂǎi tʃiɨ. kaw kɦiȍw ɦyuɛ̏n kwɔn put jî tiɛ̌w. kit jyuɛ̏t. pit tʃɦiɛ̏w fvȕk ɻ̏ tʃɦiɛ̏w.
+
+〇齊、必有明衣、布。齊必變食。居必遷坐。
+· tsreaj, pjit hjuwX mjaeng j+j, puH. tsreaj pjit pjenH zyik. kjo pjit tshjen dzwaX.
+· ʈʂai, pit jiôw mȉŋ ʔi, pǔ. ʈʂai pit piɛ̌n ʃʒȉk. ky pit tshiɛn dzwɔ̌'.
+
+〇食不厭精。膾不厭細。食饐而餲。魚餒。而肉敗不食。色惡不食。臭惡不食。失飪不食。不時不食。割不正不食。不得其醬不食。肉雖多。不使勝食氣。唯酒無量。不及亂。沽酒市脯不食。不撤薑食。不多食。祭於公。不宿肉。祭肉、不出三日。出三日。不食之矣。食不語。寢不言。雖疏食菜羹瓜。祭。必齊如也。
+· ziH pjuw jiemH tsjeng. kwajH pjuw jiemH sejH. ziH ijH nyi aejH. ngjo nwojX. nyi nyuwk baejH pjuw zyik. srik ak pjuw zyik. xjuwH ak pjuw zyik. syit nyimX pjuw zyik. pjuw dzyi pjuw zyik. kat pjuw tsyengH pjuw zyik. pjuw tok gi tsjangH pjuw zyik. nyuwk swij ta. pjuw sriX syingH ziH (k)hj+jH. ywij tsjuwX mju ljangH. pjuw gip lwanH. ku tsjuwX dzyiX pjuX pjuw zyik. pjuw trhjet kjang zyik. pjuw ta zyik. tsjejH jo kuwng. pjuw sjuwk nyuwk. tsjejH nyuwk, pjuw tsyhwit sam nyit. tsyhwit sam nyit. pjuw zyik tsyi hiX. zyik pjuw ngjoX. tshimX pjuw ngjon. swij srjo ziH tshojH kaeng kwae. tsjejH. pjit dzej nyo yaeX.
+· szǐ put ʔiɛ̌m tsiŋ. kǔi put ʔiɛ̌m sǐ. szǐ ʔǐ ɻ̏ ʔ(i)ǎi. ŋy̏ nûi. ɻ̏ ʒyȕk bǎi put ʃʒȉk. ʂək ʔɔk put ʃʒȉk. hiǒw ʔɔk put ʃʒȉk. ʃit ʒîm put ʃʒȉk. put ʃʒiɨ̏ put ʃʒȉk. kɔt put tʃǐŋ put ʃʒȉk. put tək kɦȉ tsiɑ̌ŋ put ʃʒȉk. ʒyȕk sui tɔ. put ʂɨ̂ ʃǐŋ szǐ (k)hǐ. vȉ tsiôw vȕ liɑ̌ŋ. put gȉp lwɔ̌n. ku tsiôw ʃʒiɨ̌' fû put ʃʒȉk. put tʃhiɛt kiɑŋ ʃʒȉk. put tɔ ʃʒȉk. tsǐ ʔy kuŋ. put syuk ʒyȕk. tsǐ ʒyȕk, put tʃhyut sam ʒȉt. tʃhyut sam ʒȉt. put ʃʒȉk tʃiɨ jî. ʃʒȉk put ŋŷ. tshîm put jiɛ̏n. sui ʂu szǐ tshǎi kəŋ kwa. tsǐ. pit tsɦȉ ʒy̏ jiɛ̂.
+
+〇席不正不坐。
+· zjek pjuw tsyengH pjuw dzwaX.
+· szȉk put tʃǐŋ put dzwɔ̌'.
+
+〇鄉人飲酒。杖者出。斯出矣。鄉人儺。朝服而立於阼階。
+· xjang nyin imX tsjuwX. drjangX tsyaeX tsyhwit. sje tsyhwit hiX. xjang nyin na. drjew bjuwk nyi lip jo dzuH keaj.
+· hiɑŋ ʒȉn ʔîm tsiôw. dʒiɑ̌ŋ' tʃiɛ̂ tʃhyut. sɨ tʃhyut jî. hiɑŋ ʒȉn nɔ̏. tʃɦiɛ̏w fvȕk ɻ̏ lȉp ʔy dzǔ kiai.
+
+〇問人於他邦。再拜而送之。康子饋藥。拜而受之。曰。丘未達。不敢嘗。
+· mjunH nyin jo tha paewng. tsojH peajH nyi suwngH tsyi. khang tsiX gwijH yak. peajH nyi dzyuwX tsyi. hjwot. khjuw mj+jH dat. pjuw kamX dzyang.
+· vǔn ʒȉn ʔy thɔ pɑŋ. tsǎi pǎi ɻ̏ sǔŋ tʃiɨ. khɑŋ tsɨ̂ gǔi jiɔ̏k. pǎi ɻ̏ ʃʒiǒw' tʃiɨ. jyuɛ̏t. khiow vǐ dȁt. put kâm (t)ʃɦiɑ̏ŋ.
+
+〇廄焚。子退朝。曰。傷人乎。不問馬。
+· kjuwH bjun. tsiX thwojH drjew. hjwot. syang nyin hu. pjuw mjunH maeX.
+· kiǒw fvȕn. tsɨ̂ thǔi tʃɦiɛ̏w. jyuɛ̏t. ʃiɑŋ ʒȉn ɦȕ. put vǔn mâ.
+
+〇君賜食。必正席先嘗之。君賜腥。必熟而薦之。君賜生。必畜之。侍食於君。君祭先飯。疾。君視之。東首加朝服拖紳。君命召。不俟駕行矣。
+· kjun sjeH zyik. pjit tsyengH zjek sen dzyang tsyi. kjun sjeH seng. pjit dzyuwk nyi tsenH tsyi. kjun sjeH srjaeng. pjit xjuwk tsyi. dzyiH zyik jo kjun. kjun tsjejH sen bjonX. dzit. kjun dzyijH tsyi. tuwng syuwH kae drjew bjuwk daX syin. kjun mjaengH drjewH. pjuw zriX kaeH haeng hiX.
+· kyun sɨ̌ ʃʒȉk. pit tʃǐŋ szȉk siɛn (t)ʃɦiɑ̏ŋ tʃiɨ. kyun sɨ̌ siŋ. pit ʃʒyȕk ɻ̏ tsiɛ̌n tʃiɨ. kyun sɨ̌ ʂəŋ. pit hyuk tʃiɨ. ʃʒiɨ̌ ʃʒȉk ʔy kyun. kyun tsǐ siɛn fvân. dzȉt. kyun ʃʒiɨ̌ tʃiɨ. tuŋ ʃiǒw kia tʃɦiɛ̏w fvȕk dɔ̌' ʃin. kyun mǐŋ dʒiɛ̌w. put ʂʐ/szɨ̌' kiǎ ɦȉŋ jî.
+
+〇入大廟。每事問。
+· nyip thajH mjewH. mwojX dzriH mjunH.
+· ʒȉp thǎi miɛ̌w. mûi ʂʐɨ̌ vǔn.
+
+〇朋友死。無所歸。曰。於我殯。朋友之饋。雖車馬。非祭肉不拜。
+· bong hjuwX sijX. mju srjoX kjw+j. hjwot. jo ngaX pjinH. bong hjuwX tsyi gwijH. swij tsyhae maeX. pj+j tsjejH nyuwk pjuw peajH.
+· pɦə̏ŋ jiôw sɨ̂. vȕ ʂû kui. jyuɛ̏t. ʔy ŋɔ̂ pǐn. pɦə̏ŋ jiôw tʃiɨ gǔi. sui tʃhiɛ mâ. fi tsǐ ʒyȕk put pǎi.
+
+〇寢不尸。居不容。見齊衰者。雖狎必變。見冕者。與瞽者。雖褻必以貌。凶服者式之。式負版者。有盛饌。必變色而作。迅雷風烈必變。
+· tshimX pjuw syij. kjo pjuw yowng. kenH tsij tshwoj tsyaeX. swij haep pjit pjenH. kenH mjenX tsyaeX. yoX kuX tsyaeX. swij sjet pjit yiX maewH. xjowng bjuwk tsyaeX syik tsyi. syik bjuwX paenX tsyaeX. hjuwX dzyengH dzrwaenX. pjit pjenH srik nyi tsak. sinH lwoj pjuwng ljet pjit pjenH.
+· tshîm put ʃiɨ. ky put jyȕŋ. kiɛ̌n tsɨ tshui tʃiɛ̂. sui ɦiȁp pit piɛ̌n. kiɛ̌n miɛ̂n tʃiɛ̂. jŷ kû tʃiɛ̂. sui siɛt pit jî mǎw. hyuŋ fvȕk tʃiɛ̂ ʃik tʃiɨ. ʃik fvǒw' pân tʃiɛ̂. jiôw ʃʒǐŋ ɖʐwǎn'. pit piɛ̌n ʂək ɻ̏ tsɔk. sǐn lȕi fuŋ liɛ̏t pit piɛ̌n.
+
+〇升車必正立執綏。車中不內顧。不疾言。不親指。
+· sying tsyhae pjit tsyengH lip tsyip swij. tsyhae trjuwng pjuw nwojH kuH. pjuw dzit ngjon. pjuw tshin tsyijX.
+· ʃiŋ tʃhiɛ pit tʃǐŋ lȉp tʃip sui. tʃhiɛ tʃyuŋ put nǔi kǔ. put dzȉt jiɛ̏n. put tshin tʃiɨ̂.
+
+〇色斯舉矣。翔而後集。曰。山梁雌雉。時哉時哉。子路共之。三嗅而作。
+· srik sje kjoX hiX. zjang nyi huwX dzip. hjwot. srean ljang tshje drijX. dzyi tsoj dzyi tsoj. tsiX luH kjowngH tsyi. samH xjuwH nyi tsak.
+· ʂək sɨ kŷ jî. sziɑ̏ŋ ɻ̏ ɦǒw' dzȉp. jyuɛ̏t. ʂan liɑ̏ŋ tshɨ dʒǐ'. ʃʒiɨ̏ tsai ʃʒiɨ̏ tsai. tsɨ̂ lǔ kyǔŋ tʃiɨ. sǎm hiǒw ɻ̏ tsɔk.
 
 先進第十一
 
