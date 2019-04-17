@@ -6,12 +6,23 @@
 # Compiled by hhliow.
 # Work in progress.
 
-梁恵王章句上 　凡七章
-0.以為{hjweH·ǔi} 
-1.放{pjangX·fɑ̂ŋ}於 夷羿{ngejH·ŋǐ} 饜{’jiem/’jiemH·ʔiɛm/ʔiɛ̌m} 復{bjuwH·fvǒw}申 重{drjowngH·dʒyǔŋ}嗟 
-2.亦樂{lak·lɒ̏k} 王好{xawH·hǎw} 集穆 夸咤{trhaeH·ʈʂhǎ} 規度{dak·dɒ̏k} 亟{kik·kik} 不督{towk·tuk} 來趣{tshju/tshjuH·tshy/tshy̌} 麀 鶴{haewk·ɦiɒ̏k}鶴{haewk·ɦiɒ̏k} 於{’jo·ʔy}牣{nyinH·ʒǐn} 歡樂 害{hajH/hat·ɦǎi/ɦɔ̏t}䘮 及女{nyoX·ʒŷ} 
-3.大{thajH·thǎi}平 填{den·tɦiɛ̏n}然 者不{pjuwX·fôw} 直{drik/driH·dʒȉk/dʒǐ}不 勝{sying·ʃiŋ}食 數{tshjowk·tshjuk}罟{kuX·kû} 洿{’u·ʔu} 䘮死 衣{’j+jH·ʔǐ}帛 數{srjuX?·ʂû?}口 不王{hjwangH·wɑ̌ŋ}者 風{pjuwngH·fǔŋ}王 餓莩{bjewX·biɛ̌w'} 莩{bjiewX/bjewX·biɛ̌w'}有梅 刺{tshjek/tshjeH·tshik/tshɨ̌}人 改行{haengH·ɦǐŋ} 
-4.以梃{dengX·dǐŋ'} 惡{’uH·ʔǔ}之 惡{’u·ʔu}在 俑{yowngX·jyûŋ} 夫{bju·fvȕ}惡 死邪{yae·jiɛ̏} 
-5.長{trjangX·tʃiɑ̂ŋ}子 洒{sejX?·sî?}之 省{srjaengX·ʂə̂ŋ}刑 税斂{ljemH·liɛ̌m} 易{yeH·jǐ}耨{nuwH·nǒw} 以養{yangH·jiɑ̌ŋ} 
-6.語{ngjoH·ŋy̌}人 卒{tshwot·tshut}然 槁{khawX·khâw} 沛{phajH·phǔi} 浡{bwot·bȕt} 由{yuw·jiȍw}水 
-7.宓{bjuwk·fvȕk} 戯{hje·hi} 齕{hot·ɦə̏t} 釁{xinH·hǐn} 舍{syaeX·ʃiɛ̂}之 觳{huwk·ɦȕk}觫{suwk·suk} 鐘與{yo·jy̏} 郄{khjaek·khik} 大{thajH·thǎi}祝 墮{xjwie·hui} 逺{hjwonH·jyuɛ̌n}庖 王説{ywet·jyuɛ̏t} 挾{hep·ɦiɛ̏p} 以超 折{tsyet·tʃiɛt}枝 罷{bje·pɦȉ}枝 少{syewH·ʃiɛ̌w}者 以御 思齊{tsreaj·ʈʂai} 適{tek·tik}妻 好{xawH·hǎw}惡{’uH·ʔǔ} 度{dak·dɒ̏k}之 便{bjien·pɦiɛ̏n}嬖{bjiek·bȉk} 辟{bjiek·bȉk}土 賈{kuX·kû} 愬{suH·sǔ} 惽{xwon·hun} 放辟{phjiek·phik} 邪侈{tsyheX·tʃhiɨ̂} 為已{yiX·jî} 罔民 焉{’jen·ʔiɛn}有 以畜{xjuwk·hyuk} 當{tangH·tɑ̌ŋ}章 譎{kwet·kyuɛt} 
+孟子音義巻上 宋孫奭撰
+0. 孟子題辭 趙氏 通稱{tsyhingH·tʃhǐŋ} 邾{trju·tʃy} 所并{pjiengH·pǐŋ} 長{trjangX·tʃiɑ̂ŋ}師 縱{tsjowng·tsyuŋ} 隳{xjwie·hui} 墨翟{dek·dȉk} 壅底{tejX·tiɪ̂i} 迂{’ju/hju·ʔy/jy̏} 值{driH·dʒǐ}炎 信{syin·ʃin}三 詒{yi·jȉ}後 難{nanH·nǎn}疑 繫{hejH·ɦiɪ̌i} 錧{kwanX·kwɔ̂n}鎋{haet·ɦiȁt} 衿{kim·kim} 問陳{drinH·dʒǐn} 毁鬲{keak/lek·kək/lȉk} 焉{’jen·ʔiɛn}能 依放{pjangX·fɑ̂ŋ} 遂絀{trhwit·tʃhyut} 罷傳{drjwenH·dʒyuɛ̌n} 心勦{tsjewX·tsiɛ̂w} 形瘵{tsreajH·ʈʂǎi} 弛{syeX·ʃiɨ̂}擔{tamH·tǎm} 睠{kjwenH·kyuɛ̌n} 漂{phjiew·phiɛw} 亂思{siH·sɨ̌} 緼{’junX·ʔyûn}奥 章别{pjet·piɛt} 
+
+梁恵王章句上 凡七章
+0. 以為{hjweH·ǔi} 
+1. 放{pjangX·fɑ̂ŋ}於 夷羿{ngejH·ŋǐ} 饜{’jiem/’jiemH·ʔiɛm/ʔiɛ̌m} 復{bjuwH·fvǒw}申 重{drjowngH·dʒyǔŋ}嗟 
+2. 亦樂{lak·lɒ̏k} 王好{xawH·hǎw} 集穆 夸咤{trhaeH·ʈʂhǎ} 規度{dak·dɒ̏k} 亟{kik·kik} 不督{towk·tuk} 來趣{tshju/tshjuH·tshy/tshy̌} 麀 鶴{haewk·ɦiɒ̏k}鶴{haewk·ɦiɒ̏k} 於{’jo?·ʔy?}牣{nyinH·ʒǐn} 歡樂 害{hajH/hat·ɦǎi/ɦɔ̏t}䘮 及女{nyoX·ʒŷ} 
+3. 大{thajH·thǎi}平 填{den·tɦiɛ̏n}然 者不{pjuwX·fôw} 直{drik/driH·dʒȉk/dʒǐ}不 勝{sying·ʃiŋ}食 數{tshjowk·tshjuk/tshuk}罟{kuX·kû} 洿{’u·ʔu} 䘮死 衣{’j+jH·ʔǐ}帛 數{srjuX?·ʂû?}口 不王{hjwangH·wɑ̌ŋ}者 風{pjuwngH·fǔŋ}王 餓莩{bjewX·biɛ̌w'} 莩{bjiewX/bjewX·biɛ̌w'}有梅 刺{tshjek/tshjeH·tshik/tshɨ̌}人 改行{haengH·ɦǐŋ} 
+4. 以梃{dengX·dǐŋ'} 惡{’uH·ʔǔ}之 惡{’u·ʔu}在 俑{yowngX·jyûŋ} 夫{bju·fvȕ}惡 死邪{yae·jiɛ̏} 
+5. 長{trjangX·tʃiɑ̂ŋ}子 洒{sejX?·sî?}之 省{srjaengX·ʂə̂ŋ}刑 税斂{ljemH·liɛ̌m} 易{yeH·jǐ}耨{nuwH·nǒw} 以養{yangH·jiɑ̌ŋ} 
+6. 語{ngjoH·ŋy̌}人 卒{tshwot·tshut}然 槁{khawX·khâw} 沛{phajH·phǔi} 浡{bwot·bȕt} 由{yuw·jiȍw}水 
+7. 宓{bjuwk·fvȕk} 戯{hje·hi} 齕{hot·ɦə̏t} 釁{xinH·hǐn} 舍{syaeX·ʃiɛ̂}之 觳{huwk·ɦȕk}觫{suwk·suk} 鐘與{yo·jy̏} 郄{khjaek·khik} 大{thajH·thǎi}祝 墮{xjwie·hui} 逺{hjwonH·jyuɛ̌n}庖 王説{ywet·jyuɛ̏t} 挾{hep·ɦiɛ̏p} 以超 折{tsyet·tʃiɛt}枝 罷{bje·pɦȉ}枝 少{syewH·ʃiɛ̌w}者 以御 思齊{tsreaj·ʈʂai} 適{tek·tik}妻 好{xawH·hǎw}惡{’uH·ʔǔ} 度{dak·dɒ̏k}之 便{bjien·pɦiɛ̏n}嬖{pejH/pjieH·pǐ} 辟{bjiek·bȉk}土 賈{kuX·kû} 愬{suH·sǔ} 惽{xwon·hun} 放辟{phjiek·phik} 邪侈{tsyheX·tʃhiɨ̂} 為已{yiX·jî} 罔民 焉{’jen·ʔiɛn}有 以畜{xjuwk·hyuk} 當{tangH·tɑ̌ŋ}章 譎{kwet·kyuɛt} 
+
+梁恵王章句下 凡十六章
+1. 暴見{henH·ɦiɛ̌n} 王語{ngjoH·ŋy̌} 好{xawH·hǎw}樂 愠{’junH·ʔyǔn} 恚{’jwieH·ʔǔi/ɦǔi} 與民同樂{lak·lɔ̏k} 聞與{yo·jy̏} 獨樂{ngaewk· jiɔ̏k}樂{lak·lɔ̏k} 孰樂{lak·lɔ̏k} 為{hjweH·ǔi}王 舉疾首蹙{tsjuwk·tsyuk}頞{’at·ʔɔt} 隙{khjaek·khik} 何惡{’uH·ʔǔ} 
+2. 於傳{drjwenH·dʒyuɛ̌n} 蕘{nyew·ʒiɛ̏w} 刈{ngjojH·ŋǐ} 為阱{dzjengH·dzǐŋ} 
+3. 混{kwon·kun}夷 喙{xjwojH·hǔi} 大{thajH·thǎi}王 獯{xjun·hyun}鬻{yuwk·jyȕk} 勾{kuw·kow}踐 㑹{kwajH·kǔi} 夫{bju·fvȕ}差 樂{lak·lɔ̏k}天 彼惡{’u·ʔu} 瞋{tsyhin·tʃhin} 書曰天降下民至越厥志 衡{hwaeng?·ɦwə̏ŋ?}行 
+4. 從{tsjowngH·tsyǔŋ}欲 為{hjweH·ǔi}之赴難{nanH·nǎn} 朝儛{mjuX·vû} 放{pjangX·fɑ̂ŋ} 琅{lang·lɑ̏ŋ} 邪{yae·jiɛ̏} 王觀{kwanH?·kwɔ̌n?} 其相{sjangH·siɑ̌ŋ} 春省{sjengX·sîŋ} 從{tshjowng·tshyuŋ}容 睊{kwen·kyuɛn}睊{kwen·kyuɛn} 慝{thok·thək} 湎{mjienX·miɛ̂n} 蹯{bjon·fvȁn} 行{haengH·ɦǐŋ}也 無厭{’jiem?·ʔiɛm?} 公説{ywet·jyuɛ̏t} 徴招{dzyew·ʃʒiɛ̏w} 畜{xjuwk·hyuk}君 
+5. 孥{nu·nȕ} 譏難{nanH·nǎn} 惡{’uH·ʔǔ}惡{’ak·ʔɔk} 哿{kaX·kɔ̂}矣 煢{gjwieng·kɦyuə̏ŋ} 糇{huw·hə̏w} 橐{thak·thɔk} 思戢{dzip·dzȉp} 啓行{hang·ɦɑ̏ŋ} 裹盛{dzyeng·tʃɦȉŋ} 滸{xuX·hû} 恂{swin·syun} 
+6.
