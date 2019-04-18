@@ -7,8 +7,8 @@
 # Work in progress.
 
 學而第一
-haewk nyi dejH ’jit
-ɦiɔ̏k ɻ̏ dǐ ʔit
+haewk nyi dejH ’jit 
+ɦiɔ̏k ɻ̏ dǐ ʔit 
 
 〇子曰。學而時習之。不亦說乎。有朋自遠方來。不亦樂乎。人不知而不慍。不亦君子乎。
 · tsiX hjwot. haewk nyi dzyi zip tsyi. pjuw yek ywet hu. hjuwX bong dzijH hjwonX pjang loj. pjuw yek lak hu. nyin pjuw trje nyi pjuw ’junH. pjuw yek kjun tsiX hu.
@@ -468,7 +468,7 @@ kuŋ jiɛ̂ tʃɦiɑ̏ŋ dǐ ŋû
 
 〇子張問曰。令尹子文。三仕爲令尹。無喜色。三已之。無愠色。舊令尹之政。必以告新令尹。何如。子曰。忠矣。曰。仁矣乎。曰。未知。焉得仁。崔子弑齊君。陳文子有馬十乗。棄而違之。至於他邦。則曰猶吾大夫崔子也。違之。之一邦。則又曰猶吾大夫崔子也。違之。何如。子曰。清矣。曰。仁矣乎。曰。未知。焉得仁。
 · tsiX trjang mjunH hjwot. ljengH ywinX tsiX mjun. samH dzriX hjwe ljengH ywinX. mju xiX srik. samH yiX tsyi. mju ’junH srik. gjuwH ljengH ywinX tsyi tsyengH. pjit yiX kawH sin ljengH ywinX. ha nyo. tsiX hjwot. trjuwng hiX. hjwot. nyin hiX hu. hjwot. mj+jH trje. ’jen tok nyin. tshwoj tsiX syiH dzej kjun. drin mjun tsiX hjuwX maeX dzyip zyingH. khjijH nyi hjw+j tsyi. tsyijH ’jo tha paewng. tsok hjwot yuw ngu dajH pju tshwoj tsiX yaeX. hjw+j tsyi. tsyi ’jit paewng. tsok hjuwH hjwot yuw ngu dajH pju tshwoj tsiX yaeX. hjw+j tsyi. ha nyo. tsiX hjwot. tshjeng hiX. hjwot. nyin hiX hu. hjwot. mj+jH trje. ’jen tok nyin.
-· tsɨ̂ tʃiɑŋ vǔn jyuɛ̏t. lǐŋ jîn tsɨ̂ vȕn. sam ʂʐɨ̌’ ȕi lǐŋ jîn. vȕ hî ʂək. sam jî tʃiɨ. vȕ ʔyǔn ʂək. giǒw lǐŋ jîn tʃiɨ tʃǐŋ. pit jî kǎw sin lǐŋ jîn. ɦɔ̏ ʒy̏. tsɨ̂ jyuɛ̏t. tʃyuŋ jî. jyuɛ̏t. ʒȉn jî ɦȕ. jyuɛ̏t. vǐ tʃi. ʔiɛn tək ʒȉn. tshui tsɨ̂ ʃiɨ̌ tsɦȉ kyun. tʃɦȉn vȕn tsɨ̂ jiôw mâ ʃʒȉp ʃʒǐŋ. khǐ ɻ̏ ȕi tʃiɨ. tʃiɨ̌ ʔy tha pɑŋ. tsək jyuɛ̏t jiȍw ŋȕ dǎi fu tshui tsɨ̂ jiɛ̂. ȕi tʃiɨ. tʃiɨ ʔit pɑŋ. tsək jiǒw jyuɛ̏t jiȍw ŋȕ dǎi fu tshui tsɨ̂ jiɛ̂. ȕi tʃiɨ. ɦɔ̏ ʒy̏. tsɨ̂ jyuɛ̏t. tshiŋ jî. jyuɛ̏t. ʒȉn jî ɦȕ. jyuɛ̏t. vǐ tʃi. ʔiɛn tək ʒȉn.
+· tsɨ̂ tʃiɑŋ vǔn jyuɛ̏t. lǐŋ j(y)în tsɨ̂ vȕn. sam ʂʐɨ̌’ ȕi lǐŋ j(y)în. vȕ hî ʂək. sam jî tʃiɨ. vȕ ʔyǔn ʂək. giǒw lǐŋ j(y)în tʃiɨ tʃǐŋ. pit jî kǎw sin lǐŋ j(y)în. ɦɔ̏ ʒy̏. tsɨ̂ jyuɛ̏t. tʃyuŋ jî. jyuɛ̏t. ʒȉn jî ɦȕ. jyuɛ̏t. vǐ tʃi. ʔiɛn tək ʒȉn. tshui tsɨ̂ ʃiɨ̌ tsɦȉ kyun. tʃɦȉn vȕn tsɨ̂ jiôw mâ ʃʒȉp ʃʒǐŋ. khǐ ɻ̏ ȕi tʃiɨ. tʃiɨ̌ ʔy tha pɑŋ. tsək jyuɛ̏t jiȍw ŋȕ dǎi fu tshui tsɨ̂ jiɛ̂. ȕi tʃiɨ. tʃiɨ ʔit pɑŋ. tsək jiǒw jyuɛ̏t jiȍw ŋȕ dǎi fu tshui tsɨ̂ jiɛ̂. ȕi tʃiɨ. ɦɔ̏ ʒy̏. tsɨ̂ jyuɛ̏t. tshiŋ jî. jyuɛ̏t. ʒȉn jî ɦȕ. jyuɛ̏t. vǐ tʃi. ʔiɛn tək ʒȉn.
 
 〇季文子三思而後行。子聞之曰。再。斯可矣。
 · kjwijH mjun tsiX samH si nyi huwX haeng. tsiX mjun tsyi hjwot. tsojH. sje khaX hiX.
@@ -524,7 +524,7 @@ kuŋ jiɛ̂ tʃɦiɑ̏ŋ dǐ ŋû
 
 〇子謂仲弓曰。犂牛之子。騂且角。雖欲勿用。山川其舍諸。
 · tsiX hjw+jH drjuwngH kjuwng hjwot. lij ngjuw tsyi tsiX. sjweng tshjaeX kaewk. swij yowk mjut yowngH. srean tsyhwen gi syaeX tsyo.
-· tsɨ̂ ǔi dʒyǔŋ kyuŋ jyuɛ̏t. lȉ jiȍw tʃiɨ tsɨ̂. syuəŋ tshiɛ̂ kiɔk. sui jyȕk vȕt jyǔŋ. ʂan tʃhyuɛn kɦȉ ʃiɛ̂ tʃy.
+· tsɨ̂ ǔi dʒyǔŋ kyuŋ jyuɛ̏t. lȉ (ŋ)jiȍw tʃiɨ tsɨ̂. syuəŋ tshiɛ̂ kiɔk. sui jyȕk vȕt jyǔŋ. ʂan tʃhyuɛn kɦȉ ʃiɛ̂ tʃy.
 
 〇子曰。回也其心三月不違仁。其餘則日月至焉而已矣。
 · tsiX hjwot. hwoj yaeX gi sim sam ngjwot pjuw hjw+j nyin. gi yo tsok nyit ngjwot tsyijH hjen nyi yiX hiX.
@@ -540,7 +540,7 @@ kuŋ jiɛ̂ tʃɦiɑ̏ŋ dǐ ŋû
 
 〇伯牛有疾。子問之。自牖執其手。曰。亡之。命矣夫。斯人也、而有斯疾也。斯人、也而有斯疾也。
 · paek ngjuw hjuwX dzit. tsiX mjunH tsyi. dzijH yuwX tsyip gi syuwX. hjwot. mjang tsyi. mjaengH hiX bju. sje nyin yaeX, nyi hjuwX sje dzit yaeX. sje nyin, yaeX nyi hjuwX sje dzit yaeX.
-· pək jiȍw jiôw dzȉt. tsɨ̂ vǔn tʃiɨ. dzɨ̌ jiôw tʃip kɦȉ ʃiôw. jyuɛ̏t. vɑ̏ŋ tʃiɨ. mǐŋ jî fvȕ. sɨ ʒȉn jiɛ̂, ɻ̏ jiôw sɨ dzȉt jiɛ̂. sɨ ʒȉn, jiɛ̂ ɻ̏ jiôw sɨ dzȉt jiɛ̂.
+· pək (ŋ)jiȍw jiôw dzȉt. tsɨ̂ vǔn tʃiɨ. dzɨ̌ jiôw tʃip kɦȉ ʃiôw. jyuɛ̏t. vɑ̏ŋ tʃiɨ. mǐŋ jî fvȕ. sɨ ʒȉn jiɛ̂, ɻ̏ jiôw sɨ dzȉt jiɛ̂. sɨ ʒȉn, jiɛ̂ ɻ̏ jiôw sɨ dzȉt jiɛ̂.
 
 〇子曰。賢哉回也。一簞食。一瓢飲。在陋巷。人不堪其憂。回也不改其樂。賢哉回也。
 · tsiX hjwot. hen tsoj hwoj yaeX. ’jit tan ziH. ’jit bjiew ’imX. dzojX luwH haewngH. nyin pjuw khom gi ’juw. hwoj yaeX pjuw kojX gi lak. hen tsoj hwoj yaeX.
@@ -1072,7 +1072,7 @@ siɛn tsǐn dǐ ʃʒȉp ʔit
 
 〇子曰。從我於陳蔡者。皆不及門也。德行。顏淵。閔子騫。冉伯牛。仲弓。言語。宰我。子貢。政事。冉有。季路。文學。子游。子夏。
 · tsiX hjwot. dzjowngH ngaX ’jo drin tshajH tsyaeX. keaj pjuw gip mwon yaeX. tok haengH. ngaen ’wen. minX tsiX khjen. nyemX paek ngjuw. drjuwngH kjuwng. ngjon ngjoX. tsojX ngaX. tsiX kuwngH. tsyengH dzriH. nyemX hjuwX. kwijH luH. mjun haewk. tsiX yuw. tsiX haeX.
-· tsɨ̂ jyuɛ̏t. dzyǔŋ ŋɔ̂ ʔy tʃɦȉn tshǎi tʃiɛ̂. kiai put gȉp mȕn jiɛ̂. tək ɦǐŋ. (ŋ)jiȁn ʔyuɛn. mîn tsɨ̂ khiɛn. ʒiɛ̂m pək jiȍw. dʒyǔŋ kyuŋ. jiɛ̏n ŋŷ. tsâi ŋɔ̂. tsɨ̂ kǔŋ. tʃǐŋ ʂʐɨ̌. ʒiɛ̂m jiôw. kǐ lǔ. vȕn ɦiɔ̏k. tsɨ̂ jiȍw. tsɨ̂ ɦiǎ’.
+· tsɨ̂ jyuɛ̏t. dzyǔŋ ŋɔ̂ ʔy tʃɦȉn tshǎi tʃiɛ̂. kiai put gȉp mȕn jiɛ̂. tək ɦǐŋ. (ŋ)jiȁn ʔyuɛn. mîn tsɨ̂ khiɛn. ʒiɛ̂m pək (ŋ)jiȍw. dʒyǔŋ kyuŋ. jiɛ̏n ŋŷ. tsâi ŋɔ̂. tsɨ̂ kǔŋ. tʃǐŋ ʂʐɨ̌. ʒiɛ̂m jiôw. kǐ lǔ. vȕn ɦiɔ̏k. tsɨ̂ jiȍw. tsɨ̂ ɦiǎ’.
 
 〇子曰。回也非助我者也。於吾言無所不說。
 · tsiX hjwot. hwoj yaeX pj+j dzrjoH ngaX tsyaeX yaeX. ’jo ngu ngjon mju srjoX pjuw ywet.
@@ -1131,8 +1131,8 @@ siɛn tsǐn dǐ ʃʒȉp ʔit
 · kǐ ʃʒiɨ̌’ fǒw ʔy tʃiow kuŋ. ɻ̏ kɦiȍw jiɛ̂ ǔi tʃiɨ dzy̌ liɛ̌m ɻ̏ fvǔ ʔik tʃiɨ. tsɨ̂ jyuɛ̏t. fi ŋȕ tɦȕ jiɛ̂. siɛ̂w tsɨ̂ mȉŋ kû ɻ̏ kuŋ tʃiɨ khɔ̂ jiɛ̂.
 
 〇柴也愚。參也魯。師也辟。〈【音義】匹亦反【集註】婢亦反〉由也喭。
-· dzrea yaeX ngju. srim yaeX luX. srij yaeX phjiek. yuw yaeX nganH.
-· ʈʂɦȁi jiɛ̂ ŋy̏. ʂəm jiɛ̂ lû. ʂʐɨ̌ jiɛ̂ phik. jiȍw jiɛ̂ ŋɑ̌n.
+· dzrea yaeX ngju. srim yaeX luX. srij yaeX phjiek.〈【音義】匹亦反【集註】婢亦反〉 yuw yaeX nganH.
+· ʈʂɦȁi jiɛ̂ ŋy̏. ʂəm jiɛ̂ lû. ʂʐɨ̌ jiɛ̂ phik.〈【音義】匹亦反【集註】婢亦反〉 jiȍw jiɛ̂ ŋɑ̌n.
 
 〇子曰。回也其庶乎。屢空。賜不受命。而貨殖焉。億則屢中。
 · tsiX hjwot. hwoj yaeX gi syoH hu. ljuH khuwngH. sjeH pjuw dzyuwX mjaengH. nyi xwaH dzyik hjen. ’ik tsok ljuH trjuwngH.
@@ -1143,8 +1143,8 @@ siɛn tsǐn dǐ ʃʒȉp ʔit
 · tsɨ̂ tʃiɑŋ vǔn ʃʒiɛ̌n’ ʒȉn tʃiɨ dǎw’. tsɨ̂ jyuɛ̏t. put dziɛ̌n’ tsik. jȉk put ʒȉp ʔy ʃit.
 
 〇子曰。論篤是與。〈【音義】音餘【集註】如字〉君子者乎。色莊者乎。
-· tsiX hjwot. lwonH towk dzyeX yo(X). kjun tsiX tsyaeX hu. srik tsrjang tsyaeX hu.
-· tsɨ̂ jyuɛ̏t. lǔn tuk ʃʒiɨ̌’ jy̏/jŷ. kyun tsɨ̂ tʃiɛ̂ ɦȕ. ʂək ʈʂwɑŋ tʃiɛ̂ ɦȕ.
+· tsiX hjwot. lwonH towk dzyeX yo(X).〈【音義】音餘【集註】如字〉 kjun tsiX tsyaeX hu. srik tsrjang tsyaeX hu.
+· tsɨ̂ jyuɛ̏t. lǔn tuk ʃʒiɨ̌’ jy̏/jŷ.〈【音義】音餘【集註】如字〉 kyun tsɨ̂ tʃiɛ̂ ɦȕ. ʂək ʈʂwɑŋ tʃiɛ̂ ɦȕ.
 
 〇子路問聞斯行諸。子曰。有父兄在。如之何其聞斯行之。冉有問聞斯行諸。子曰。聞斯行之。公西華曰。由也問聞斯行諸。子曰。有父兄在。求也問聞斯行諸。子曰。聞斯行之。赤也惑。敢問。子曰。求也退。故進之。由也兼人。故退之。
 · tsiX luH mjunH mjun sje haeng tsyo. tsiX hjwot. hjuwX bjuX xjwaeng dzojX. nyo tsyi ha gi mjun sje haeng tsyi. nyemX hjuwX mjunH mjun sje haeng tsyo. tsiX hjwot. mjun sje haeng tsyi. kuwng sej hwae hjwot. yuw yaeX mjunH mjun sje haeng tsyo. tsiX hjwot. hjuwX bjuX xjwaeng dzojX. gjuw yaeX mjunH mjun sje haeng tsyo. tsiX hjwot. mjun sje haeng tsyi. tsyhek yaeX hwok. kamX mjunH. tsiX hjwot. gjuw yaeX thwojH. kuH tsinH tsyi. yuw yaeX kem nyin. kuH thwojH tsyi.
@@ -1167,8 +1167,104 @@ siɛn tsǐn dǐ ʃʒȉp ʔit
 · tsɨ̂ lǔ. tsəŋ sik. ʒiɛ̂m jiôw. kuŋ si ɦwȁ. ʃʒiɨ̌ dzwɔ̌. tsɨ̂ jyuɛ̏t. jî ŋȕ ʔit ʒȉt tʃiɑ̂ŋ ɦȕ ɻ̂. vȕ ŋȕ jî jiɛ̂. ky tsək jyuɛ̏t. put ŋȕ tʃi jiɛ̂. ʒy̏ ɦwə̏k tʃi ɻ̂. tsək ɦɔ̏ jî tsai. tsɨ̂ lǔ ʂut ɻ̂ ɻ̏ tǔi jyuɛ̏t. tshiɛn ʃʒǐŋ tʃiɨ kwək. ʃiɛp ɦȕ dǎi kwək tʃiɨ kian. kia tʃiɨ jî ʂʐɨ lŷ. ʔin tʃiɨ jî ki gǐn. jiȍw jiɛ̂ ȕi tʃiɨ. pǐ gȉp sam niɛ̏n. khɔ̂ ʂɨ̂ jiôw jyûŋ. tshiɛ̂ tʃi fɑŋ jiɛ̂. fu tsɨ̂ ʃîn tʃiɨ. kɦiȍw. ɻ̂ ɦɔ̏ ʒy̏. tǔi jyuɛ̏t. fɑŋ lȕk tshit ʃʒȉp. ʒy̏ ŋû lȕk ʃʒȉp. kɦiȍw jiɛ̂ ȕi tʃiɨ. pǐ gȉp sam niɛ̏n. khɔ̂ ʂɨ̂ tsyuk mȉn. ʒy̏ kɦȉ lî (ŋ)jiɔ̏k. jî ʂʐ/szɨ̌’ kyun tsɨ̂. tʃhik ɻ̂ ɦɔ̏ ʒy̏. tǔi jyuɛ̏t. fi jyuɛ̏t nə̏ŋ tʃiɨ. (ŋ)jyuɛ̌n ɦiɔ̏k jiɛ̏n. tsuŋ miɛ̌w tʃiɨ ʂʐɨ̌. ʒy̏ ɦǔi tɦȕŋ. twɔn tʃiɑŋ fû. (ŋ)jyuɛ̌n ȕi siɛ̂w siɑ̌ŋ jiɛ̏n. tiɛ̂m. ɻ̂ ɦɔ̏ ʒy̏. kû ʂət hi. khəŋ ɻ̂. ʃiɛ̂. ʂət ɻ̏ tsɔk. tǔi jyuɛ̏t. jǐ ɦȕ sam tsɨ̂ tʃiɛ̂ tʃiɨ ɖʐwǎn’. tsɨ̂ jyuɛ̏t. ɦɔ̏ ʃiɑŋ ɦȕ. jȉk kɔk jiɛ̏n kɦȉ tʃiɨ̌ jiɛ̂. jyuɛ̏t. mǔ tʃhyun tʃiɛ̂. tʃhyun fvȕk kǐ tʃɦȉŋ. kwɔ̌n tʃiɛ̂ ŋû lȕk ʒȉn. tɦȕŋ tsɨ̂ lȕk tshit ʒȉn. jyȕk ɦȕ jȉ. fuŋ ɦȕ vû jy̏. jyuə̌ŋ ɻ̏ kui. fu tsɨ̂ khǔ(a)i ʒiɛ̏n thǎn jyuɛ̏t. ŋȕ jŷ tiɛ̂m jiɛ̂. sam tsɨ̂ tʃiɛ̂ tʃhyut. tsəŋ sik ɦǒw’. tsəŋ sik jyuɛ̏t. fvȕ sam tsɨ̂ tʃiɛ̂ tʃiɨ jiɛ̏n ɦɔ̏ ʒy̏. tsɨ̂ jyuɛ̏t. jȉk kɔk jiɛ̏n kɦȉ tʃiɨ̌ jiɛ̂ jî jî. jyuɛ̏t. fu tsɨ̂ ɦɔ̏ ʃîn jiȍw jiɛ̂. jyuɛ̏t. ȕi kwək jî lî. kɦȉ jiɛ̏n put ʒiɑ̌ŋ. ʃʒiɨ̌’ kǔ ʃîn tʃiɨ. vȉ kɦiȍw tsək fi pɑŋ jiɛ̂ jy̏. ʔɑn kiɛ̌n fɑŋ lȕk tshit ʃʒȉp. ʒy̏ ŋû lȕk ʃʒȉp. ɻ̏ fi pɑŋ jiɛ̂ tʃiɛ̂. vȉ tʃhik tsək fi pɑŋ jiɛ̂ jy̏. tsuŋ miɛ̌w ɦǔi tɦȕŋ. fi tʃy ɦȍw ɻ̏ ɦɔ̏. tʃhik jiɛ̂ ȕi tʃiɨ siɛ̂w. ʃʒyȕk nə̏ŋ ȕi tʃiɨ dǎi.
 
 顏淵第十二
+ngaen ’wen dejH dzyip nyijH
+(ŋ)jiȁn ʔyuɛn dǐ ʃʒȉp ɻ̌
 
+〇顏淵問仁。子曰。克己復禮爲仁。一日克己復禮。天下歸仁焉。爲仁由己。而由人乎哉。顏淵曰。請問其目。子曰。非禮勿視。非禮勿聽。非禮勿言。非禮勿動。顏淵曰。回雖不敏。請事斯語矣。
+· ngaen ’wen mjunH nyin. tsiX hjwot. khok kiX bjuwk lejX hjwe nyin. ’jit nyit khok kiX bjuwk lejX. then haeX kjw+j nyin hjen. hjwe nyin yuw kiX. nyi yuw nyin hu tsoj. ngaen ’wen hjwot. tshjengX mjunH gi mjuwk. tsiX hjwot. pj+j lejX mjut dzyijX. pj+j lejX mjut theng. pj+j lejX mjut ngjon. pj+j lejX mjut duwngX. ngaen ’wen hjwot. hwoj swij pjuw minX. tshjengX dzriH sje ngjoX hiX.
+· (ŋ)jiȁn ʔyuɛn vǔn ʒȉn. tsɨ̂ jyuɛ̏t. khək kî fvȕk lî ȕi ʒȉn. ʔit ʒȉt khək kî fvȕk lî. thiɛn ɦiǎ’ kui ʒȉn jiɛ̏n. ȕi ʒȉn jiȍw kî. ɻ̏ jiȍw ʒȉn ɦȕ tsai. (ŋ)jiȁn ʔyuɛn jyuɛ̏t. tshîŋ vǔn kɦȉ mȕk. tsɨ̂ jyuɛ̏t. fi lî vȕt ʃʒiɨ̌’. fi lî vȕt thiŋ. fi lî vȕt jiɛ̏n. fi lî vȕt dǔŋ’. (ŋ)jiȁn ʔyuɛn jyuɛ̏t. ɦȕi sui put mîn. tshîŋ ʂʐɨ̌ sɨ ŋŷ jî.
 
+〇仲弓問仁。子曰。出門如見大賓。使民如承大祭。己所不欲。勿施於人。在邦無怨。在家無怨。仲弓曰。雍雖不敏。請事斯語矣。
+· drjuwngH kjuwng mjunH nyin. tsiX hjwot. tsyhwit mwon nyo kenH dajH pjin. sriX mjin nyo dzying dajH tsjejH. kiX srjoX pjuw yowk. mjut sye ’jo nyin. dzojX paewng mju ’jwonH. dzojX kae mju ’jwonH. drjuwngH kjuwng hjwot. ’jowng swij pjuw minX. tshjengX dzriH sje ngjoX hiX.
+· dʒyǔŋ kyuŋ vǔn ʒȉn. tsɨ̂ jyuɛ̏t. tʃhyut mȕn ʒy̏ kiɛ̌n dǎi pin. ʂɨ̂ mȉn ʒy̏ tʃɦȉŋ dǎi tsǐ. kî ʂû put jyȕk. vȕt ʃiɨ ʔy ʒȉn. dzǎi’ pɑŋ vȕ ʔyuɛ̌n. dzǎi’ kia vȕ ʔyuɛ̌n. dʒyǔŋ kyuŋ jyuɛ̏t. ʔyuŋ sui put mîn. tshîŋ ʂʐɨ̌ sɨ ŋŷ jî.
+
+〇司馬牛問仁。子曰。仁者、其言也訒。曰。其言也訒。斯謂之仁已乎。子曰。爲之難。言之得無訒乎。
+· si maeX ngjuw mjunH nyin. tsiX hjwot. nyin tsyaeX, gi ngjon yaeX nyinH. hjwot. gi ngjon yaeX nyinH. sje hjw+jH tsyi nyin yiX hu. tsiX hjwot. hjwe tsyi nan. ngjon tsyi tok mju nyinH hu.
+· sɨ mâ (ŋ)jiȍw vǔn ʒȉn. tsɨ̂ jyuɛ̏t. ʒȉn tʃiɛ̂, kɦȉ jiɛ̏n jiɛ̂ ʒǐn. jyuɛ̏t. kɦȉ jiɛ̏n jiɛ̂ ʒǐn. sɨ ǔi tʃiɨ ʒȉn jî ɦȕ. tsɨ̂ jyuɛ̏t. ȕi tʃiɨ nȁn. jiɛ̏n tʃiɨ tək vȕ ʒǐn ɦȕ.
+
+〇司馬牛問君子。子曰。君子不憂不懼。曰。不憂不懼。斯謂之君子已乎。子曰。內省不疚。夫何憂何懼。
+· si maeX ngjuw mjunH kjun tsiX. tsiX hjwot. kjun tsiX pjuw ’juw pjuw gjuH. hjwot. pjuw ’juw pjuw gjuH. sje hjw+jH tsyi kjun tsiX yiX hu. tsiX hjwot. nwojH sjengX pjuw kjuwH. bju ha ’juw ha gjuH.
+· sɨ mâ (ŋ)jiȍw vǔn kyun tsɨ̂. tsɨ̂ jyuɛ̏t. kyun tsɨ̂ put ʔiow put gy̌. jyuɛ̏t. put ʔiow put gy̌. sɨ ǔi tʃiɨ kyun tsɨ̂ jî ɦȕ. tsɨ̂ jyuɛ̏t. nǔi sîŋ put kiǒw. fvȕ ɦɔ̏ ʔiow ɦɔ̏ gy̌.
+
+〇司馬牛憂曰。人皆有兄弟。我獨亡。子夏曰。商聞之矣。死生有命。富貴在天。君子敬而無失。與人恭而有禮。四海之內。皆兄弟也。君子何患乎無兄弟也。
+· si maeX ngjuw ’juw hjwot. nyin keaj hjuwX xjwaeng dejX. ngaX duwk mju(ang). tsiX haeX hjwot. syang mjun tsyi hiX. sijX srjaeng hjuwX mjaengH. pjuwH kjw+jH dzojX then. kjun tsiX kjaengH nyi mju syit. yoX nyin kjowng nyi hjuwX lejX. sijH xojX tsyi nwojH. keaj xjwaeng dejX yaeX. kjun tsiX ha hwaenH hu mju xjwaeng dejX yaeX.
+· sɨ mâ (ŋ)jiȍw ʔiow jyuɛ̏t. ʒȉn kiai jiôw hyuəŋ dǐ’. ŋɔ̂ dȕk vȕ(ɑ̏ŋ). tsɨ̂ ɦiǎ’ jyuɛ̏t. ʃiɑŋ vȕn tʃiɨ jî. sɨ̂ ʂəŋ jiôw mǐŋ. fǒw kǔi dzǎi’ thiɛn. kyun tsɨ̂ kǐŋ ɻ̏ vȕ ʃit. jŷ ʒȉn kyuŋ ɻ̏ jiôw lî. sɨ̌ hâi tʃiɨ nǔi. kiai hyuəŋ dǐ’ jiɛ̂. kyun tsɨ̂ ɦɔ̏ ɦwǎn ɦȕ vȕ hyuəŋ dǐ’ jiɛ̂.
+
+〇子張問明。子曰。浸潤之譖。膚受之愬。不行焉。可謂明也已矣。浸潤之譖。膚受之愬。不行焉。可謂遠也已矣。
+· tsiX trjang mjunH mjaeng. tsiX hjwot. tsimH nywinH tsyi tsrimH. pju dzyuwX tsyi suH. pjuw haeng hjen. khaX hjw+jH mjaeng yaeX yiX hiX. tsimH nywinH tsyi tsrimH. pju dzyuwX tsyi suH. pjuw haeng hjen. khaX hjw+jH hjwonX yaeX yiX hiX.
+· tsɨ̂ tʃiɑŋ vǔn mȉŋ. tsɨ̂ jyuɛ̏t. tsǐm ʒyǔn tʃiɨ ʈʂə̌m. fu ʃʒiǒw’ tʃiɨ sǔ. put ɦȉŋ jiɛ̏n. khɔ̂ ǔi mȉŋ jiɛ̂ jî jî. tsǐm ʒyǔn tʃiɨ ʈʂə̌m. fu ʃʒiǒw’ tʃiɨ sǔ. put ɦȉŋ jiɛ̏n. khɔ̂ ǔi jyuɛ̂n jiɛ̂ jî jî.
+
+〇子貢問政。子曰。足食。足兵。民信之矣。子貢曰。必不得已而去於斯三者。何先。曰。去兵。子貢曰。必不得已而去於斯二者。何先。曰。去食。自古皆有死。民無信不立。
+· tsiX kuwngH mjunH tsyengH. tsiX hjwot. tsjowk zyik. tsjowk pjaeng. mjin sinH tsyi hiX. tsiX kuwngH hjwot. pjit pjuw tok yiX nyi khjoX ’jo sje sam tsyaeX. ha sen. hjwot. khjoX pjaeng. tsiX kuwngH hjwot. pjit pjuw tok yiX nyi khjoX ’jo sje nyijH tsyaeX. ha sen. hjwot. khjoX zyik. dzijH kuX keaj hjuwX sijX. mjin mju sinH pjuw lip.
+· tsɨ̂ kǔŋ vǔn tʃǐŋ. tsɨ̂ jyuɛ̏t. tsyuk ʃʒȉk. tsyuk piŋ. mȉn sǐn tʃiɨ jî. tsɨ̂ kǔŋ jyuɛ̏t. pit put tək jî ɻ̏ khŷ ʔy sɨ sam tʃiɛ̂. ɦɔ̏ siɛn. jyuɛ̏t. khŷ piŋ. tsɨ̂ kǔŋ jyuɛ̏t. pit put tək jî ɻ̏ khŷ ʔy sɨ ɻ̌ tʃiɛ̂. ɦɔ̏ siɛn. jyuɛ̏t. khŷ ʃʒȉk. dzɨ̌ kû kiai jiôw sɨ̂. mȉn vȕ sǐn put lȉp.
+
+〇棘子成曰。君子質而已矣。何以文爲。子貢曰。惜乎。夫子之說君子也。駟不及舌。文。猶質也。質。猶文也。虎豹之鞟。猶犬羊之鞟。
+· kik tsiX dzyeng hjwot. kjun tsiX tsyit nyi yiX hiX. ha yiX mjun hjwe. tsiX kuwngH hjwot. sjek hu. pju tsiX tsyi sywet kjun tsiX yaeX. sijH pjuw gip zyet. mjun. yuw tsyit yaeX. tsyit. yuw mjun yaeX. xuX paewH tsyi khwak. yuw khwenX yang tsyi khwak.
+· kik tsɨ̂ tʃɦȉŋ jyuɛ̏t. kyun tsɨ̂ tʃit ɻ̏ jî jî. ɦɔ̏ jî vȕn ȕi. tsɨ̂ kǔŋ jyuɛ̏t. sik ɦȕ. fu tsɨ̂ tʃiɨ ʃyuɛt kyun tsɨ̂ jiɛ̂. sɨ̌ put gȉp ʃʒiɛ̏t. vȕn. jiȍw tʃit jiɛ̂. tʃit. jiȍw vȕn jiɛ̂. hû pǎw tʃiɨ khwɔk. jiȍw khyuɛ̂n jiɑ̏ŋ tʃiɨ khwɔk.
+
+〇哀公問於有若曰。年饑〈【音義】居其反鄭本作飢〉用不足。如之何。有若對曰。盍徹乎。曰。二吾猶不足。如之何其徹也。對曰。百姓足。君孰與不足。百姓不足。君孰與足。
+· ’oj kuwng mjunH ’jo hjuwX nyak hjwot. nen kij?〈【音義】居其反鄭本作飢〉 yowngH pjuw tsjowk. nyo tsyi ha. hjuwX nyak twojH hjwot. hap drhjet hu. hjwot. nyijH ngu yuw pjuw tsjowk. nyo tsyi ha gi drhjet yaeX. twojH hjwot. paek sjengH tsjowk. kjun dzyuwk yoX pjuw tsjowk. paek sjengH pjuw tsjowk. kjun dzyuwk yoX tsjowk.
+· ʔai kuŋ vǔn ʔy jiôw ʒiɔ̏k jyuɛ̏t. niɛ̏n ki〈【音義】居其反鄭本作飢〉 jyǔŋ put tsyuk. ʒy̏ tʃiɨ ɦɔ̏. jiôw ʒiɔ̏k tǔi jyuɛ̏t. ɦɔ̏p dʒiɛ̏t ɦȕ. jyuɛ̏t. ɻ̌ ŋȕ jiȍw put tsyuk. ʒy̏ tʃiɨ ɦɔ̏ kɦȉ dʒiɛ̏t jiɛ̂. tǔi jyuɛ̏t. pək sǐŋ tsyuk. kyun ʃʒyȕk jŷ put tsyuk. pək sǐŋ put tsyuk. kyun ʃʒyȕk jŷ tsyuk.
+
+〇子張問崇德辨惑。子曰。主忠信。徙義。崇德也。愛之欲其生。惡之欲其死。既欲其生。又欲其死。是惑也。誠不以富。亦祇以異。
+· tsiX trjang mjunH dzrjuwng tok bjenX hwok. tsiX hjwot. tsyuX trjuwng sinH. sjeX ngjeH. dzrjuwng tok yaeX. ’ojH tsyi yowk gi srjaeng. ’uH tsyi yowk gi sijX. kj+jH yowk gi srjaeng. hjuwH yowk gi sijX. dzyeX hwok yaeX. dzyeng pjuw yiX pjuwH. yek tsye yiX yiH.
+· tsɨ̂ tʃiɑŋ vǔn ʈʂɦȕŋ tək biɛ̌n’ ɦwə̏k. tsɨ̂ jyuɛ̏t. tʃŷ tʃyuŋ sǐn. sî jǐ. ʈʂɦȕŋ tək jiɛ̂. ʔǎi tʃiɨ jyȕk kɦȉ ʂəŋ. ʔǔ tʃiɨ jyȕk kɦȉ sɨ̂. kǐ jyȕk kɦȉ ʂəŋ. jiǒw jyȕk kɦȉ sɨ̂. ʃʒiɨ̌’ ɦwə̏k jiɛ̂. tʃɦȉŋ put jî fǒw. jȉk tʃiɨ jî jǐ.
+
+〇齊景公問政於孔子。孔子對曰。君君。臣臣。父父。子子。公曰。善哉。信如君不君。臣不臣。父不父。子不子。雖有粟。吾得而食諸。
+· dzej kjaengX kuwng mjunH tsyengH ’jo khuwngx tsiX. khuwngx tsiX twojH hjwot. kjun kjun. dzyin dzyin. bjuX bjuX. tsiX tsiX. kuwng hjwot. dzyenX tsoj. sinH nyo kjun pjuw kjun. dzyin pjuw dzyin. bjuX pjuw bjuX. tsiX pjuw tsiX. swij hjuwX sjowk. ngu tok nyi zyik tsyo.
+· tsɦȉ kîŋ kuŋ vǔn tʃǐŋ ʔy khûŋ tsɨ̂. khûŋ tsɨ̂ tǔi jyuɛ̏t. kyun kyun. tʃɦȉn tʃɦȉn. fvǔ’ fvǔ’. tsɨ̂ tsɨ̂. kuŋ jyuɛ̏t. ʃʒiɛ̌n’ tsai. sǐn ʒy̏ kyun put kyun. tʃɦȉn put tʃɦȉn. fvǔ’ put fvǔ’. tsɨ̂ put tsɨ̂. sui jiôw syuk. ŋȕ tək ɻ̏ ʃʒȉk tʃy.
+
+〇子曰。片言可以折獄者。其由也與。子路無宿諾。
+· tsiX hjwot. phenH ngjon khaX yiX tsyet ngjowk tsyaeX. gi yuw yaeX yo. tsiX luH mju sjuwk nak.
+· tsɨ̂ jyuɛ̏t. phiɛ̌n jiɛ̏n khɔ̂ jî tʃiɛt ŋyȕk tʃiɛ̂. kɦȉ jiȍw jiɛ̂ jy̏. tsɨ̂ lǔ vȕ syuk nɔ̏k.
+
+〇子曰。聽訟。吾猶人也。必也使無訟乎。
+· tsiX hjwot. thengH zjowngH. ngu yuw nyin yaeX. pjit yaeX sriX mju zjowngH hu.
+· tsɨ̂ jyuɛ̏t. thǐŋ szyǔŋ. ŋȕ jiȍw ʒȉn jiɛ̂. pit jiɛ̂ ʂɨ̂ vȕ szyǔŋ ɦȕ.
+
+〇子張問政。子曰。居之無倦。行之以忠。
+· tsiX trjangH mjunH tsyengH. tsiX hjwot. kjo tsyi mju gjwenH. haeng tsyi yiX trjuwng.
+· tsɨ̂ tʃiɑ̌ŋ vǔn tʃǐŋ. tsɨ̂ jyuɛ̏t. ky tʃiɨ vȕ gyuɛ̌n. ɦȉŋ tʃiɨ jî tʃyuŋ.
+
+〇子曰。博學於文。約之以禮。亦可以弗畔矣夫。
+· tsiX hjwot. pak haewk ’jo mjun. ’jak tsyi yiX lejX. yek khaX yiX pjut banH hiX bju.
+· tsɨ̂ jyuɛ̏t. pɔk ɦiɔ̏k ʔy vȕn. ʔiɔk tʃiɨ jî lî. jȉk khɔ̂ jî fut bwɔ̌n jî fvȕ.
+
+〇子曰。君子成人之美。不成人之惡。小人反是。
+· tsiX hjwot. kjun tsiX dzyeng nyin tsyi mijX. pjuw dzyeng nyin tsyi ’ak. sjewX nyin pjonX dzyeX.
+· tsɨ̂ jyuɛ̏t. kyun tsɨ̂ tʃɦȉŋ ʒȉn tʃiɨ mûi. put tʃɦȉŋ ʒȉn tʃiɨ ʔɔk. siɛ̂w ʒȉn fân ʃʒiɨ̌’.
+
+〇季康子問政於孔子。孔子對曰。政者正也。子帥以正。孰敢不正。
+· kjwijH khang tsiX mjunH tsyengH ’jo khuwngX tsiX. khuwngX tsiX twojH hjwot. tsyengH tsyaeX tsyengH yaeX. tsiX srwit yiX tsyengH. dzyuwk kamX pjuw tsyengH.
+· kǐ khɑŋ tsɨ̂ vǔn tʃǐŋ ʔy khûŋ tsɨ̂. khûŋ tsɨ̂ tǔi jyuɛ̏t. tʃǐŋ tʃiɛ̂ tʃǐŋ jiɛ̂. tsɨ̂ ʂut jî tʃǐŋ. ʃʒyȕk kâm put tʃǐŋ.
+
+〇季康子患盜。問於孔子。孔子對曰。苟子之不欲。雖賞之不竊。
+· kjwijH khang tsiX hwaenH dawH. mjunH ’jo khuwngX tsiX. khuwngX tsiX twojH hjwot. kuwX tsiX tsyi pjuw yowk. swij syangX tsyi pjuw tshet.
+· kǐ khɑŋ tsɨ̂ ɦwǎn dǎw. vǔn ʔy khûŋ tsɨ̂. khûŋ tsɨ̂ tǔi jyuɛ̏t. kôw tsɨ̂ tʃiɨ put jyȕk. sui ʃiɑ̂ŋ tʃiɨ put tshiɛt.
+
+〇季康子問政於孔子曰。如殺無道。以就有道。何如。孔子對曰。子爲政。焉用殺。子欲善。而民善矣。君子之德風。小人之德草。草上之風必偃。
+· kjwijH khang tsiX mjunH tsyengH ’jo khuwngX tsiX hjwot. nyo sreat mju dawX. yiX dzjuwH hjuwX dawX. ha nyo. khuwngX tsiX twojH hjwot. tsiX hjwe tsyengH. ’jen yowngH sreat. tsiX yowk dzyenX. nyi mjin dzyenX hiX. kjun tsiX tsyi tok pjuwng. sjewX nyin tsyi tok tshawX. tshawX dzyangH tsyi pjuwng pjit ’jonX.
+· kǐ khɑŋ tsɨ̂ vǔn tʃǐŋ ʔy khûŋ tsɨ̂ jyuɛ̏t. ʒy̏ ʂat vȕ dǎw’. jî dziǒw jiôw dǎw’. ɦɔ̏ ʒy̏. khûŋ tsɨ̂ tǔi jyuɛ̏t. tsɨ̂ ȕi tʃǐŋ. ʔiɛn jyǔŋ ʂat. tsɨ̂ jyȕk ʃʒiɛ̌n’. ɻ̏ mȉn ʃʒiɛ̌n’ jî. kyun tsɨ̂ tʃiɨ tək fuŋ. siɛ̂w ʒȉn tʃiɨ tək tshâw. tshâw ʃʒiɑ̌ŋ tʃiɨ fuŋ pit ʔiɛ̂n.
+
+〇子張問士何如、斯可謂之達矣。子曰。何哉爾所謂達者。子張對曰。在邦必聞。在家必聞。子曰。是聞也。非達也。夫達也者。質直而好義。察言而觀色。慮以下人。在邦必達。在家必達。夫聞也者。色取仁而行違。居之不疑。在邦必聞。在家必聞。
+· tsiX trjang mjunH dzriX ha nyo, sje khaX hjw+jH tsyi dat hiX. tsiX hjwot. ha tsoj nyeX srjoX hjw+jH dat tsyaeX. tsiX trjang twojH hjwot. dzojX paewng pjit mjunH. dzojX kae pjit mjunH. tsiX hjwot. dzyeX mjunH yaeX. pj+j dat yaeX. bju dat yaeX tsyaeX. tsyit drik nyi xawH ngjeH. tsrheat ngjon nyi kwan srik. ljoH yiX haeH nyin. dzojX paewng pjit dat. dzojX kae pjit dat. bju mjunH yaeX tsyaeX. srik tshjuX nyin nyi haengH hjw+j. kjo tsyi pjuw ngi. dzojX paewng pjit mjunH. dzojX kae pjit mjunH.
+· tsɨ̂ tʃiɑŋ vǔn ʂʐɨ̌’ ɦɔ̏ ʒy̏, sɨ khɔ̂ ǔi tʃiɨ dȁt jî. tsɨ̂ jyuɛ̏t. ɦɔ̏ tsai ɻ̂ ʂû ǔi dȁt tʃiɛ̂. tsɨ̂ tʃiɑŋ tǔi jyuɛ̏t. dzǎi’ pɑŋ pit vǔn. dzǎi’ kia pit vǔn. tsɨ̂ jyuɛ̏t. ʃʒiɨ̌’ vǔn jiɛ̂. fi dȁt jiɛ̂. fvȕ dȁt jiɛ̂ tʃiɛ̂. tʃit dʒȉk ɻ̏ hǎw jǐ. ʈʂhat jiɛ̏n ɻ̏ kwɔn ʂək. ly̌ jî ɦiǎ ʒȉn. dzǎi’ pɑŋ pit dȁt. dzǎi’ kia pit dȁt. fvȕ vǔn jiɛ̂ tʃiɛ̂. ʂək tshŷ ʒȉn ɻ̏ ɦǐŋ ȕi. ky tʃiɨ put jȉ. dzǎi’ pɑŋ pit vǔn. dzǎi’ kia pit vǔn.
+
+〇樊遲從遊於舞雩之下。曰。敢問崇德脩慝辨惑。子曰。善哉問。先事後得。非崇德與。攻其惡。無攻人之惡。非脩慝與。一朝之忿。忘其身以及其親。非惑與。
+· bjon drij dzjowngH yuw ’jo mjuX hju tsyi haeX. hjwot. kamX mjunH dzrjuwng tok sjuw thok bjenX hwok. tsiX hjwot. dzyenX tsoj mjunH. sen dzriH huwX tok. pj+j dzrjuwng tok yo. kuwng gi ’ak. mju kuwng nyin tsyi ’ak. pj+j sjuw thok yo. ’jit trjew tsyi phjunH. mjang gi syin yiX gip gi tshin. pj+j hwok yo.
+· fvȁn tʃɦȉ dzyǔŋ jiȍw ʔy vû jy̏ tʃiɨ ɦiǎ’. jyuɛ̏t. kâm vǔn ʈʂɦȕŋ tək siow thək biɛ̌n’ ɦwə̏k. tsɨ̂ jyuɛ̏t. ʃʒiɛ̌n’ tsai vǔn. siɛn ʂʐɨ̌ ɦǒw’ tək. fi ʈʂɦȕŋ tək jy̏. kuŋ kɦȉ ʔɔk. vȕ kuŋ ʒȉn tʃiɨ ʔɔk. fi siow thək jy̏. ʔit tʃiɛw tʃiɨ fǔn. vɑ̏ŋ kɦȉ ʃin jî gȉp kɦȉ tshin. fi ɦwə̏k jy̏.
+
+〇樊遲問仁。子曰。愛人。問知。子曰。知人。樊遲未達。子曰。舉直錯諸枉。能使枉者直。樊遲退。見子夏曰。鄉也吾見於夫子而問知。子曰。舉直錯諸枉。能使枉者直。何謂也。子夏曰。富哉。言乎。舜有天下。選於衆。舉皋陶。不仁者遠矣。湯有天下。選於衆。舉伊尹。不仁者遠矣。
+· bjon drij mjunH nyin. tsiX hjwot. ’ojH nyin. mjunH trjeH. tsiX hjwot. trje nyin. bjon drij mj+jH dat. tsiX hjwot. kjoX drik tshuH tsyo ’jwangX. nong sriX ’jwangX tsyaeX drik. bjon drij thwojH. kenH tsiX haeX hjwot. xjangH yaeX ngu henH ’jo pju tsiX nyi mjunH trjeH. tsiX hjwot. kjoX drik tshuH tsyo ’jwangX. nong sriX ’jwangX tsyaeX drik. ha hjw+jH yaeX. tsiX haeX hjwot. pjuwH tsoj. ngjon hu. sywinH hjuwX then haeX. sjwenH ’jo tsyuwngH. kjoX kaw yew. pjuw nyin tsyaeX hjwonX/H hiX. thang hjuwX then haeX. sjwenH ’jo tsyuwngH. kjoX ’jij ywinX. pjuw nyin tsyaeX hjwonX/H hiX.
+· fvȁn tʃɦȉ vǔn ʒȉn. tsɨ̂ jyuɛ̏t. ʔǎi ʒȉn. vǔn tʃǐ. tsɨ̂ jyuɛ̏t. tʃi ʒȉn. fvȁn tʃɦȉ vǐ dȁt. tsɨ̂ jyuɛ̏t. kŷ dʒȉk tshǔ tʃy ʔwɑ̂ŋ. nə̏ŋ ʂɨ̂ ʔwɑ̂ŋ tʃiɛ̂ dʒȉk. fvȁn tʃɦȉ thǔi. kiɛ̌n tsɨ̂ ɦiǎ’ jyuɛ̏t. hiɑ̌ŋ jiɛ̂ ŋȕ ɦiɛ̌n ʔy fu tsɨ̂ ɻ̏ vǔn tʃǐ. tsɨ̂ jyuɛ̏t. kŷ dʒȉk tshǔ tʃy ʔwɑ̂ŋ. nə̏ŋ ʂɨ̂ ʔwɑ̂ŋ tʃiɛ̂ dʒȉk. ɦɔ̏ ǔi jiɛ̂. tsɨ̂ ɦiǎ’ jyuɛ̏t. fǒw tsai. jiɛ̏n ɦȕ. ʃyǔn jiôw thiɛn ɦiǎ’. syuɛ̌n ʔy tʃyǔŋ. kŷ kaw jiɛ̏w. put ʒȉn tʃiɛ̂ jyuɛ̂n jî. thɑŋ jiôw thiɛn ɦiǎ’. syuɛ̌n ʔy tʃyǔŋ. kŷ ʔi j(y)în. put ʒȉn tʃiɛ̂ jyuɛ̂n jî.
+
+〇子貢問友。子曰。忠告而善道之。不可則止。無自辱焉。
+· tsiX kuwngH mjunH hjuwX. tsiX hjwot. trjuwng kowk nyi dzyenX dawH tsyi. pjuw khaX tsok tsyiX. mju dzijH nyowk hjen.
+· tsɨ̂ kǔŋ vǔn jiôw. tsɨ̂ jyuɛ̏t. tʃyuŋ kuk ɻ̏ ʃʒiɛ̌n’ dǎw tʃiɨ. put khɔ̂ tsək tʃiɨ̂. vȕ dzɨ̌ ʒyȕk jiɛ̏n.
+
+〇曾子曰。君子以文會友。以友輔仁。
+· tsong tsiX hjwot. kjun tsiX yiX mjun hwajH hjuwX. yiX hjuwX bjuX nyin.
+· tsəŋ tsɨ̂ jyuɛ̏t. kyun tsɨ̂ jî vȕn ɦǔi jiôw. jî jiôw fvǔ’ ʒȉn.
 
 子路第十三
 
