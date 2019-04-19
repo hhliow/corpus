@@ -108,7 +108,7 @@ ȕi tʃǐŋ dǐ ɻ̌
 
 〇子夏問孝。子曰。色難。有事弟子服其勞。有酒食。先生饌。曾是以爲孝乎。
 · tsiX haeX mjunH xaewH. tsiX hjwot. srik nan. hjuwX dzriH dejX tsiX bjuwk gi law. hjuwX tsjuwX ziH. sen srjaeng dzrjwenH. dzong dzyeX yiX hjwe xaewH hu.
-· tsɨ̂ ɦiǎ’ vǔn hiǎw. tsɨ̂ jyuɛ̏t. ʂək nȁn. jiôw ʂʐɨ̌ dǐ’ tsɨ̂ fvȕk khȉ lȁw. jiôw tsiôw szǐ. siɛn ʂəŋ ɖʐwǎn. tshə̏ŋ ʃʒiɨ̌’ jî ȕi hiǎw ɦȕ.
+· tsɨ̂ ɦiǎ’ vǔn hiǎw. tsɨ̂ jyuɛ̏t. ʂək nȁn. jiôw ʂʐɨ̌ dǐ’ tsɨ̂ fvȕk khȉ lȁw. jiôw tsiôw szɨ̌. siɛn ʂəŋ ɖʐwǎn. tshə̏ŋ ʃʒiɨ̌’ jî ȕi hiǎw ɦȕ.
 
 〇子曰。吾與回言終日。不違如愚。退而省其私。亦足以發。回也不愚。
 · tsiX hjwot. ngu yoX hwoj ngjon tsyuwng nyit. pjuw hjw+j nyo ngju. thwojH nyi sjengX gi sij. yek tsjowk yiX pjot. hwoj yaeX pjuw ngju.
@@ -544,7 +544,7 @@ kuŋ jiɛ̂ tʃɦiɑ̏ŋ dǐ ŋû
 
 〇子曰。賢哉回也。一簞食。一瓢飲。在陋巷。人不堪其憂。回也不改其樂。賢哉回也。
 · tsiX hjwot. hen tsoj hwoj yaeX. ’jit tan ziH. ’jit bjiew ’imX. dzojX luwH haewngH. nyin pjuw khom gi ’juw. hwoj yaeX pjuw kojX gi lak. hen tsoj hwoj yaeX.
-· tsɨ̂ jyuɛ̏t. ɦiɛ̏n tsai ɦȕi jiɛ̂. ʔit tan szǐ. ʔit pɦiɛ̏w ʔîm. dzǎi’ lǒw ɦiɑ̌ŋ. ʒȉn put kham kɦȉ ʔiow. ɦȕi jiɛ̂ put kâi kɦȉ lɔ̏k. ɦiɛ̏n tsai ɦȕi jiɛ̂.
+· tsɨ̂ jyuɛ̏t. ɦiɛ̏n tsai ɦȕi jiɛ̂. ʔit tan szɨ̌. ʔit pɦiɛ̏w ʔîm. dzǎi’ lǒw ɦiɑ̌ŋ. ʒȉn put kham kɦȉ ʔiow. ɦȕi jiɛ̂ put kâi kɦȉ lɔ̏k. ɦiɛ̏n tsai ɦȕi jiɛ̂.
 
 〇冉求曰。非不說子之道。力不足也。子曰。力不足者。中道而廢。今女畫。
 · nyemX gjuw hjwot. pj+j pjuw ywet tsiX tsyi dawX. lik pjuw tsjowk yaeX. tsiX hjwot. lik pjuw tsjowk tsyaeX. trjuwng dawX nyi pjojH. kim nyoX hweak.
@@ -684,7 +684,7 @@ zywit nyi dejH tshit
 
 〇子曰。飯疏食。飲水。曲肱而枕之。樂亦在其中矣。不義而富且貴。於我如浮雲。
 · tsiX hjwot. bjonX srjo ziH. ’imX sywijX. khjowk kwong nyi tsyimH tsyi. lak yek dzojX gi trjuwng hiX. pjuwH ngjeH nyi pjuwH tshjaeX kjw+jH. ’jo ngaX nyo bjuw hjun.
-· tsɨ̂ jyuɛ̏t. fvân ʂu szǐ. ʔîm ʂûi. khyuk kwəŋ ɻ̏ tʃǐm tʃiɨ. lɔ̏k jȉk dzǎi’ kɦȉ tʃyuŋ jî. put jǐ ɻ̏ fǒw tshiɛ̂ kǔi. ʔy ŋɔ̂ ʒy̏ fvȍw jyȕn.
+· tsɨ̂ jyuɛ̏t. fvân ʂu szɨ̌. ʔîm ʂûi. khyuk kwəŋ ɻ̏ tʃǐm tʃiɨ. lɔ̏k jȉk dzǎi’ kɦȉ tʃyuŋ jî. put jǐ ɻ̏ fǒw tshiɛ̂ kǔi. ʔy ŋɔ̂ ʒy̏ fvȍw jyȕn.
 
 〇子曰。加我數年。五十以學易。可以無大過矣。
 · tsiX hjwot. kae(kaeX?) ngaX sraewk nen. nguX(?) dzyip(tswit?) yiX haewk yek. khaX yiX mju dajH kwaH hiX.
@@ -1020,7 +1020,7 @@ hiɑŋ tɑ̂ŋ dǐ ʃʒȉp
 
 〇食不厭精。膾不厭細。食饐而餲。魚餒。而肉敗不食。色惡不食。臭惡不食。失飪不食。不時不食。割不正不食。不得其醬不食。肉雖多。不使勝食氣。唯酒無量。不及亂。沽酒市脯不食。不撤薑食。不多食。祭於公。不宿肉。祭肉、不出三日。出三日。不食之矣。食不語。寢不言。雖疏食菜羹瓜。祭。必齊如也。
 · ziH pjuw ’jiemH tsjeng. kwajH pjuw ’jiemH sejH. ziH ’ijH nyi ’aejH. ngjo nwojX. nyi nyuwk baejH pjuw zyik. srik ’ak pjuw zyik. xjuwH ’ak pjuw zyik. syit nyimX pjuw zyik. pjuw dzyi pjuw zyik. kat pjuw tsyengH pjuw zyik. pjuw tok gi tsjangH pjuw zyik. nyuwk swij ta. pjuw sriX syingH ziH (k)hj+jH. ywij tsjuwX mju ljangH. pjuw gip lwanH. ku tsjuwX dzyiX pjuX pjuw zyik. pjuw trhjet kjang zyik. pjuw ta zyik. tsjejH ’jo kuwng. pjuw sjuwk nyuwk. tsjejH nyuwk, pjuw tsyhwit sam nyit. tsyhwit sam nyit. pjuw zyik tsyi hiX. zyik pjuw ngjoX. tshimX pjuw ngjon. swij srjo ziH tshojH kaeng kwae. tsjejH. pjit dzej nyo yaeX.
-· szǐ put ʔiɛ̌m tsiŋ. kǔi put ʔiɛ̌m sǐ. szǐ ʔǐ ɻ̏ ʔ(i)ǎi. ŋy̏ nûi. ɻ̏ ʒyȕk bǎi put ʃʒȉk. ʂək ʔɔk put ʃʒȉk. hiǒw ʔɔk put ʃʒȉk. ʃit ʒîm put ʃʒȉk. put ʃʒiɨ̏ put ʃʒȉk. kɔt put tʃǐŋ put ʃʒȉk. put tək kɦȉ tsiɑ̌ŋ put ʃʒȉk. ʒyȕk sui tɔ. put ʂɨ̂ ʃǐŋ szǐ (k)hǐ. vȉ tsiôw vȕ liɑ̌ŋ. put gȉp lwɔ̌n. ku tsiôw ʃʒiɨ̌’ fû put ʃʒȉk. put tʃhiɛt kiɑŋ ʃʒȉk. put tɔ ʃʒȉk. tsǐ ʔy kuŋ. put syuk ʒyȕk. tsǐ ʒyȕk, put tʃhyut sam ʒȉt. tʃhyut sam ʒȉt. put ʃʒȉk tʃiɨ jî. ʃʒȉk put ŋŷ. tshîm put jiɛ̏n. sui ʂu szǐ tshǎi kəŋ kwa. tsǐ. pit tsɦȉ ʒy̏ jiɛ̂.
+· szɨ̌ put ʔiɛ̌m tsiŋ. kǔi put ʔiɛ̌m sǐ. szɨ̌ ʔǐ ɻ̏ ʔ(i)ǎi. ŋy̏ nûi. ɻ̏ ʒyȕk bǎi put ʃʒȉk. ʂək ʔɔk put ʃʒȉk. hiǒw ʔɔk put ʃʒȉk. ʃit ʒîm put ʃʒȉk. put ʃʒiɨ̏ put ʃʒȉk. kɔt put tʃǐŋ put ʃʒȉk. put tək kɦȉ tsiɑ̌ŋ put ʃʒȉk. ʒyȕk sui tɔ. put ʂɨ̂ ʃǐŋ szɨ̌ (k)hǐ. vȉ tsiôw vȕ liɑ̌ŋ. put gȉp lwɔ̌n. ku tsiôw ʃʒiɨ̌’ fû put ʃʒȉk. put tʃhiɛt kiɑŋ ʃʒȉk. put tɔ ʃʒȉk. tsǐ ʔy kuŋ. put syuk ʒyȕk. tsǐ ʒyȕk, put tʃhyut sam ʒȉt. tʃhyut sam ʒȉt. put ʃʒȉk tʃiɨ jî. ʃʒȉk put ŋŷ. tshîm put jiɛ̏n. sui ʂu szɨ̌ tshǎi kəŋ kwa. tsǐ. pit tsɦȉ ʒy̏ jiɛ̂.
 
 〇席不正不坐。
 · zjek pjuw tsyengH pjuw dzwaX.
