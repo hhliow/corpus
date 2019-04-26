@@ -1,7 +1,7 @@
 #《論語》中古音及中州音
 # 論語 in Middle Chinese and Classical Mandarin.
 # author: hhliow (github.com/hhliow)
-# version: 20190425
+# version: 20190426
 # license: cc by-nc-sa 4.0
 # Middle Chinese is in Baxter transcription, converted and proof-read by hhliow from the compilation done by biopolyhedron (github.com/biopolyhedron).
 # Mandarin pronunciation is transcribed by hhliow following the system of 洪武正韻譯訓
@@ -1864,8 +1864,8 @@ jiɑ̏ŋ hwɔ̌ dǐ ʃʒȉp tshit
 · tsɨ̂ jyuɛ̏t. jiȍw jiɛ̂. ʒŷ<【集註】音汝下同> vȕn lȕk jiɛ̏n lȕk pǐ<【音義】必世反> jî ɦȕ. tǔi jyuɛ̏t. vǐ jiɛ̂. ky ŋȕ ŋy̌<【音義】魚據反【集註】去聲> ʒŷ.<【集註】音汝下同> hǎw<【音義】呼報反下同【集註】去聲> ʒȉn put hǎw<【音義】呼報反【集註】去聲> ɦiɔ̏k. kɦȉ pǐ jiɛ̂ ŋy̏. hǎw<【音義】呼報反【集註】去聲> tʃǐ<【集註】去聲> put hǎw<【音義】呼報反【集註】去聲> ɦiɔ̏k. kɦȉ pǐ jiɛ̂ dɑ̌ŋ’. hǎw<【音義】呼報反【集註】去聲> sǐn put hǎw<【音義】呼報反【集註】去聲> ɦiɔ̏k. kɦȉ pǐ jiɛ̂ dzə̏k. hǎw<【音義】呼報反【集註】去聲> dʒȉk put hǎw<【音義】呼報反【集註】去聲> ɦiɔ̏k. kɦȉ pǐ jiɛ̂ kiâw.<【音義】交卯反> hǎw<【音義】呼報反【集註】去聲> jyûŋ put hǎw<【音義】呼報反【集註】去聲> ɦiɔ̏k. kɦȉ pǐ jiɛ̂ lwɔ̌n. hǎw<【音義】呼報反【集註】去聲> kɑŋ put hǎw<【音義】呼報反【集註】去聲> ɦiɔ̏k. kɦȉ pǐ jiɛ̂ kɦwɑ̏ŋ.
 
 〇子曰。小子何莫學夫〈【音義】音符【集註】音扶〉詩。（包曰小子門人也）詩可以興。〈【音義】許應反注同〉（孔曰興〈【音義】許應反〉引譬連類）可以觀。〈【音義】如字注同〉（鄭曰觀〈【音義】如字〉風俗之盛衰）可以羣。（孔曰群居相切差〈【音義】七何反〉）可以怨。（孔曰怨刺〈【音義】七賜反〉上政）邇〈【音義】音爾〉之事父。遠之事君。（孔曰邇近也）多識於鳥獸草木之名。子謂伯魚曰。女〈【集註】音汝下同〉爲周南召〈【音義】實照反下及注同〉南矣乎。人而不爲周南召〈【音義】實照反〉南。其猶正牆面而立也與。〈【音義】音餘【集註】平聲〉（馬曰周南召〈【音義】實照反〉南國風之始樂得淑〈【音義】受六反〉女〈【音義】如字〉以配君子三綱之首王教之端故人而不爲如向〈【音義】郷許亮反又作向同〉牆而立）
-· tsiX hjwot. sjewX tsiX ha mak haewk bju<【音義】音符【集註】音扶> syi. syi khaX yiX xing.<【音義】許應反注同> khaX yiX kwan.<【音義】如字注同> khaX yiX gjun. khaX yiX ’jwonH. nyeX<【音義】音爾> tsyi dzriH bjuX. hjwonX tsyi dzriH kjun. ta syik ’jo tewX syuwH tshawX muwk tsyi mjieng. tsiX hjw+jH paek ngjo hjwot. nyoX<【集註】音汝下同> hjwe tsyuw nom dzyewH<【音義】實照反下及注同> nom hiX hu. nyin nyi pjuw hjwe tsyuw nom dzyewH<【音義】實照反> nom. gi yuw tsyengH dzjang mjienH nyi lip yaeX yo.<【音義】音餘【集註】平聲>
-· tsɨ̂ jyuɛ̏t. siɛ̂w tsɨ̂ ɦɔ̏ mɔ̏k ɦiɔ̏k fvȕ<【音義】音符【集註】音扶> ʃiɨ. ʃiɨ khɔ̂ jî hiŋ.<【音義】許應反注同> khɔ̂ jî kwɔn.<【音義】如字注同> khɔ̂ jî kɦyȕn. khɔ̂ jî ʔyuɛ̌n. ɻ̂<【音義】音爾> tʃiɨ ʂʐɨ̌ fvǔ’. jyuɛ̂n tʃiɨ ʂʐɨ̌ kyun. tɔ ʃik ʔy tiɛ̂w/niɛ̂w ʃiǒw tshâw mȕk tʃiɨ mȉŋ. tsɨ̂ ǔi pək ŋy̏ jyuɛ̏t. ʒŷ<【集註】音汝下同> ȕi tʃiow nȁm ʃʒiɛ̌w<【音義】實照反下及注同> nȁm jî ɦȕ. ʒȉn ɻ̏ put ȕi tʃiow nȁm ʃʒiɛ̌w<【音義】實照反> nȁm. kɦȉ jiȍw tʃǐŋ tsɦiɑ̏ŋ miɛ̌n ɻ̏ lȉp jiɛ̂ jy̏.<【音義】音餘【集註】平聲>
+· tsiX hjwot. sjewX tsiX ha mak haewk bju<【音義】音符【集註】音扶> syi. syi khaX yiX xingH.<【音義】許應反注同> khaX yiX kwan.<【音義】如字注同> khaX yiX gjun. khaX yiX ’jwonH. nyeX<【音義】音爾> tsyi dzriH bjuX. hjwonX tsyi dzriH kjun. ta syik ’jo tewX syuwH tshawX muwk tsyi mjieng. tsiX hjw+jH paek ngjo hjwot. nyoX<【集註】音汝下同> hjwe tsyuw nom dzyewH<【音義】實照反下及注同> nom hiX hu. nyin nyi pjuw hjwe tsyuw nom dzyewH<【音義】實照反> nom. gi yuw tsyengH dzjang mjienH nyi lip yaeX yo.<【音義】音餘【集註】平聲>
+· tsɨ̂ jyuɛ̏t. siɛ̂w tsɨ̂ ɦɔ̏ mɔ̏k ɦiɔ̏k fvȕ<【音義】音符【集註】音扶> ʃiɨ. ʃiɨ khɔ̂ jî hǐŋ.<【音義】許應反注同> khɔ̂ jî kwɔn.<【音義】如字注同> khɔ̂ jî kɦyȕn. khɔ̂ jî ʔyuɛ̌n. ɻ̂<【音義】音爾> tʃiɨ ʂʐɨ̌ fvǔ’. jyuɛ̂n tʃiɨ ʂʐɨ̌ kyun. tɔ ʃik ʔy tiɛ̂w/niɛ̂w ʃiǒw tshâw mȕk tʃiɨ mȉŋ. tsɨ̂ ǔi pək ŋy̏ jyuɛ̏t. ʒŷ<【集註】音汝下同> ȕi tʃiow nȁm ʃʒiɛ̌w<【音義】實照反下及注同> nȁm jî ɦȕ. ʒȉn ɻ̏ put ȕi tʃiow nȁm ʃʒiɛ̌w<【音義】實照反> nȁm. kɦȉ jiȍw tʃǐŋ tsɦiɑ̏ŋ miɛ̌n ɻ̏ lȉp jiɛ̂ jy̏.<【音義】音餘【集註】平聲>
 
 〇子曰。禮云禮云。玉帛云乎哉。（鄭曰玉圭璋之屬帛束帛之屬言禮非但崇此玉帛而已所貴者乃貴其安上治民）樂云樂云。鐘鼓云乎哉。（馬曰樂之所貴者移風易俗非謂鍾鼓而已）
 · tsiX hjwot. lejX hjun lejX hjun. ngjowk baek hjun hu tsoj. ngaewk hjun ngaewk hjun. tsyowng kuX hjun hu tsoj.
