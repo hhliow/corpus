@@ -26,7 +26,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 0	0	YES	墨		
 0	0		翟	dek	dȉk
 0	0	YES	壅		
-0	0		底	tejX	tiɪ̂i
+0	0		底	tejX	tî
 0	0	YES	迂	’ju/hju	ʔy/jy̏
 0	0	YES	值	driH	dʒǐ
 0	0		炎		
@@ -36,7 +36,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 0	0		後		
 0	0	YES	難	nanH	nǎn
 0	0		疑		
-0	0	YES	繫	hejH	ɦiɪ̌i
+0	0	YES	繫	hejH	ɦǐ
 0	0	YES	錧	kwanX	kwɔ̂n
 0	0		鎋	haet	ɦiȁt
 0	0	YES	衿	kim	kim
@@ -147,3 +147,1984 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 1	4		惡		
 1	4	YES	死		
 1	4		邪	yae	jiɛ̏
+1	5	YES	長	trjangX	tʃiɑ̂ŋ
+1	5		子		
+1	5	YES	洒	sejX?	sî?
+1	5		之		
+1	5	YES	省	srjaengX	ʂə̂ŋ
+1	5		刑		
+1	5	YES	税		
+1	5		斂	ljemH	liɛ̌m
+1	5	YES	易	yeH	jǐ
+1	5		耨	nuwH	nǒw
+1	5	YES	以		
+1	5		養	yangH	jiɑ̌ŋ
+1	6	YES	語	ngjoH	ŋy̌
+1	6		人		
+1	6	YES	卒	tshwot	tshut
+1	6		然		
+1	6	YES	槁	khawX	khâw
+1	6	YES	沛	phajH	phǔi
+1	6	YES	浡	bwot	bȕt
+1	6	YES	由	yuw	jiȍw
+1	6		水		
+1	7	YES	宓	bjuwk	fvȕk
+1	7	YES	戯	hje	hi
+1	7	YES	齕	hot	ɦə̏t
+1	7	YES	釁	xinH	hǐn
+1	7	YES	舍	syaeX	ʃiɛ̂
+1	7		之		
+1	7	YES	觳	huwk	ɦȕk
+1	7		觫	suwk	suk
+1	7	YES	鐘		
+1	7		與	yo	jy̏
+1	7	YES	郄	khjaek	khik
+1	7	YES	大	thajH	thǎi
+1	7		祝		
+1	7	YES	墮	xjwie	hui
+1	7	YES	逺	hjwonH	jyuɛ̌n
+1	7		庖		
+1	7	YES	王		
+1	7		説	ywet	jyuɛ̏t
+1	7	YES	挾	hep	ɦiɛ̏p
+1	7	YES	以		
+1	7		超		
+1	7	YES	折	tsyet	tʃiɛt
+1	7		枝		
+1	7	YES	罷	bje	pɦȉ
+1	7		枝		
+1	7	YES	少	syewH	ʃiɛ̌w
+1	7		者		
+1	7	YES	以		
+1	7		御		
+1	7	YES	思		
+1	7		齊	tsreaj	ʈʂai
+1	7	YES	適	tek	tik
+1	7		妻		
+1	7	YES	好	xawH	hǎw
+1	7		惡	’uH	ʔǔ
+1	7	YES	度	dak	dɒ̏k
+1	7		之		
+1	7	YES	便	bjien	pɦiɛ̏n
+1	7		嬖	pejH/pjieH	pǐ
+1	7	YES	辟	bjiek	bȉk
+1	7		土		
+1	7	YES	賈	kuX	kû
+1	7	YES	愬	suH	sǔ
+1	7	YES	惽	xwon	hun
+1	7	YES	放		
+1	7		辟	phjiek	phik
+1	7	YES	邪		
+1	7		侈	tsyheX	tʃhiɨ̂
+1	7	YES	為		
+1	7		已	yiX	jî
+1	7	YES	罔		
+1	7		民		
+1	7	YES	焉	’jen	ʔiɛn
+1	7		有		
+1	7	YES	以		
+1	7		畜	xjuwk	hyuk
+1	7	YES	當	tangH	tɑ̌ŋ
+1	7		章		
+1	7	YES	譎	kwet	kyuɛt
+2	1	YES	暴		
+2	1		見	henH	ɦiɛ̌n
+2	1	YES	王		
+2	1		語	ngjoH	ŋy̌
+2	1	YES	好	xawH	hǎw
+2	1		樂		
+2	1	YES	愠	’junH	ʔyǔn
+2	1	YES	恚	’jwieH	ʔǔi/ɦǔi
+2	1	YES	與		
+2	1		民		
+2	1		同		
+2	1		樂	lak	lɒ̏k
+2	1	YES	聞		
+2	1		與	yo	jy̏
+2	1	YES	獨		
+2	1		樂	ngaewk	(ŋ)jiɒ̏k
+2	1		樂	lak	lɒ̏k
+2	1	YES	孰		
+2	1		樂	lak	lɒ̏k
+2	1	YES	為	hjweH	ǔi
+2	1		王		
+2	1	YES	舉		
+2	1		疾		
+2	1		首		
+2	1		蹙	tsjuwk	tsyuk
+2	1		頞	’at	ʔɔt
+2	1	YES	隙	khjaek	khik
+2	1	YES	何		
+2	1		惡	’uH	ʔǔ
+2	2	YES	於		
+2	2		傳	drjwenH	dʒyuɛ̌n
+2	2	YES	蕘	nyew	ʒiɛ̏w
+2	2	YES	刈	ngjojH	ŋǐ
+2	2	YES	為		
+2	2		阱	dzjengH	dzǐŋ
+2	3	YES	混	kwon	kun
+2	3		夷		
+2	3	YES	喙	xjwojH	hǔi
+2	3	YES	大	thajH	thǎi
+2	3		王		
+2	3	YES	獯	xjun	hyun
+2	3		鬻	yuwk	jyȕk
+2	3	YES	勾	kuw	kow
+2	3		踐		
+2	3	YES	㑹	kwajH	kǔi
+2	3	YES	夫	bju	fvȕ
+2	3		差		
+2	3	YES	樂	lak	lɒ̏k
+2	3		天		
+2	3	YES	彼		
+2	3		惡	’u	ʔu
+2	3	YES	瞋	tsyhin	tʃhin
+2	3	YES	書		
+2	3		曰		
+2	3		天		
+2	3		降		
+2	3		下		
+2	3		民		
+2	3		至		
+2	3		越		
+2	3		厥		
+2	3		志		
+2	3	YES	衡	hwaeng?	ɦwə̏ŋ?
+2	3		行		
+2	4	YES	從	tsjowngH	tsyǔŋ
+2	4		欲		
+2	4	YES	為	hjweH	ǔi
+2	4		之		
+2	4		赴		
+2	4		難	nanH	nǎn
+2	4	YES	朝		
+2	4		儛	mjuX	vû
+2	4	YES	放	pjangX	fɑ̂ŋ
+2	4	YES	琅	lang	lɑ̏ŋ
+2	4	YES	邪	yae	jiɛ̏
+2	4	YES	王		
+2	4		觀	kwanH?	kwɔ̌n?
+2	4	YES	其		
+2	4		相	sjangH	siɑ̌ŋ
+2	4	YES	春		
+2	4		省	sjengX	sîŋ
+2	4	YES	從	tshjowng	tshyuŋ
+2	4		容		
+2	4	YES	睊	kwen	kyuɛn
+2	4		睊	kwen	kyuɛn
+2	4	YES	慝	thok	thək
+2	4	YES	湎	mjienX	miɛ̂n
+2	4	YES	蹯	bjon	fvȁn
+2	4	YES	行	haengH	ɦǐŋ
+2	4		也		
+2	4	YES	無		
+2	4		厭	’jiem?	ʔiɛm?
+2	4	YES	公		
+2	4		説	ywet	jyuɛ̏t
+2	4	YES	徴		
+2	4		招	dzyew	ʃʒiɛ̏w
+2	4	YES	畜	xjuwk	hyuk
+2	4		君		
+2	5	YES	孥	nu	nȕ
+2	5	YES	譏		
+2	5		難	nanH	nǎn
+2	5	YES	惡	’uH	ʔǔ
+2	5		惡	’ak	ʔɒk
+2	5	YES	哿	kaX	kɔ̂
+2	5		矣		
+2	5	YES	煢	gjwieng	kɦyuə̏ŋ
+2	5	YES	糇	huw	hə̏w
+2	5	YES	橐	thak	thɒk
+2	5	YES	思		
+2	5		戢	dzip	dzȉp
+2	5	YES	啓		
+2	5		行	hang	ɦɑ̏ŋ
+2	5	YES	裹		
+2	5		盛	dzyeng	tʃɦȉŋ
+2	5	YES	滸	xuX	hû
+2	5	YES	恂	swin	syun
+2	6	YES	比	pjijH	pǐ
+2	6		其		
+2	6	YES	無		
+2	6		墮	xjwie/dwaX	hui/dwɔ̌'
+2	7	YES	舎	syaeX	ʃiɛ̂
+2	7		之		
+2	7	YES	防		
+2	7		比	bjijH	bǐ
+2	7	YES	核		
+2	7	YES	惡	’ak’/uH	ʔɒk/ʔǔ
+2	7		直		
+2	7	YES	大		
+2	7		辟	bjiek	bȉk
+2	9	YES	舎	syaeX	ʃiɛ̂
+2	9		女	nyoX	ʒŷ
+2	9	YES	人		
+2	9		少	syewH	ʃiɛ̌w
+2	9	YES	鎰	yit	jȉt
+2	10	YES	簞	tan	tan
+2	10		食	ziH	szɨ̌
+2	11	YES	霓	ngej	ŋȉ
+2	11	YES	徯	hejX	ɦǐ'
+2	11	YES	係	kejH	kǐ
+2	11		累	lwij	lȕi
+2	11	YES	并		
+2	11		燕		
+2	11	YES	旄	maw	mȁw
+2	11		倪	ngej	ŋȉ
+2	11	YES	繄	’ej	ʔi
+2	11	YES	夫	bju	fvȕ
+2	11		將		
+2	12	YES	魯		
+2	12		鬨	huwngH/haewngH	ɦǔŋ/ɦiɑ̌ŋ
+2	12	YES	長	trjangX	tʃiɑ̂ŋ
+2	12		上		
+2	12	YES	軍		
+2	12		率	srwijH	ʂwǔi/ʂwǎi
+2	12	YES	忿	phjunX	fûn
+2	12	YES	阨	’eak	ʔək
+2	13	YES	無		
+2	13		已	yiX	jî
+2	14	YES	以		
+2	14		偪	pik	pik
+2	14	YES	以		
+2	14		遺	ywijH	ǔi
+2	15	YES	貉	hak	ɦɒ̏k
+2	15	YES	乃		
+2	15		屬	tsyowk	tʃyuk
+2	16	YES	鼎		
+2	16		與	yo	jy̏
+2	16	YES	曰		
+2	16		否	pjuwX	fôw
+2	16	YES	沮	dzjoX	dzŷ
+2	16	YES	尼	nrit	nȉt
+2	16		之		
+2	16	YES	焉	’jen	ʔiɛn
+2	16		能		
+3	1	YES	可		
+3	1		復	bjuwH	fvǒw
+3	1	YES	蹵	tsjuwk	tsyuk
+3	1	YES	踖	tsjek	tsik
+3	1	YES	艴	bwot/phjut	bȕt/fut
+3	1	YES	何		
+3	1		曽	tsong	tsəŋ
+3	1	YES	愠	’junH	ʔyǔn
+3	1	YES	不		
+3	1		帥	srwit	?ʂut
+3	1	YES	重	drjowngH	dʒyǔŋ
+3	1		言		
+3	1	YES	為	hjweH	ǔi
+3	1		我		
+3	1	YES	為		
+3	1		與	yo	jy̏
+3	1	YES	以		
+3	1		齊		
+3	1		王	hjwangH	wɑ̌ŋ
+3	1	YES	由		
+3	1		反		
+3	1		手		
+3	1	YES	易	yeH	jǐ
+3	1		然		
+3	1	YES	丁		
+3	1		朝	drjew	tʃɦiɛ̏w
+3	1	YES	膠		
+3	1		鬲	keak/lek	kək/lȉk
+3	1	YES	輔		
+3	1		相	sjangH	siɑ̌ŋ
+3	1	YES	鎡	tsi	tsɨ
+3	1		基		
+3	1	YES	改		
+3	1		辟	bjiek	bȉk
+3	1	YES	郵	hjuw	jiȍw
+3	2	YES	畏		
+3	2		難	nanH	nǎn
+3	2	YES	我		
+3	2		四		
+3	2		十		
+3	2		不		
+3	2		動		
+3	2		心		
+3	2	YES	賁	pwon	pun
+3	2	YES	黝	’jiwX	ʔiôw
+3	2	YES	橈	nraewH	nǎw
+3	2	YES	百		
+3	2		行	haengH	ɦǐŋ
+3	2	YES	要	’jiew	ʔiɛw
+3	2		之		
+3	2	YES	子		
+3	2		好	xawH	hǎw
+3	2	YES	吾		
+3	2		不		
+3	2		惴	tsyweH	ʈʂǔi
+3	2		焉		
+3	2	YES	之		
+3	2		帥	srwijH/srwit	ʂǔi/ʂwǎi/ʂut
+3	2	YES	度	dak	dɒ̏k
+3	2	YES	蹶	kjwot/kjwejH	kyuɛt
+3	2	YES	顛	ten	tiɛn
+3	2		倒		
+3	2	YES	惡	’u	ʔu
+3	2		乎		
+3	2	YES	所		
+3	2		趨	tshjuH	tshy̌
+3	2	YES	無		
+3	2		是		
+3	2		餒	nwojX	nûi
+3	2		也		
+3	2	YES	慊	khemX	khiɛ̂m
+3	2	YES	助		
+3	2		長	trjangX	tʃiɑ̂ŋ
+3	2	YES	揠	’eat	ʔiat
+3	2	YES	芒	mang	mɑ̏ŋ
+3	2		芒	mang	mɑ̏ŋ
+3	2	YES	亟	kik	kik
+3	2	YES	罷	bje	pɦȉ
+3	2	YES	舎	syaeX	ʃiɛ̂
+3	2		之		
+3	2	YES	詖	pjeH	pǐ
+3	2	YES	自		
+3	2		斷	twanX	twɔ̂n
+3	2	YES	以		
+3	2		譽	yo/yoH	jy̏/jy̌
+3	2	YES	麗	lje	lȉ
+3	2		姬		
+3	2	YES	邪		
+3	2		辟	phjiek	phik
+3	2	YES	廋	srjuw	ʂow
+3	2	YES	説	sywejH/sywet	ʂǔi/ʃyuɛt
+3	2		辭		
+3	2	YES	夫	bju	fvȕ
+3	2		聖		
+3	2	YES	汙	’wae	ʔwa
+3	2	YES	垤	det	diɛ̏t
+3	2	YES	行		
+3	2		潦	law'	lâw
+3	2	YES	大	thajH	thǎi
+3	2		過		
+3	4	YES	惡	’uH	ʔǔ
+3	4		辱		
+3	4	YES	榮		
+3	4		樂	lak	lɒ̏k
+3	4	YES	居		
+3	4		埤	pjie	pi
+3	4	YES	閒	hean	ɦiȁn
+3	4		暇		
+3	4	YES	徹	drjet	dʒiɛ̏t
+3	4	YES	桑		
+3	4		土	duX	dǔ'
+3	4	YES	綢	drjuw	tʃɦiȍw
+3	4		繆	mjiw	miȍw
+3	4	YES	鴟	tsyhij	tʃhiɨ
+3	4	YES	鴞	hjew	hjɛw?
+3	4	YES	般	ban	pɦwɔ̏n
+3	4		樂		
+3	4	YES	怠		
+3	4		敖	ngaw/ngawH	ŋȁw/ŋǎw
+3	4	YES	孼	ngjet	ŋiɛ̏t
+3	4	YES	不		
+3	4		可		
+3	4		活	hwat/hwanH	ɦwɔ̏t/ɦwɔ̌n
+3	4	YES	雊	kuwH	kǒw
+3	5	YES	㕓	drjen	tʃɦiɛ̏n
+3	5	YES	願		
+3	5		藏	dzang	tsɦɑ̏ŋ
+3	5	YES	不		
+3	5		横	hwaengH	ɦwə̏ŋ
+3	5	YES	氓	maeng	mə̏ŋ
+3	6	YES	怵	trhwit	tʃhyut
+3	6		惕		
+3	6	YES	内	nop	nȁp
+3	6		交		
+3	6	YES	羞		
+3	6		惡	’uH/’ak	ʔǔ/ʔɒk
+3	6	YES	為		
+3	6		行	haengH	ɦǐŋ
+3	6	YES	擴	kwak/xwak	kwɒk/hwɒk
+3	7	YES	函	hom	ɦȁm
+3	7	YES	鎧	khojH/khojX	khǎi/khâi
+3	7	YES	祝	tsyuwk/tsyuwH	tʃyuk/tʃiǒw.
+3	7	YES	蚤		
+3	7		售		
+3	7	YES	不		
+3	7		中	trjuwngH	tʃyǔŋ
+3	8	YES	讜	tangX	tɑ̂ŋ
+3	9	YES	推		
+3	9		惡	’uH	ʔǔ
+3	9	YES	浼	mwojX/mwanX	mûi/mwɔ̂n
+3	9	YES	汙	’uH	ʔǔ
+3	9		也		
+3	9	YES	就		
+3	9		已	yiX	jî
+3	9	YES	遺		
+3	9		佚	yit	jȉt
+3	9	YES	阨	’eak	ʔək
+3	9		窮		
+3	9	YES	袒	danX	dǎn'
+3	9		裼	sek	sik
+3	9		裸	lwaX	lwɔ̂
+3	9		裎	drjeng	tʃɦȉŋ
+3	9	YES	焉	’jen	ʔiɛn
+3	9		能		
+3	9	YES	懣	manX/mwonX	mwɔ̂n/mûn
+3	9		也		
+3	9	YES	援		
+3	9		而		
+3	9		止		
+3	9		之		
+3	9	YES	憚	danH	dǎn
+3	9	YES	儷	lejH	lǐ
+3	9	YES	絀	trhwit	tʃhyut
+3	9	YES	伯		
+3	9		夷		
+3	9		隘	’eaH	ʔiǎi
+3	9	YES	彈	dan	tɦȁn
+3	9		正		
+3	9	YES	介		
+3	9		者		
+4	1	YES	王	hjwangH	wɑ̌ŋ
+4	1		相	sjangH	siɑ̌ŋ
+4	1	YES	和		
+4	1		樂	lak	lɒ̏k
+4	1	YES	不		
+4	1		下	haeH	ɦiǎ
+4	1	YES	馮	bing	pɦȉŋ
+4	1	YES	寡		
+4	1		助		
+4	1		之		
+4	1		至		
+4	1	YES	畔	banH	bwɔ̌n
+4	1		之		
+4	2	YES	惡	’u	ʔu
+4	2		寒		
+4	2	YES	造	tshawH	tshǎw
+4	2		朝		
+4	2	YES	之		
+4	2		從	dzjowngH	dzyǔŋ
+4	2	YES	數	srjuX?	ʂû?
+4	2		人		
+4	2		要	’jiew	ʔiɛw
+4	2	YES	曰		
+4	2		惡	’u	ʔu
+4	2	YES	宜		
+4	2		與	yo	jy̏
+4	2	YES	慊	khemX	khiɛ̂m
+4	2	YES	長	trjangX	tʃiɑ̂ŋ
+4	2		民		
+4	2	YES	好	xawH	hǎw
+4	3	YES	餽	gwijH	gǔi
+4	3	YES	贐		
+4	3	YES	為	hjweH	ǔi
+4	3		兵		
+4	3	YES	可		
+4	3		鬻	yuwk	jyȕk
+4	3	YES	有		
+4	3		處	tsyhoX	tʃhŷ
+4	3	YES	焉	’jen	ʔiɛn
+4	3		有		
+4	4	YES	則		
+4	4		去	khjoX	khŷ
+4	4		之		
+4	4	YES	其		
+4	4		行	hang	ɦɑ̏ŋ
+4	4	YES	幾	kj+jX/gj+j	kî/kɦȉ
+4	4		千		
+4	4	YES	賑	tsyinH	tʃǐn
+4	4	YES	素		
+4	4		餐	tshan	tshan
+4	5	YES	蚔	drij	tʃɦȉ
+4	5	YES	鼃	’wae/’wea	ʔwa
+4	5	YES	先	senH	siɛ̌n
+4	5		後	huwH	ɦǒw
+4	5	YES	毋	mju	vȕ
+4	5		使		
+4	5	YES	不		
+4	5		中	trjuwngH	tʃyǔŋ
+4	5	YES	藉		
+4	5		道		
+4	6	YES	蓋	kap	kɔp
+4	6		大		
+4	6		夫		
+4	6	YES	王		
+4	6		驩	xwan	hwɔn
+4	6	YES	同		
+4	6		使	sriH	ʂɨ̌
+4	6	YES	相		
+4	6		比	bjijH/pjijX	bǐ/pî
+4	6	YES	曰		
+4	6		夫	bju	fvȕ
+4	6	YES	危		
+4	6		行	haengH	ɦǐŋ
+4	7	YES	稱	tsyhingH	tʃhǐŋ
+4	7		之		
+4	7	YES	翣	sraep	ʂap
+4	7	YES	辟	bjieH	bǐ
+4	7		世		
+4	7	YES	度	dak	dɒ̏k
+4	7		而		
+4	7	YES	不		
+4	7		可		
+4	7		稱	tsyhing	tʃhiŋ
+4	7	YES	且		
+4	7		比	pjijH	pǐ
+4	7	YES	恔	haewH	ɦiǎw
+4	7		乎		
+4	8	YES	沈	syimX	ʃîm
+4	8		同		
+4	8	YES	子		
+4	8		噲	khwaejH	khwǎi
+4	9	YES	監	kaem	kiam
+4	9	YES	更	kaeng	kəŋ/kiəŋ
+4	9		也		
+4	10	YES	龍	ljowngX?	lûŋ?
+4	10		斷	dwanX/twanX	dwɔ̌n'/twɔ̂n
+4	10	YES	堁	khwaH/khwojH	khwɔ̌/khǔi
+4	11	YES	隱		
+4	11		几		
+4	11	YES	齊	tsreaj	ʈʂai
+4	11		宿		
+4	11	YES	語	ngjoH	ŋy̌
+4	11		子		
+4	11	YES	魯		
+4	11		繆	mjuwk	mȕk
+4	11	YES	愠	’junH	ʔyǔn
+4	12	YES	豈		
+4	12		舎	syaeX	ʃiɛ̂
+4	12	YES	悻	hengX/heangX/kheang	ɦǐŋ'/khəŋ
+4	12		悻		
+4	12	YES	見	henH	ɦiɛ̌n
+4	12		於		
+4	12	YES	狷	kwenh	kyuɛ̌n
+4	12	YES	恚	’jwieH	ʔǔi/ɦǔi
+4	14	YES	宿	sjuwH	siǒw
+4	14		留	ljuwH	liǒw
+4	14	YES	食		
+4	14		功		
+5	1	YES	使	sriH	ʂɨ̌
+5	1		於		
+5	1	YES	考		
+5	1		公		
+5	1		麇	kwin	kyun
+5	1	YES	相		
+5	1		直	driH	dʒǐ
+5	1	YES	復	bjuwH	fvǒw
+5	1		見		
+5	1	YES	重	drjowngH	dʒyǔŋ
+5	1		受		
+5	1	YES	覸	keanH/hean	kiǎn/ɦiȁn
+5	1	YES	瞑	menH	miɛ̌n
+5	1		眩	hwenH	ɦyuɛ̌n
+5	1	YES	瞑	menH/ten	miɛ̌n/tiɛn
+5	1		眩		
+5	1		憒	kwojH/hwojH	kǔi/ɦǔi
+5	1		亂		
+5	1	YES	景		
+5	1		行	haengH	ɦǐŋ
+5	1	YES	論		
+5	1		語		
+5	1		曰		
+5	1		力		
+5	1		行		
+5	1		近	gj+nH	gǐn
+5	1		仁		
+5	2	YES	𪗋	tsij	tsɨ
+5	2	YES	䟽	srjo	ʂu
+5	2	YES	飦	tsyen	tʃiɛn
+5	2	YES	縗	tshwoj	tshui
+5	2	YES	𩞁	mje	mȉ
+5	2	YES	更	kaeng	kəŋ
+5	2		也		
+5	2	YES	好	xawH	hǎw
+5	2		馳		
+5	2	YES	為	hjweH	ǔi
+5	2		我		
+5	2	YES	歠	tsyhwet	tʃhyuɛt
+5	2	YES	帥	srwit	ʂut
+5	3	YES	督		
+5	3		趣	tshjowk	tshyuk/tshuk
+5	3	YES	于		
+5	3		茅		
+5	3	YES	索	sak	sɒk
+5	3		綯	daw	tɦȁw
+5	3	YES	亟	kik	kik
+5	3		其		
+5	3		乘		
+5	3		屋		
+5	3	YES	閒	hean	ɦiȁn
+5	3		暇		
+5	3	YES	放		
+5	3		辟	phjiek	phik
+5	3	YES	邪		
+5	3		侈		
+5	3	YES	罔		
+5	3		民		
+5	3	YES	徹	drjet	dʒiɛ̏t
+5	3	YES	受		
+5	3		禪	dzyenH	ʃʒiɛ̌n
+5	3	YES	校		
+5	3		數	srjuX	ʂû
+5	3	YES	有		
+5	3		易	yeH	jǐ
+5	3	YES	樂	lak	lɒ$ɨk
+5	3		歲		
+5	3	YES	棄		
+5	3		捐	ywen	jyuɛ̏n
+5	3	YES	盻	?ngejX	?
+5	3		盻	?ngejX	?
+5	3	YES	以		
+5	3		養	yangH	jiɑ̌ŋ
+5	3	YES	稱	tsyhing	tʃhiŋ
+5	3		貸	?thojH	?thǎi
+5	3	YES	惡	’u	ʔu
+5	3		在		
+5	3	YES	養		
+5	3		食	ziH	szǐ
+5	3	YES	未		
+5	3		任	nyim	ʒȉm
+5	3	YES	雨	hjuH	jy̌
+5	3		我		
+5	3	YES	學		
+5	3		校	haewH	ɦiǎw
+5	3	YES	射	zyaeH	ʃʒiɛ̌
+5	3		也		
+5	3	YES	各		
+5	3		去	khjoX	khŷ
+5	3	YES	汙	’uH/’u	ʔǔ/ʔu
+5	3		吏		
+5	3	YES	長	trjangX	tʃiɑ̂ŋ
+5	3		爭		
+5	3	YES	絀	trhwit	tʃhyt
+5	3	YES	田		
+5	3		萊	loj	lȁi
+5	3	YES	夫	pju	fu
+5	3		圭		
+5	3		田		
+5	3	YES	磽	khaew	khiaw
+5	3	YES	别	pjet	piɛt
+5	3		野		
+5	3	YES	勠	ljuwk	lȕk
+5	3	YES	師		
+5	3		知	trjeH	tʃǐ
+5	4	YES	許		
+5	4		行	haeng/haengH	ɦȉŋ/ɦǐŋ
+5	4	YES	踵	tsyowngX	tʃyûŋ
+5	4	YES	氓	maeng	mə̏ŋ
+5	4	YES	衣	’j+jH	ʔǐ
+5	4		褐		
+5	4	YES	捆	khwonX	khûn
+5	4		屨		
+5	4	YES	叩		
+5	4		㧻	traewk	ʈʂwɒk
+5	4	YES	陳		
+5	4		相		
+5	4	YES	饔	’jowng	ʔyuŋ
+5	4	YES	飱	swon	sun
+5	4	YES	當	tangH	tɑ̌ŋ
+5	4		身		
+5	4	YES	粗	tshu	tshu
+5	4		布		
+5	4	YES	之		
+5	4		與	yo	jy̏
+5	4	YES	舎	syaeH	ʃiɛ̌
+5	4		皆		
+5	4	YES	路		
+5	4		也		
+5	4	YES	羸	ljwe/lwaX	lȕi/lwɔ̂
+5	4		路		
+5	4	YES	食	ziH	szǐ
+5	4		人		
+5	4	YES	食	zyik	ʃʒȉk
+5	4		於		
+5	4		人		
+5	4	YES	氾	phjomH	fǎm
+5	4		濫		
+5	4	YES	偪	pik	pik
+5	4	YES	瀹	yak	jiɒ$ɨk
+5	4		濟	tsejX	tsî
+5	4		漯	thop	thap
+5	4	YES	呱	ku	ku
+5	4	YES	使		
+5	4		契	sjet	siɛt
+5	4	YES	放	pjangX	fɑ̂ŋ
+5	4		勲		
+5	4	YES	曰	?njit	?ʒȉt
+5	4	YES	勞	lawH	lǎw
+5	4		之		
+5	4		來	lojH	lǎi
+5	4		之		
+5	4	YES	不		
+5	4		與	yoH/yoX	jy̌/jŷ
+5	4		焉		
+5	4	YES	倍	bwojH	bǔi
+5	4		之		
+5	4	YES	治		
+5	4		任	nyim	ʒȉm
+5	4	YES	强	gjangX	giɑ̌ŋ'
+5	4	YES	暴	buwk	bȕk
+5	4		之		
+5	4	YES	皜	kawX	kâw
+5	4	YES	質		
+5	4		放	pjangX	fɑ̂ŋ
+5	4	YES	鴃	kwet	kyuɛt
+5	4		舌		
+5	4	YES	鳴		
+5	4		鴃	?kjwiek	kyuək
+5	4	YES	大	thajH	thǎi
+5	4		古		
+5	4	YES	閟	pijH	pǐ
+5	4		宫		
+5	4	YES	膺		
+5	4		擊		
+5	4	YES	懲		
+5	4		艾	?	?
+5	4	YES	市		
+5	4		賈	kaeH	kiǎ
+5	4	YES	倍		
+5	4		蓰	?srje/srjeX	?ʂɨ/sî
+5	4	YES	子		
+5	4		比	bjijH	bǐ
+5	5	YES	徐		
+5	5		辟	?pek/bjiek	pik/bȉk
+5	5	YES	道		
+5	5		不		
+5	5		見	henH	ɦiɛ̌n
+5	5	YES	匍	bu	pɦȕ
+5	5	YES	匐	bok	bə̏k
+5	5	YES	蠅		
+5	5		蜹	?nywejH	ʒǔi
+5	5		姑		
+5	5	YES	嘬	tsrhwaejH	?
+5	5	YES	有		
+5	5		泚	tshejX	tshî
+5	5	YES	睨	ngejH	ŋǐ
+5	5	YES	虆	lwij	lȕi
+5	5		梩	li	lȉ
+5	5	YES	籠		
+5	5		臿	tsrheap	ʈʂhap
+5	5	YES	憮	mjuX	vû
+6	1	YES	志		
+6	1		曰		
+6	1	YES	介	keajH	kiǎi
+6	1	YES	信	syin	ʃin
+6	1		道		
+6	1	YES	為		
+6	1		與	yo	jy̏
+6	1	YES	要	’jiew	ʔiɛw
+6	1		利		
+6	1	YES	奚		
+6	1		乘	zyingH	ʃʒǐŋ
+6	1	YES	强	gjangX	giɑ̌ŋ'
+6	1		而		
+6	1	YES	射	zyek	ʃʒȉk
+6	1		之		
+6	1	YES	範		
+6	1		我		
+6	1	YES	詭		
+6	1		遇		
+6	1	YES	舍	syaeX	ʃiɛ̂
+6	1		矢		
+6	1	YES	不		
+6	1		貫	kwaenH	kwǎn
+6	1	YES	中	trjuwngH	tʃyǔŋ
+6	1		之		
+6	1	YES	貫		
+6	1		臧		
+6	1	YES	者		
+6	1		比	bjijH	bǐ
+6	2	YES	熄	sik	sik
+6	2	YES	從	tsjowng	tsyuŋ
+6	2		横		
+6	2	YES	從		
+6	2		長	trjangX	tʃiɑ̂ŋ
+6	2	YES	焉	’jen	ʔiɛn
+6	2		得		
+6	2	YES	之		
+6	2		冠	kwanH	kwɔ̌n
+6	2	YES	女	nyoX	ʒŷ
+6	2		家		
+6	3	YES	出		
+6	3		疆	kjang	kiɑŋ
+6	3	YES	載		
+6	3		質	tsyijh	tʃiɨ̌
+6	3	YES	以		
+6	3		見	henH	ɦiɛ̌n
+6	3	YES	粢	tsij	tsɨ
+6	3	YES	盛	dzyeng	tʃɦȉŋ
+6	3	YES	繅	saw	saw
+6	3	YES	皿	mjaengX	mîŋ
+6	3	YES	藉	dzjek	dzȉk
+6	3	YES	腯	dwot	?
+6	3	YES	絀	trhwit	tʃhyut
+6	3	YES	為	hjweH	ǔi
+6	3		出		
+6	3	YES	難	nanH/nan	nǎn/nȁn
+6	3		仕		
+6	3	YES	媒		
+6	3		妁	tsyak	tʃiɒk
+6	3	YES	隙	khjaek	khik
+6	3	YES	又		
+6	3		惡	’uH	ʔǔ
+6	4	YES	彭		
+6	4		更	kaeng	kəŋ
+6	4	YES	從	dzjowngH	dzyǔŋ
+6	4		者		
+6	4	YES	傳	trjwenH	tʃyuɛ̌n
+6	4		食		
+6	4	YES	簞		
+6	4		食	ziH	?
+6	4	YES	笥	siH	sɨ̌
+6	4	YES	羨	zjenH/yenH	sziɛ̌n/jiɛ̌n
+6	4	YES	畫	hweak	ɦwə̏k
+6	4	YES	墁	man	mwɔ̏n
+6	4	YES	素		
+6	4		餐	tshan	tshan
+6	5	YES	亳	bak	bɒ$ɨk
+6	5	YES	遺	ywijH	ǔi
+6	5		之		
+6	5	YES	餉	syangH	ʃiɑ̌ŋ
+6	5	YES	徯	hejX	ɦǐ'
+6	5	YES	匪		
+6	5		厥		
+6	5	YES	救		
+6	6	YES	咻	xjuw	hiow
+6	6		之		
+6	6	YES	嚾	xjew/xwan	hiɛw/hwɔn
+6	6		也		
+6	6	YES	湼	net	niɛ̏t
+6	7	YES	辟	bjieH	bǐ
+6	7		之		
+6	7	YES	不		
+6	7		内	nop	nȁp
+6	7	YES	繆	mjuwk	mȕk
+6	7		公		
+6	7	YES	矙	?	khǎm
+6	7	YES	使	sriH	ʂɨ̌
+6	7		人		
+6	7	YES	脅	xjaep/xip	hiɛp/hip
+6	7	YES	畦	hwej	?
+6	7	YES	竦	sjowngX	syûŋ
+6	7	YES	强	gjangX	giɑ̌ŋ'
+6	7	YES	赧	nraenX	nân
+6	8	YES	去	khjoX	khŷ
+6	8		闗		
+6	8	YES	攘	nyang	ʒiɑ̏ŋ
+6	9	YES	子		
+6	9		好	xawH	hǎw
+6	9	YES	汜	?phjomH	fǎm
+6	9	YES	埤	pjie	pi
+6	9	YES	度	dak	dɒ$ɨk
+6	9		之		
+6	9	YES	洚	?kaewngH/haewng/huwngH/huwng	kiɑ̌ŋ/ɦiɑ̏ŋ/ɦǔŋ/ɦȕŋ
+6	9		水		
+6	9	YES	洚	haewng/huwngH	ɦiɑ̏ŋ/ɦǔŋ
+6	9		洞	duwngH/duwng	dǔŋ/tɦȕŋ
+6	9	YES	菹	tsrjo/tsjae	?
+6	9	YES	既		
+6	9		逺	hjwonH	jyuɛ̌n
+6	9	YES	壞	kweajH	kwǎi
+6	9		宫		
+6	9	YES	汙	’u	ʔu
+6	9	YES	邪		
+6	9		説	sywet/sywejH	ʃyuɛt/ʂǔi
+6	9	YES	暴		
+6	9		行	haengH	ɦǐŋ
+6	9	YES	沛	?bwojH	bǔi
+6	9	YES	更	kaeng	kəŋ
+6	9		興		
+6	9	YES	放		
+6	9		辟	phjiek	phik
+6	9	YES	相	sjangH	siɑ̌ŋ
+6	9		武		
+6	9	YES	素		
+6	9		王	?hjwangH	wɑ̌ŋ
+6	9	YES	横	hwaengH	?
+6	9		議		
+6	9	YES	為	hjweH	ǔi
+6	9		我		
+6	9	YES	莩	bjewX/phju	biɛ̌w'/fu
+6	9	YES	詖	?pjeH	pǐ
+6	9	YES	駢	ben	pɦiɛ̏n
+6	9		躓	?trij/trijH	tʃi/tʃǐ
+6	9	YES	周		
+6	9		公		
+6	9		卬	ngjangX	ŋiɑ̂ŋ
+6	9		思		
+6	10	YES	螬	dzaw	tsɦȁw
+6	10	YES	匍	bu	pɦȕ
+6	10	YES	匐	bok	bə̏k
+6	10	YES	咽	’enH	ʔiɛ̌n
+6	10	YES	擘	peak	pək
+6	10	YES	惡	’u	ʔu
+6	10		能		
+6	10	YES	辟	?phek	phik
+6	10	YES	纑	lu	lȕ
+6	10	YES	戴		
+6	10		蓋	hap	ɦɔ̏p
+6	10	YES	䳘	nga	ŋɔ̏
+6	10	YES	已	kiX	?
+6	10		頻		
+6	10		顣	tsjuwk	tsyuk
+6	10	YES	鶃	ngek	ŋȉk
+6	10		鶃	ngek	ŋȉk
+6	10	YES	哇	’ea	?
+6	10	YES	母		
+6	10		食	ziH	?
+7	0	YES	黄		
+7	0		帝		
+7	0		亡		
+7	0		其		
+7	0		𤣥		
+7	0		珠		
+7	1	YES	簇	tshuwH	tshə̌w
+7	1	YES	姑		
+7	1		洗	senX	siɛ̂n
+7	1	YES	無		
+7	1		射	yek	jȉk
+7	1	YES	徴	triX	?
+7	1	YES	仁		
+7	1		聞	mjunH	vǔn
+7	1	YES	嘉	haeh	ɦiǎ
+7	1		樂	lak	lɒ$ɨk
+7	1	YES	衣	’j+jH	ʔǐ
+7	1	YES	揆		
+7	1		度	dak	dɒ$ɨk
+7	1	YES	度	duH	dǔ
+7	1		量	ljangH	liɑ̌ŋ
+7	1	YES	僥	kew	kiɛw
+7	1	YES	甲	kaep	kiap
+7	1		兵		
+7	1	YES	不		
+7	1		辟	bjiek	bȉk
+7	1	YES	方		
+7	1		蹶	kjwejH	kǔi
+7	1	YES	泄	yejH	jǐ
+7	1		泄	yejH	jǐ
+7	1	YES	沓	dop	dȁp
+7	1		沓	dop	dȁp
+7	1	YES	動		
+7	1		女	nyoX	ʒŷ
+7	2	YES	厲		
+7	2		王		
+7	2		流		
+7	2		於		
+7	2		彘	drjejH	dʒǐ
+7	2	YES	戲	xje	hi
+7	2	YES	避		
+7	2		逺	hjwonH	jyuɛ̌n
+7	3	YES	惡	’u	ʔu
+7	3		死		
+7	3	YES	而		
+7	3		樂	lak	lɒ$ɨk
+7	3	YES	强	gjangX	giɑ̌ŋ'
+7	3		酒		
+7	4	YES	治	dri	tʃɦȉ
+7	4		人		
+7	4		不		
+7	4		治	driH	dʒǐ
+7	4	YES	行	haengH	ɦǐŋ
+7	4		有		
+7	5	YES	踣	bok	bə̏k
+7	6	YES	沛	phajH	phǔi
+7	7	YES	能		
+7	7		令	ljengH	lǐŋ
+7	7	YES	而		
+7	7		女	nrjoH	ny̌
+7	7	YES	祼	kwanH	kwɔ̌n
+7	7	YES	暢		
+7	7	YES	好	xawH	hǎw
+7	7		仁		
+7	7	YES	以		
+7	7		濯	draewk/yak	ɖʐwɒ$ɨk/jiɒ̏k
+7	8	YES	其		
+7	8		菑	tsoj	tsai
+7	8	YES	滄		
+7	8		浪	lang	lɑ̏ŋ
+7	8	YES	夫	bju	fvȕ
+7	8		人		
+7	8	YES	孼	ngjet	ŋiɛ̏t
+7	8	YES	恐		
+7	8		栗	lit	lȉt
+7	9	YES	走	tsuwH	tsǒw
+7	9		壙	khwangH	khwɑ̌ŋ
+7	9	YES	為	hjweH	ǔi
+7	9		淵		
+7	9	YES	敺	khju	khy
+7	9	YES	鸇	tsyen	tʃiɛn
+7	9	YES	埤	pjie	pi
+7	9	YES	獱	bjin	pɦȉn
+7	9	YES	卒	tshwot	tshut
+7	9		求		
+7	10	YES	舎	syaeX	ʃiɛ̂
+7	10		正		
+7	11	YES	長	trjangX	tʃiɑ̂ŋ
+7	11		其		
+7	11		長	trjangX	tʃiɑ̂ŋ
+7	12	YES	三		
+7	12		省	sjengX	sîŋ
+7	13	YES	焉	’jen	ʔiɛn
+7	13		往		
+7	14	YES	辟	bjiek	bȉk
+7	14		草		
+7	14	YES	任		
+7	14		土		
+7	14	YES	合		
+7	14		從	tsjowng	tsyuŋ
+7	15	YES	眸	mjuw	mə̏w
+7	15	YES	瞭	lewX	liɛ̂w
+7	15	YES	眊	mawH	mǎw
+7	15	YES	廋	srjuw	ʂow
+7	16	YES	惡	’u	ʔu
+7	16		得		
+7	16	YES	而		
+7	16		錯	tshuH	tshǔ
+7	17	YES	髠	khwon	khun
+7	17	YES	禮		
+7	17		與	yo	jy̏
+7	17	YES	援	hjwon	jyuɛ̏n
+7	19	YES	養	yangH	jiɑ̌ŋ
+7	19		親		
+7	19	YES	晳	sek	sik
+7	19	YES	徹	drjet	dʒiɛ̏t
+7	20	YES	與		
+7	20		適	treak	ʈʂək
+7	20	YES	足		
+7	20		間	keanH	kiǎn
+7	20	YES	非		
+7	20		訧	hjuw	jiȍw
+7	21	YES	君		
+7	21		難	nanH	nǎn
+7	22	YES	易	yeH	jǐ
+7	22		其		
+7	22	YES	桐		
+7	22		子		
+7	24	YES	子		
+7	24		敖	ngaw	ŋȁw
+7	24	YES	見	henH	ɦiɛ̌n
+7	24		孟		
+7	24	YES	使	sriH	ʂɨ̌
+7	24		而		
+7	24	YES	亟	kik	kik
+7	24		見		
+7	25	YES	餔	pu/buH	pu/bǔ
+7	25	YES	啜	tsyhwet	tʃhyuɛt
+7	28	YES	厎	tsyeX	tʃiɨ̂
+8	1	YES	畎	?sywenX/khwenX	?
+8	1		夷		
+8	1	YES	書		
+8	1		曰		
+8	1		太		
+8	1		子		
+8	1		發		
+8	1		上		
+8	1		祭		
+8	1		于		
+8	1		畢		
+8	1		下		
+8	1		至		
+8	1		盟	maengH	mə̌ŋ
+8	1	YES	津		
+8	1	YES	酆	phjuwng	fuŋ
+8	1	YES	鎬	hawX	ɦǎw'
+8	1	YES	度	?duH	dǔ
+8	1		量	ljangH	liɑ̌ŋ
+8	1	YES	不		
+8	1		比	bjijH	bǐ
+8	2	YES	乘	zyingH	ʃʒǐŋ
+8	2		輿		
+8	2	YES	溱	tsrin	ʈʂən
+8	2	YES	洧	hwijX	?
+8	2	YES	杠	kaewng	kiɑŋ
+8	2	YES	辟	?bjiek/	?bȉk/
+8	2		人		
+8	2	YES	焉	’jen	ʔiɛn
+8	2		得		
+8	2	YES	卑		
+8	2		辟	bjieH	bǐ
+8	2	YES	由	yuw	jiȍw
+8	2		天		
+8	3	YES	禮		
+8	3		為	hjweH	ǔi
+8	3	YES	田		
+8	3		菜		
+8	3	YES	下	haeH	ɦiǎ
+8	3		於		
+8	3	YES	搏	pak	pɒk
+8	3		執		
+8	3	YES	極	kik/gik	kik/gȉk
+8	3		之		
+8	3	YES	惡	’uH	ʔǔ
+8	3		而		
+8	3	YES	風	pjuwngH	fǔŋ
+8	3		諭		
+8	4	YES	見		
+8	4		幾	kj+j	ki
+8	6	YES	陳		
+8	6		質		
+8	6	YES	藉	dzjaeH	?
+8	6		交		
+8	7	YES	樂	lak	lɒ$ɨk
+8	7		有		
+8	7	YES	相		
+8	7		覺	kaewH	kiǎw
+8	9	YES	有		
+8	9		惡	’ak	ʔɒk
+8	9	YES	惡	’uH	ʔǔ
+8	9		人		
+8	9	YES	難	nanH	nǎn
+8	9		及		
+8	9	YES	好	xawH	hǎw
+8	9		言		
+8	9	YES	忮	tsyeH	tʃiɨ̌
+8	11	YES	之		
+8	11		行	haengH	ɦǐŋ
+8	11	YES	行	haeng	ɦȉŋ
+8	11		其		
+8	13	YES	養	yangH	jiɑ̌ŋ
+8	13		生		
+8	14	YES	深		
+8	14		造	tshawH	tshǎw
+8	16	YES	五		
+8	16		伯	paek/paeH	pək/pǎ
+8	17	YES	當		
+8	17		直	driH	dʒǐ
+8	18	YES	亟	khiH	khǐ
+8	18		稱		
+8	18	YES	徐		
+8	18		辟	?pejH/bjiek	pǐ/bȉk
+8	18	YES	舎	syaeX	ʃiɛ̂
+8	18	YES	放	pjangX	fɑ̂ŋ
+8	18		乎		
+8	18	YES	澮	kwajH	kǔi
+8	18	YES	涸	hak	ɦɒ$ɨk
+8	18	YES	潦	lawX	lâw
+8	18	YES	卒	tshwot	tshut
+8	18	YES	聲		
+8	18		聞	mjunH	vǔn
+8	19	YES	强	gjangX	giɑ̌ŋ'
+8	19		仁		
+8	19	YES	辟	bjieh	bǐ
+8	19		害		
+8	20	YES	讜	tangX	tɑ̂ŋ
+8	20		言		
+8	20	YES	泄		
+8	20		爾		
+8	21	YES	熄	sik	sik
+8	21	YES	之		
+8	21		乘	zyingH	ʃʒǐŋ
+8	21	YES	檮	daw	tɦȁw
+8	21		杌	ngwot	ŋȕt
+8	22	YES	跌	det	diɛ̏t
+8	22	YES	汙	’u	ʔu
+8	24	YES	逄	baewng	pɦɑ̏ŋ
+8	24		蒙		
+8	24	YES	惡	’u	ʔu
+8	24		得		
+8	24	YES	之		
+8	24		他	da	tɦɔ̏
+8	24	YES	邪		
+8	24		辟	phjiek	phik
+8	24	YES	乘	zyingH	ʃʒǐŋ
+8	24		矢		
+8	26	YES	桮	pwoj	pui
+8	26	YES	棬	?	khyuɛn
+8	27	YES	驩	xwan	hwɔn
+8	27	YES	敖	ngaw	ŋȁw
+8	27	YES	脅	xjaep/xip	hiɛp/hip
+8	28	YES	何		
+8	28		難	nanH	nǎn
+8	28	YES	我		
+8	28		由	yuw	jiȍw
+8	30	YES	很	honX	ɦə̌n'
+8	30	YES	惰		
+8	30		解	keaH	kiǎi
+8	31	YES	與	yoH	jy̌
+8	31		焉		
+8	32	YES	瞷	keanH/hean	kiǎn/ɦiȁn
+8	32		夫		
+8	33	YES	饜	’jiemH	ʔiɛ̌m
+8	33	YES	蚤	tsawX	tsâw
+8	33	YES	施		
+8	33		從		
+8	33	YES	墦	bjon/phan	fvȁn/phwɔn
+8	33	YES	訕	?sraenH	?ʂǎn
+8	33	YES	施	?sye/	ʃiɨ/jȉ
+8	33		施	?sye/	ʃiɨ/jȉ
+8	33	YES	扁	bjien	pɦiɛ̏n
+8	33		扁	bjien	pɦiɛ̏n
+#N/A	33	YES			
+#N/A	1		横	hwaengH	ɦwə̌ŋ
+#N/A	1		政		
+#N/A	1	YES	横	hwaeng	ɦwə̏ŋ
+#N/A	1		民		
+#N/A	1	YES	行	haengH	ɦǐŋ
+#N/A	1		不		
+#N/A	1	YES	不		
+#N/A	1		與	yoH	jy̌
+#N/A	1	YES	佚	yit	jȉt
+#N/A	1	YES	阨	’eak	ʔək
+#N/A	1	YES	袒	danX	dǎn'
+#N/A	1	YES	裼	sek	sik
+#N/A	1	YES	裸	lwaX	lwɔ̂
+#N/A	1	YES	裎	drjeng	tʃɦȉŋ
+#N/A	1	YES	焉	’jen	ʔiɛn
+#N/A	1		能		
+#N/A	1	YES	浼	mwojX/manH	mûi/mwɔ̌n
+#N/A	1	YES	接	tsjep	tsiɛp
+#N/A	1		淅	sek	sik
+#N/A	1	YES	亟	kik	kik
+#N/A	1		也		
+#N/A	1	YES	動		
+#N/A	1		中	trjuwngH	tʃyǔŋ
+#N/A	1	YES	始		
+#N/A	1		條		
+#N/A	1		理		
+#N/A	1	YES	有		
+#N/A	1		殺	sreajH	ʂǎi
+#N/A	1	YES	不		
+#N/A	1		橈	nraewH	nǎw
+#N/A	1	YES	强	gjangX	giɑ̌ŋ'
+#N/A	1		増		
+#N/A	2	YES	錡	ngjeX	jî
+#N/A	2	YES	惡	’uH	ʔǔ
+#N/A	2		其		
+#N/A	2	YES	采	tshojH	tshǎi
+#N/A	2		地		
+#N/A	2	YES	食	ziH	?
+#N/A	2		九		
+#N/A	2	YES	佃	denH	diɛ̌n
+#N/A	3	YES	挾	hep	ɦiɛ̏p
+#N/A	3		長	trjangX	tʃiɑ̂ŋ
+#N/A	3	YES	費	?pijH	?pǐ
+#N/A	3		恵		
+#N/A	3	YES	顔		
+#N/A	3		般	paen	pan
+#N/A	3	YES	造	tshawH	tshǎw
+#N/A	3		之		
+#N/A	3	YES	糲	lat	lȁt
+#N/A	3	YES	迭	det	diɛ̏t
+#N/A	3		為		
+#N/A	3	YES	更	kaeng	kəŋ
+#N/A	3		迭		
+#N/A	3	YES	妻	tshejH	tshǐ
+#N/A	3		舜		
+#N/A	4	YES	郤		
+#N/A	4		之		
+#N/A	4	YES	餽	gwijH	gǔi
+#N/A	4	YES	禦		
+#N/A	4		與	yo	jy̏
+#N/A	4	YES	不		
+#N/A	4		譈	dwojH	dǔi
+#N/A	4	YES	將		
+#N/A	4		比	bjit/bjijH	bȉt/bǐ
+#N/A	4	YES	獵		
+#N/A	4		較	kaewk	kiɒk
+#N/A	4	YES	簿	buX	bǔ'
+#N/A	4		正		
+#N/A	4	YES	可		
+#N/A	4		卒	tshwot	tshut
+#N/A	4	YES	度	dak	dɒ$ɨk
+#N/A	4		珍		
+#N/A	4	YES	為	hjweH	ǔi
+#N/A	4		之		
+#N/A	4	YES	宿	sjuwH	siǒw
+#N/A	4		留	ljuwH	liǒw
+#N/A	5	YES	為		
+#N/A	5		養	yangH	jiɑ̌ŋ
+#N/A	5	YES	惡	’u	ʔu
+#N/A	5		乎		
+#N/A	5	YES	柝	thak	thɒk
+#N/A	5	YES	椎	drwij	ʈʂɦȕi
+#N/A	5	YES	㑹	kwajH	kǔi
+#N/A	5		計		
+#N/A	5	YES	乘	zyingH	ʃʒǐŋ
+#N/A	5		田		
+#N/A	5	YES	茁	tsrweat	?
+#N/A	5	YES	壯		
+#N/A	5		長	trjangX	tʃiɑ̂ŋ
+#N/A	5	YES	委	’jweH	ʔǔi
+#N/A	5		積	tsjeH	tsɨ̌
+#N/A	5	YES	當		
+#N/A	5		直	driH	dʒǐ
+#N/A	5	YES	葭	kae	kia
+#N/A	5	YES	稱	tsyhingH	tʃhǐŋ
+#N/A	5		職		
+#N/A	6	YES	氓	meang	mə̏ŋ
+#N/A	6	YES	繆	mjuwk	mȕk
+#N/A	6		公		
+#N/A	6	YES	亟	khiH	khǐ
+#N/A	6		問		
+#N/A	6	YES	摽	phjiew/phaew	phiɛw/phaw
+#N/A	6		使	sriH	ʂɨ̌
+#N/A	6	YES	數	sraewk	ʂwɒk
+#N/A	6		問		
+#N/A	6	YES	愠	’junH	ʔyǔn
+#N/A	6	YES	猥	’wojX	ʔûi
+#N/A	6	YES	二		
+#N/A	6		女	nrjoX	nŷ
+#N/A	6		女	nrjoH	ny̌
+#N/A	6		焉		
+#N/A	7	YES	傳		
+#N/A	7		質	tsyijH	tʃiɨ̌
+#N/A	7	YES	敢		
+#N/A	7		見	henH	ɦiɛ̌n
+#N/A	7	YES	如		
+#N/A	7		底	tsyeX	tʃiɨ̂
+#N/A	7	YES	沮	tshjo	?
+#N/A	7		溺		
+#N/A	8	YES	好	xawH	hǎw
+#N/A	8		善		
+#N/A	8	YES	景		
+#N/A	8		行	haengH	ɦǐŋ
+#N/A	9	YES	伊		
+#N/A	9		發		
+#N/A	9		有		
+#N/A	9		莘	srin	ʂən
+#N/A	9	YES	為		
+#N/A	9		殷		
+#N/A	9		興		
+#N/A	9		道		
+#N/A	1	YES	桮	pwoj	pui
+#N/A	1		棬		
+#N/A	1	YES	柜		
+#N/A	1	YES	戕	dzjang	tsɦiɑ̏ŋ
+#N/A	1	YES	義		
+#N/A	1		與	yo	jy̏
+#N/A	1	YES	長	trjangX	tʃiɑ̂ŋ
+#N/A	1		義		
+#N/A	1	YES	拂	bjut/phjuwt	vȕt/fut
+#N/A	1		之		
+#N/A	2	YES	湍	thwan	thwɔn
+#N/A	2	YES	無		
+#N/A	2		分	pjun	fun
+#N/A	2	YES	瀠	?yweng	jyuə̏ŋ
+#N/A	2	YES	搏	pak/dwan	pɒk/tɦwɔ̏n
+#N/A	2		之		
+#N/A	2	YES	顙	sangX	sɑ̂ŋ
+#N/A	2	YES	好	xawH	hǎw
+#N/A	2		下		
+#N/A	4	YES	耆	dzyijH	ʃʒiɨ̌
+#N/A	4		秦		
+#N/A	4	YES	炙	tsyaeH	tʃiɛ̌
+#N/A	6	YES	惡	’u	ʔu
+#N/A	6		在		
+#N/A	7	YES	而		
+#N/A	7		强	gjangX	giɑ̌ŋ'
+#N/A	7	YES	羞		
+#N/A	7		惡	’uH	ʔǔ
+#N/A	7	YES	舎	syaeX	ʃiɛ̂
+#N/A	7		則		
+#N/A	7	YES	倍		
+#N/A	7		蓰		
+#N/A	8	YES	阨	’eak	ʔək
+#N/A	8	YES	麰	mjuw	mȍw
+#N/A	8	YES	耰	’juw	ʔiow
+#N/A	8	YES	浡	bwot	bȕt
+#N/A	8	YES	磽	khaew	khiaw
+#N/A	8	YES	相		
+#N/A	8		覺	kaewH	kiǎw
+#N/A	8	YES	蕢	gwijH	gǔi
+#N/A	8	YES	姣	kaewX	kiâw
+#N/A	8		也		
+#N/A	8	YES	狂		
+#N/A	8		且	tsjo	tsy
+#N/A	9	YES	櫱	ngat	ŋɔ̏t
+#N/A	9	YES	好	xawH	hǎw
+#N/A	9		惡	’uH	ʔǔ
+#N/A	9	YES	有		
+#N/A	9		梏	kowk	kuk
+#N/A	9		亡		
+#N/A	9		之		
+#N/A	9	YES	之		
+#N/A	9		行	haengH	ɦǐŋ
+#N/A	10	YES	易	yeH	jǐ
+#N/A	10		生		
+#N/A	10	YES	暴	buwk	bȕk
+#N/A	10		之		
+#N/A	10	YES	繳	tsyak	tʃiɒk
+#N/A	10	YES	射	zyek	ʃʒȉk
+#N/A	10		之		
+#N/A	10	YES	為	hjweH	ǔi
+#N/A	10		是		
+#N/A	11	YES	熊		
+#N/A	11		蹯	bjon	fvȁn
+#N/A	11	YES	不		
+#N/A	11		辟	bjieH	bǐ
+#N/A	11	YES	嘑	xuH	hǔ
+#N/A	11	YES	蹴	tshjuwk	tshyuk
+#N/A	11		爾		
+#N/A	11	YES	咄	twot	tut
+#N/A	11		啐	tshwojH	tshǔi
+#N/A	11	YES	不		
+#N/A	11		辯		
+#N/A	11	YES	得		
+#N/A	11		我		
+#N/A	11		與	yo/yoX	jy̏/jŷ
+#N/A	11	YES	鄉	xjangH	hiɑ̌ŋ
+#N/A	11		為	hjweH	ǔi
+#N/A	13	YES	不		
+#N/A	13		信	syin	ʃin
+#N/A	13	YES	惡	’uH	ʔǔ
+#N/A	13		之		
+#N/A	14	YES	溉	kojH	kǎi
+#N/A	15	YES	檟	kaeX	kiâ
+#N/A	15	YES	樲	nyijH	ɻ̌
+#N/A	17	YES	樂	lak	lɒ$ɨk
+#N/A	17		善		
+#N/A	17	YES	以		
+#N/A	17		要	’jiew	ʔiɛw
+#N/A	18	YES	令		
+#N/A	18		聞	mjunH	vǔn
+#N/A	19	YES	不		
+#N/A	19		熄	sik	sik
+#N/A	20	YES	荑	dej	tɦȉ
+#N/A	20	YES	稗	beaH	bǎi
+#N/A	20	YES	幾	?gj+j/?	kɦȉ/?
+#N/A	20		成		
+#N/A	20	YES	彀	kuwH	kə̌w
+#N/A	20	YES	用		
+#N/A	20		思	siH	sɨ̌
+#N/A	1	YES	任	nyim	ʒȉm
+#N/A	1		人		
+#N/A	1	YES	親		
+#N/A	1		迎	ngjaengH	ŋǐŋ
+#N/A	1	YES	人		
+#N/A	1		難	nanH	nǎn
+#N/A	1	YES	曰		
+#N/A	1		於	’u	ʔu
+#N/A	1	YES	揣	tsrhjweX	?ʈʂhûi
+#N/A	1	YES	奚		
+#N/A	1		翅	syeH	ʃiɨ̌
+#N/A	1	YES	紾	?tsyinX/?	?tʃîn/?
+#N/A	1	YES	摟		
+#N/A	2	YES	以		
+#N/A	2		長	drjang	tʃɦiɑ̏ŋ
+#N/A	2	YES	匹		
+#N/A	2		雛	?dzrju/?	?
+#N/A	2	YES	後		
+#N/A	2		長	trjangX	tʃiɑ̂ŋ
+#N/A	2	YES	之		
+#N/A	2		行	haengH	ɦǐŋ
+#N/A	2	YES	得		
+#N/A	2		見	henH	ɦiɛ̌n
+#N/A	2	YES	較	kaewk	kiɒk
+#N/A	3	YES	小		
+#N/A	3		弁	ban	pɦwɔ̏n
+#N/A	3	YES	為		
+#N/A	3		詩		
+#N/A	3	YES	闗	’waen	ʔwan
+#N/A	3		弓		
+#N/A	3	YES	而		
+#N/A	3		射	zyek	ʃʒȉk
+#N/A	3	YES	重	drjowngH	dʒyǔŋ
+#N/A	3		言		
+#N/A	3	YES	邶	bwojH	bǔi
+#N/A	3		風		
+#N/A	3	YES	可		
+#N/A	3		磯	kj+j	ki
+#N/A	3	YES	墐	ginH	gǐn
+#N/A	4	YES	宋		
+#N/A	4		牼	kheang	khəŋ
+#N/A	4	YES	説	sywejH	ʂǔi
+#N/A	4		而		
+#N/A	4	YES	將		
+#N/A	4		為	hjweH	ǔi
+#N/A	4	YES	樂	lak	lɒ$ɨk
+#N/A	4		罷		
+#N/A	5	YES	閒	hean	ɦiȁn
+#N/A	5		矣		
+#N/A	5	YES	相	sjangH	siɑ̌ŋ
+#N/A	5		與		
+#N/A	5	YES	隙	khjaek	khik
+#N/A	5	YES	身		
+#N/A	5		造	tshawH	tshǎw
+#N/A	6	YES	髠	khwon	khun
+#N/A	6	YES	不		
+#N/A	6		惡	’uH	ʔǔ
+#N/A	6	YES	汚	’uH	ʔǔ
+#N/A	6	YES	其		
+#N/A	6		趨	tshjuH	tshy̌
+#N/A	6	YES	繆	mjuwk	mȕk
+#N/A	6		公		
+#N/A	6	YES	華	hwaeH	ɦwǎ
+#N/A	6		周		
+#N/A	6	YES	不		
+#N/A	6		税		
+#N/A	6	YES	以		
+#N/A	6		為	hjwe	ȕi
+#N/A	6		為	hjweH	ǔi
+#N/A	6		肉		
+#N/A	6	YES	膊	phak	phɒk
+#N/A	6		炙	tsyek	tʃik
+#N/A	7	YES	五		
+#N/A	7		霸		
+#N/A	7	YES	地		
+#N/A	7		辟	bjiek	bȉk
+#N/A	7	YES	掊	buw	pɦȍw
+#N/A	7		克		
+#N/A	7	YES	歃	sreap	ʂap
+#N/A	7	YES	糴	dek	dȉk
+#N/A	7	YES	于		
+#N/A	7		好	xawH	hǎw
+#N/A	7	YES	長	trjangX/drjang	tʃiɑ̂ŋ/tʃɦiɑ̏ŋ
+#N/A	7		君		
+#N/A	8	YES	滑	kwot	kut
+#N/A	8		釐	li	lȉ
+#N/A	9	YES	鄉	xjangH	hiɑ̌ŋ
+#N/A	9		道		
+#N/A	9	YES	變		
+#N/A	9		更	kaeng	kəŋ
+#N/A	10	YES	貉	maek	mə̏k
+#N/A	10	YES	饔	’jowng	ʔyuŋ
+#N/A	10		飧	swon	sun
+#N/A	11	YES	洚	kaewng/haewng/huwngH	kiɑ̌ŋ/ɦiɑ̏ŋ /ɦǔŋ
+#N/A	11		水		
+#N/A	12	YES	惡	’u	ʔu
+#N/A	12		乎		
+#N/A	12		執		
+#N/A	12	YES	舎	syaeX	ʃiɛ̂
+#N/A	12		信		
+#N/A	13	YES	有		
+#N/A	13		知	trjeH	tʃǐ
+#N/A	13	YES	訑	?thwa/daX/?	?thwɔ/dǎ'/jȉ
+#N/A	13		訑	?thwa/daX/?	?thwɔ/dǎ'/jȉ
+#N/A	13	YES	見	henH	ɦiɛ̌n
+#N/A	13		顔		
+#N/A	13	YES	雨	hjuH	jy̌
+#N/A	13		雪		
+#N/A	13	YES	瀌	?bjew/pjew	?pɦiɛ̏w/piɛw
+#N/A	13		瀌	?bjew/pjew	?pɦiɛ̏w/piɛw
+#N/A	13	YES	見	kenH/henH	kiɛ̌n/ɦiɛ̌n
+#N/A	13		晛	nenH	niɛ̌n
+#N/A	14	YES	周	tsyuw	tʃiow
+#N/A	14		之		
+#N/A	15	YES	傅		
+#N/A	15		説	ywet	jyuɛ̏t
+#N/A	15	YES	膠		
+#N/A	15		鬲	keak	kək
+#N/A	15	YES	拂	bjut	fvȕt
+#N/A	15		亂		
+#N/A	15	YES	忍	nyinX/nyinH	ʒîn/ʒǐn
+#N/A	15		性		
+#N/A	15	YES	鬻	yuwk	jyȕk
+#N/A	15	YES	曽	?tsong/?	?tsəŋ/?
+#N/A	15		益		
+#N/A	15	YES	瘁	dzwijH	dzǔi
+#N/A	15	YES	屈	kjut	kyut
+#N/A	15	YES	拂	bit	bȉt
+#N/A	15	YES	知	trjeH	tʃǐ
+#N/A	15		生		
+#N/A	16	YES	或		
+#N/A	16		折	tsyet	tʃiɛt
+#N/A	0	YES	共	gjowngH/kjowngX	gyǔŋ/kyûŋ
+#N/A	0		之		
+#N/A	1	YES	好	xawH	hǎw
+#N/A	1		生		
+#N/A	1	YES	行	haengH	ɦǐŋ
+#N/A	1		與		
+#N/A	1	YES	殀		
+#N/A	2	YES	命		
+#N/A	2		有		
+#N/A	2		三		
+#N/A	2		名		
+#N/A	2	YES	壓	’aep	ʔiap
+#N/A	2	YES	逺	hjwonH	jyuɛ̌n
+#N/A	2		之		
+#N/A	3	YES	舍	syaeX	ʃiɛ̂
+#N/A	3		則		
+#N/A	4	YES	樂	lak	lɒ$ɨk
+#N/A	4		莫		
+#N/A	6	YES	以		
+#N/A	6		錯	tshuH	tshǔ
+#N/A	7	YES	亟	khiH	khǐ
+#N/A	7		見		
+#N/A	7	YES	數	sraewk	ʂwɒk
+#N/A	7		也		
+#N/A	7	YES	下		
+#N/A	7		賤	dzjenH	dziɛ̌n
+#N/A	8	YES	宋		
+#N/A	8		句	kuw	kow
+#N/A	8	YES	語	ngjoH	ŋy̌
+#N/A	8		子		
+#N/A	8	YES	囂	ngaw/xjew	ŋȁw/hiɛw
+#N/A	8		囂	ngaw/xjew	ŋȁw/hiɛw
+#N/A	8	YES	不		
+#N/A	8		離	ljeH	lǐ
+#N/A	8	YES	見	henH	ɦiɛ̌n
+#N/A	8		於		
+#N/A	9	YES	才		
+#N/A	9		知	trjeH	tʃǐ
+#N/A	9	YES	邪		
+#N/A	9		辟	phjiek	phik
+#N/A	10	YES	欿	khomX	khâm
+#N/A	10		然		
+#N/A	11	YES	亟	kik	kik
+#N/A	11		其		
+#N/A	11	YES	大		
+#N/A	11		辟	bjiek	bȉk
+#N/A	12	YES	驩	xwan	hwɔn
+#N/A	12		虞	ngju	ŋy̏
+#N/A	12	YES	皥	hawX	ɦǎw'
+#N/A	12		皥	hawX	ɦǎw'
+#N/A	12	YES	所		
+#N/A	12		過		
+#N/A	12		者		
+#N/A	12		化		
+#N/A	12		所		
+#N/A	12		存		
+#N/A	12		者		
+#N/A	12		神		
+#N/A	14	YES	襁	kjangX	kiɑ̂ŋ
+#N/A	14		褓	pawX	pâw
+#N/A	14	YES	少	syewH	ʃiɛ̌w
+#N/A	14		知		
+#N/A	14	YES	長	trjangX	tʃiɑ̂ŋ
+#N/A	14		知		
+#N/A	15	YES	辟	phjieH	phǐ
+#N/A	15		若		
+#N/A	17	YES	疢	trhinH	tʃhǐn
+#N/A	17	YES	孼	ngjet	ŋiɛ̏t
+#N/A	19	YES	王	hjwangH	wɑ̌ŋ
+#N/A	19		天		
+#N/A	19	YES	不		
+#N/A	19		與	yoH	jy̌
+#N/A	19	YES	怍	dzak	dzɒ̏k
+#N/A	19	YES	重	drjowngH	dʒyǔŋ
+#N/A	19		言		
+#N/A	20	YES	分	bjunH	fvǔn
+#N/A	20		定		
+#N/A	20	YES	睟	swijH	sǔi
+#N/A	20		然		
+#N/A	20		見	henH	ɦiɛ̌n
+#N/A	20	YES	盎	’angX/’angH	ʔɑ̂ŋ/ʔɑ̌ŋ
+#N/A	20	YES	蟠	ban	pɦwɔ̏n
+#N/A	20		辟	bjiek	bȉk
+#N/A	21	YES	辟	bjieH	bǐ
+#N/A	21		紂		
+#N/A	21	YES	衣	’j+jH	ʔǐ
+#N/A	21		帛		
+#N/A	22	YES	易	yeH	jǐ
+#N/A	22		其		
+#N/A	22	YES	輕		
+#N/A	22		施	syeH	ʃiɨ̌
+#N/A	22	YES	焉	’jen	ʔiɛn
+#N/A	22		有		
+#N/A	23	YES	小		
+#N/A	23		郄	khjaek	khik
+#N/A	24	YES	孳	tsi	tsɨ
+#N/A	24	YES	蹠	tsyek	tʃik
+#N/A	24	YES	别	pjet	piɛt
+#N/A	24		之		
+#N/A	25	YES	為	hjweH	ǔi
+#N/A	25		我		
+#N/A	25	YES	放	pjangX	fɑ̂ŋ
+#N/A	25		踵	tsyowngX	tʃyûŋ
+#N/A	25	YES	摩		
+#N/A	25		突	dwot	?
+#N/A	25	YES	子		
+#N/A	25		莫		
+#N/A	25		執		
+#N/A	25		中		
+#N/A	25	YES	所		
+#N/A	25		惡	’uH	ʔǔ
+#N/A	26	YES	强	gjangX	giɑ̌ŋ'
+#N/A	26		甘		
+#N/A	27	YES	其		
+#N/A	27		介		
+#N/A	28	YES	掘	gjut/gjwot	gyȕt/gyuɛ̏t
+#N/A	28	YES	軔	nyinH	ʒǐn
+#N/A	28	YES	論		
+#N/A	28		之		
+#N/A	28		一		
+#N/A	28		簣	gwijH	gǔi
+#N/A	29	YES	惡	’u	ʔu
+			知		
+0	30	YES	放		
+0	30		與	yo	jy̏
+0	30	YES	宿		
+0	30		留	ljuwH	liǒw
+0	31	YES	素		
+0	31		餐	tshan	tshan
+0	32	YES	墊	temH	tiɛ̌m
+0	34	YES	陶	yew	jiɛ̏w
+0	34	YES	敝		
+0	34		蹝	srjeX	?
+0	34	YES	訢	xj+n	hin
+0	36	YES	喟	khwijH	khǔi
+0	37	YES	乘	zyingH	ʃʒǐŋ
+0	37		服		
+0	37	YES	呼	xuH	hǔ
+0	37		於		
+0	37	YES	垤	det	diɛ̏t
+0	37	YES	瞀	muwH/maewk	mǒw/mɒ̏k
+0	38	YES	食	ziH	?
+0	38		而		
+0	38	YES	畜	xjuwk	hyuk
+0	38		之		
+0	39	YES	蕣	sywinH	ʃyǔn
+0	39	YES	柚	yuwH	jiǒw
+0	39		𣘘	tsrin	ʈʂən
+0	40	YES	紾	?tsyinX/drjenX	?tʃîn/?
+0	41	YES	漸	tsjem/dzjemX	tsiɛm/dziɛ̌m'
+0	41		漬		
+0	41	YES	達		
+0	41		財		
+0	41	YES	淑		
+0	41		艾	ngjojH/ngajH	(ŋ)jǐ/ŋǎi
+0	42	YES	幾	kj+j	ki
+0	42		及		
+0	42	YES	彀	kuwH	kə̌w
+0	42		率		
+0	42	YES	躍		
+0	42		如		
+0	42		也		
+0	42	YES	和	hwaH	ɦwɔ̌
+0	42		寡		
+0	44	YES	滕		
+0	44		更	kaeng	kəŋ
+0	44	YES	挾	hep	ɦiɛ̏p
+0	47	YES	知	trjeH	tʃǐ
+0	47		者		
+0	47	YES	不		
+0	47		徧	penH	piɛ̌n
+0	47	YES	歠	tsyhwet	tʃhyuɛt
+1	1	YES	王		
+1	1		好	xawH	hǎw
+1	1	YES	卒	tswot	tsut
+1	1		少		
+1	1	YES	長	trjangX	tʃiɑ̂ŋ
+1	1		子		
+1	2	YES	相		
+1	2		覺	kaewH	kiǎw
+1	4	YES	為		
+1	4		陳	drinH	dʒǐn
+1	4	YES	百		
+1	4		兩	ljangH	liɑ̌ŋ
+1	4	YES	虎		
+1	4		賁	pwon	pun
+1	4	YES	焉	’jen	ʔiɛn
+1	4		用		
+1	4	YES	贅	tsywejH	ʈʂǔi
+1	4		衣		
+1	4	YES	趣	tshuwX	tshə̂w
+1	4		馬		
+1	4	YES	頟	ngaek	ŋə̏k
+1	4		角		
+1	4		屖	sej	si
+1	4		厥		
+1	4		地		
+1	6	YES	糗	khjuwX	khiôw
+1	6	YES	茹	nyoX	ʒŷ
+1	6	YES	袗	tsyinX	tʃîn
+1	6		衣		
+1	6	YES	糒	bijH	bǐ
+1	6	YES	袗		
+1	6		畫	hweaH	ɦwǎ
+1	7	YES	一		
+1	7		間	keanH/kean	kiǎn/kian
+1	7	YES	逺	hjwonH	jyuɛ̌n
+1	7		禍		
+1	7	YES	惡	’uH	ʔǔ
+1	7		殺		
+1	10	YES	舎	syaeX	ʃiɛ̂
+1	10		生		
+1	11	YES	見	henH	ɦiɛ̌n
+1	11		於		
+1	11	YES	魭	ngjwon	(ŋ)jyuɛ̏n
+1	11		羮		
+1	13	YES	庳	?	?bǐ
+1	14	YES	皆		
+1	14		樂	lak	lɒ$ɨk
+1	14	YES	之		
+1	14		行	haengH	ɦǐŋ
+1	14	YES	更	kaeng	kəŋ
+1	14	YES	盛	dzyeng	tʃɦȉŋ
+1	14	YES	腯	dwot	?
+1	15	YES	勲	xjun	hyun
+1	15		炙		
+1	17	YES	接		
+1	17		淅	sek	sik
+1	18	YES	戹		
+1	18		於		
+1	19	YES	貉	maek/hak	mə̏k/ɦɒ̏k
+1	19		稽		
+1	19	YES	訕	sraenH	ʂǎn
+1	19	YES	殄	denX	diɛ̌n'
+1	21	YES	蹊		
+1	21		間		
+1	21	YES	為	hjwe	ȕi
+1	21		間		
+1	21	YES	鄉		
+1	21		道		
+1	22	YES	追	twoj	tui
+1	22		蠡	lejX	lî
+1	22	YES	鈕	nrjuwX	niôw
+1	22	YES	兩	ljangX	liɑ̂ŋ
+1	22		馬		
+1	22	YES	力		
+1	22		與	yo	jy̏
+1	23	YES	搏	pak	pɒk
+1	23	YES	嵎	ngju	ŋy̏
+1	23	YES	攖	’jieng	ʔiŋ
+1	23	YES	依		
+1	23		陬	tsju/tsuw	tsy/tsəw
+1	24	YES	解	keaH	kiǎi
+1	24		倦		
+1	24	YES	從	tsjowngH/dzjowng	tsyǔŋ/tsɦyȕŋ
+1	24		欲		
+1	24	YES	知	trjeH	tʃǐ
+1	24		之		
+1	24	YES	王	hjwangH	wɑ̌ŋ
+1	24		於		
+1	24	YES	亹	mj+jX	vî
+1	24		亹	mj+jX	vî
+1	24	YES	2		
+1	24		5		
+1	24		.		
+1	24		不		
+1	24		意	’ik/’iH	ʔik/ʔǐ
+1	24	YES	為	hjweH	ǔi
+1	24		之		
+1	24	YES	2		
+1	24		6		
+1	24		.		
+1	24		苙	lip	lȉp
+1	24	YES	蘭	lan	lȁn
+1	24	YES	罥	?kwenX	kyuɛ̂n
+1	24	YES	2		
+1	24		7		
+1	24		.		
+1	24		横	hwaengH	ɦwə̌ŋ
+1	24		興		
+1	24	YES	紩	drit	dʒȉt
+1	24	YES	鎧	khojH/khojX	khǎi/khâi
+1	24	YES	斯	sje	sɨ
+1	24		養		
+1	24	YES	有		
+1	24		殍	bjewX/phju	biɛ̌w'/fu
+1	24	YES	3		
+1	24		0		
+1	24		.		
+1	24		從	dzjowngH	dzyǔŋ
+1	24		者		
+1	24	YES	廋	srjuw	ʂow
+1	24	YES	屝	bj+jH	fvǐ
+1	24	YES	造	tshawH	tshǎw
+1	24	YES	3		
+1	24		1		
+1	24		.		
+1	24		餂	themX/nem	thiɛ̂m/niɛ̏m
+1	24		之		
+1	24	YES	臧		
+1	24		否	pijX	pî
+1	24	YES	不		
+1	24		與	yoH	jy̌
+1	24	YES	3		
+1	24		3		
+1	24		.		
+1	24		中	trjuwngH/trjuwng	tʃyǔŋ/tʃyuŋ
+1	24		禮		
+1	24	YES	3		
+1	24		4		
+1	24		.		
+1	24		說	sywejH	ʂǔi
+1	24		大		
+1	24	YES	藐		
+1	24		之		
+1	24	YES	魏	ngjw+j	ŋȕi
+1	24		魏	ngjw+j	ŋȕi
+1	24	YES	榱	?tsrhwje	?
+1	24		題		
+1	24	YES	屋		
+1	24		霤	ljuwH	liǒw
+1	24	YES	汰	thajH	thǎi
+1	24	YES	般	ban	pɦwɔ̏n
+1	24		樂		
+1	24	YES	自		
+1	24		遺	ywijH	ǔi
+1	24	YES	3		
+1	24		5		
+1	24		.		
+1	24		單	dzyenX	ʃʒiɛ̌n'
+1	24		豹		
+1	24	YES	黶	’eamX	ʔiâm
+1	24	YES	3		
+1	24		6		
+1	24		.		
+1	24		晳	sek	sik
+1	24	YES	不		
+1	24		復	bjuwH	fvǒw
+1	24	YES	炙	tsyaeH	tʃiɛ̌
+1	24	YES	3		
+1	24		7		
+1	24		.		
+1	24		狂		
+1	24		獧	kjwienH/kwenH	kyuɛ̌n
+1	24	YES	踸	trhimX	tʃhîm
+1	24		踔	trhaewH/trhaewk	ʈʂhǎw/ʈʂhwɒk
+1	24	YES	譎	kwet	kyuɛt
+1	24	YES	詭	kjweX	kûi
+1	24	YES	嘐	xaew	hiaw
+1	24		嘐	xaew	hiaw
+1	24	YES	重	drjowngH	dʒyǔŋ
+1	24		言		
+1	24	YES	言		
+1	24		不		
+1	24		顧		
+1	24		行	haengH	ɦǐŋ
+1	24		行	haengH	ɦǐŋ
+1	24		不		
+1	24		顧		
+1	24		言		
+1	24		古		
+1	24		之		
+1	24		人		
+1	24		行	haengH	ɦǐŋ
+1	24	YES	何		
+1	24		為	hjweH/hjwe	ǔi/ȕi
+1	24		踽	kjuX	kŷ
+1	24		踽	kjuX	kŷ
+1	24	YES	閹	'jemX	ʔiɛ̂m
+1	24		然		
+1	24	YES	不		
+1	24		解	heaX	ɦiǎi'
+1	24	YES	汙	’u/’uH	ʔu/ʔǔ
+1	24		世		
+1	24	YES	莠	yuwX	jiôw
+1	24	YES	慝	thok	thək
+1	24	YES	子		
+1	24		率	srwit	ʂut
+1	24	YES	3		
+1	24		8		
+1	24		.		
+1	24		虺	xjw+jX	hûi
+1	24	YES	散		
+1	24		宜		
+1	24	YES	尚		
+1	24		父		
+1	24	YES	為		
+1	24		將	tsjangH	tsiɑ̌ŋ
+1	24	YES	然		
+1	24		而		
+1	24		無		
+1	24		有		
+1	24		乎		
+1	24		爾		
+1	24		則		
+1	24		亦		
+1	24		無		
+1	24		有		
+1	24		乎		
+1	24		爾		
+1	24	YES	柝	thak	thɒk
+1	24	YES	剖	phuwX	phôw
+1	24	YES	　		
+1	24		　		
+1	24		孟		
+1	24		子		
+1	24		篇		
+1	24		叙		
+1	24	YES	　		
+1	24		　		
+1	24		其		
+1	24		行	haengH	ɦǐŋ
+1	24	YES	當		
+1	24		期	ki	ki
+1	24	YES	括	kwat	kwɔt
