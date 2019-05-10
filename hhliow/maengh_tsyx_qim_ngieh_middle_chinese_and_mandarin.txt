@@ -763,16 +763,16 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 5	3		數	srjuX	ʂû
 5	3	YES	有		
 5	3		易	yeH	jǐ
-5	3	YES	樂	lak	lɒ$ɨk
+5	3	YES	樂	lak	lɒ̏k
 5	3		歲		
 5	3	YES	棄		
 5	3		捐	ywen	jyuɛ̏n
-5	3	YES	盻	?ngejX	?
-5	3		盻	?ngejX	?
+5	3	YES	盻	ngejX/pheanH/xit	(ŋ)jî/phǎn/hit
+5	3		盻	ngejX/pheanH/xit	(ŋ)jî/phǎn/hit
 5	3	YES	以		
 5	3		養	yangH	jiɑ̌ŋ
 5	3	YES	稱	tsyhing	tʃhiŋ
-5	3		貸	?thojH	?thǎi
+5	3		貸	?thok	?thək
 5	3	YES	惡	’u	ʔu
 5	3		在		
 5	3	YES	養		
@@ -837,7 +837,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 5	4	YES	氾	phjomH	fǎm
 5	4		濫		
 5	4	YES	偪	pik	pik
-5	4	YES	瀹	yak	jiɒ$ɨk
+5	4	YES	瀹	yak	jiɒ̏k
 5	4		濟	tsejX	tsî
 5	4		漯	thop	thap
 5	4	YES	呱	ku	ku
@@ -976,7 +976,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 6	4	YES	墁	man	mwɔ̏n
 6	4	YES	素		
 6	4		餐	tshan	tshan
-6	5	YES	亳	bak	bɒ$ɨk
+6	5	YES	亳	bak	bɒ̏k
 6	5	YES	遺	ywijH	ǔi
 6	5		之		
 6	5	YES	餉	syangH	ʃiɑ̌ŋ
@@ -1010,7 +1010,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 6	9		好	xawH	hǎw
 6	9	YES	汜	?phjomH	fǎm
 6	9	YES	埤	pjie	pi
-6	9	YES	度	dak	dɒ$ɨk
+6	9	YES	度	dak	dɒ̏k
 6	9		之		
 6	9	YES	洚	?kaewngH/haewng/huwngH/huwng	kiɑ̌ŋ/ɦiɑ̏ŋ/ɦǔŋ/ɦȕŋ
 6	9		水		
@@ -1082,10 +1082,10 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 7	1	YES	仁		
 7	1		聞	mjunH	vǔn
 7	1	YES	嘉	haeh	ɦiǎ
-7	1		樂	lak	lɒ$ɨk
+7	1		樂	lak	lɒ̏k
 7	1	YES	衣	’j+jH	ʔǐ
 7	1	YES	揆		
-7	1		度	dak	dɒ$ɨk
+7	1		度	dak	dɒ̏k
 7	1	YES	度	duH	dǔ
 7	1		量	ljangH	liɑ̌ŋ
 7	1	YES	僥	kew	kiɛw
@@ -1112,7 +1112,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 7	3	YES	惡	’u	ʔu
 7	3		死		
 7	3	YES	而		
-7	3		樂	lak	lɒ$ɨk
+7	3		樂	lak	lɒ̏k
 7	3	YES	强	gjangX	giɑ̌ŋ'
 7	3		酒		
 7	4	YES	治	dri	tʃɦȉ
@@ -1132,7 +1132,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 7	7	YES	好	xawH	hǎw
 7	7		仁		
 7	7	YES	以		
-7	7		濯	draewk/yak	ɖʐwɒ$ɨk/jiɒ̏k
+7	7		濯	draewk/yak	ɖʐwɒ̏k/jiɒ̏k
 7	8	YES	其		
 7	8		菑	tsoj	tsai
 7	8	YES	滄		
@@ -1260,7 +1260,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 8	6		質		
 8	6	YES	藉	dzjaeH	?
 8	6		交		
-8	7	YES	樂	lak	lɒ$ɨk
+8	7	YES	樂	lak	lɒ̏k
 8	7		有		
 8	7	YES	相		
 8	7		覺	kaewH	kiǎw
@@ -1293,7 +1293,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 8	18	YES	放	pjangX	fɑ̂ŋ
 8	18		乎		
 8	18	YES	澮	kwajH	kǔi
-8	18	YES	涸	hak	ɦɒ$ɨk
+8	18	YES	涸	hak	ɦɒ̏k
 8	18	YES	潦	lawX	lâw
 8	18	YES	卒	tshwot	tshut
 8	18	YES	聲		
@@ -1382,7 +1382,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 9	2		弓		
 9	2	YES	忸	nrjuwk	nyȕk
 9	2	YES	怩	nrij	nȉ
-9	2	YES	愕	ngak	ŋɒ$ɨk
+9	2	YES	愕	ngak	ŋɒ̏k
 9	2	YES	已		
 9	2		與	yo	jy̏
 9	2	YES	校	haewH/kaewH	ɦiǎw/kiǎw
@@ -1423,7 +1423,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 9	7		湯		
 9	7	YES	莘	srin	ʂən
 9	7	YES	而		
-9	7		樂	lak	lɒ$ɨk
+9	7		樂	lak	lɒ̏k
 9	7	YES	覦	yu	jy̏
 9	7	YES	眄	menH	miɛ̌n
 9	7	YES	囂	ngaw/xjew	ŋȁw/hiɛw
@@ -1543,7 +1543,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 10	4		正		
 10	4	YES	可		
 10	4		卒	tshwot	tshut
-10	4	YES	度	dak	dɒ$ɨk
+10	4	YES	度	dak	dɒ̏k
 10	4		珍		
 10	4	YES	為	hjweH	ǔi
 10	4		之		
@@ -1689,7 +1689,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 11	14	YES	溉	kojH	kǎi
 11	15	YES	檟	kaeX	kiâ
 11	15	YES	樲	nyijH	ɻ̌
-11	17	YES	樂	lak	lɒ$ɨk
+11	17	YES	樂	lak	lɒ̏k
 11	17		善		
 11	17	YES	以		
 11	17		要	’jiew	ʔiɛw
@@ -1749,7 +1749,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 12	4		而		
 12	4	YES	將		
 12	4		為	hjweH	ǔi
-12	4	YES	樂	lak	lɒ$ɨk
+12	4	YES	樂	lak	lɒ̏k
 12	4		罷		
 12	5	YES	閒	hean	ɦiȁn
 12	5		矣		
@@ -1852,7 +1852,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 13	2		之		
 13	3	YES	舍	syaeX	ʃiɛ̂
 13	3		則		
-13	4	YES	樂	lak	lɒ$ɨk
+13	4	YES	樂	lak	lɒ̏k
 13	4		莫		
 13	6	YES	以		
 13	6		錯	tshuH	tshǔ
@@ -2054,7 +2054,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 14	11		羮		
 14	13	YES	庳	?	?bǐ
 14	14	YES	皆		
-14	14		樂	lak	lɒ$ɨk
+14	14		樂	lak	lɒ̏k
 14	14	YES	之		
 14	14		行	haengH	ɦǐŋ
 14	14	YES	更	kaeng	kəŋ
