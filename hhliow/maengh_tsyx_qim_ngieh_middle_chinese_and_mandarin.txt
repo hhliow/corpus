@@ -49,14 +49,14 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 0	0	YES	依		
 0	0		放	pjangX	fɑ̂ŋ
 0	0	YES	遂		
-0	0		絀	trhwit	tʃhyut
+0	0		絀	trhwit	tʃhyt
 0	0	YES	罷		
 0	0		傳	drjwenH	dʒyuɛ̌n
 0	0	YES	心		
 0	0		勦	tsjewX	tsiɛ̂w
 0	0	YES	形		
 0	0		瘵	tsreajH	ʈʂǎi
-0	0	YES	弛	syeX	ʃiɨ̂
+0	0	YES	弛	syeX	ʃɨ̂
 0	0		擔	tamH	tǎm
 0	0	YES	睠	kjwenH	kyuɛ̌n
 0	0	YES	漂	phjiew	phiɛw
@@ -73,7 +73,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 1	1	YES	夷		
 1	1		羿	ngejH	ŋǐ
 1	1	YES	饜	’jiem/’jiemH	ʔiɛm/ʔiɛ̌m
-1	1	YES	復	bjuwH	fvǒw
+1	1	YES	復	bjuwH	fʱǒw
 1	1		申		
 1	1	YES	重	drjowngH	dʒyǔŋ
 1	1		嗟		
@@ -143,7 +143,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 1	4	YES	惡	’u	ʔu
 1	4		在		
 1	4	YES	俑	yowngX	jyûŋ
-1	4	YES	夫	bju	fvȕ
+1	4	YES	夫	bju	fʱȕ
 1	4		惡		
 1	4	YES	死		
 1	4		邪	yae	jiɛ̏
@@ -168,7 +168,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 1	6	YES	浡	bwot	bȕt
 1	6	YES	由	yuw	jiȍw
 1	6		水		
-1	7	YES	宓	bjuwk	fvȕk
+1	7	YES	宓	bjuwk	fʱȕk
 1	7	YES	戯	hje	hi
 1	7	YES	齕	hot	ɦə̏t
 1	7	YES	釁	xinH	hǐn
@@ -215,7 +215,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 1	7	YES	放		
 1	7		辟	phjiek	phik
 1	7	YES	邪		
-1	7		侈	tsyheX	tʃhiɨ̂
+1	7		侈	tsyheX	tʃhɨ̂
 1	7	YES	為		
 1	7		已	yiX	jî
 1	7	YES	罔		
@@ -272,7 +272,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 2	3	YES	勾	kuw	kow
 2	3		踐		
 2	3	YES	㑹	kwajH	kǔi
-2	3	YES	夫	bju	fvȕ
+2	3	YES	夫	bju	fʱȕ
 2	3		差		
 2	3	YES	樂	lak	lɒ̏k
 2	3		天		
@@ -314,7 +314,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 2	4		睊	kwen	kyuɛn
 2	4	YES	慝	thok	thək
 2	4	YES	湎	mjienX	miɛ̂n
-2	4	YES	蹯	bjon	fvȁn
+2	4	YES	蹯	bjon	fʱȁn
 2	4	YES	行	haengH	ɦǐŋ
 2	4		也		
 2	4	YES	無		
@@ -322,7 +322,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 2	4	YES	公		
 2	4		説	ywet	jyuɛ̏t
 2	4	YES	徴		
-2	4		招	dzyew	ʃʒiɛ̏w
+2	4		招	dzyew	ʃʱiɛ̏w
 2	4	YES	畜	xjuwk	hyuk
 2	4		君		
 2	5	YES	孥	nu	nȕ
@@ -362,7 +362,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 2	9		少	syewH	ʃiɛ̌w
 2	9	YES	鎰	yit	jȉt
 2	10	YES	簞	tan	tan
-2	10		食	ziH	szɨ̌
+2	10		食	ziH	s⁽ʱ⁾ɨ̌
 2	11	YES	霓	ngej	ŋȉ
 2	11	YES	徯	hejX	ɦǐ'
 2	11	YES	係	kejH	kǐ
@@ -372,7 +372,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 2	11	YES	旄	maw	mȁw
 2	11		倪	ngej	ŋȉ
 2	11	YES	繄	’ej	ʔi
-2	11	YES	夫	bju	fvȕ
+2	11	YES	夫	bju	fʱȕ
 2	11		將		
 2	12	YES	魯		
 2	12		鬨	huwngH/haewngH	ɦǔŋ/ɦiɑ̌ŋ
@@ -401,7 +401,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 2	16	YES	焉	’jen	ʔiɛn
 2	16		能		
 3	1	YES	可		
-3	1		復	bjuwH	fvǒw
+3	1		復	bjuwH	fʱǒw
 3	1	YES	蹵	tsjuwk	tsyuk
 3	1	YES	踖	tsjek	tsik
 3	1	YES	艴	bwot/phjut	bȕt/fut
@@ -492,7 +492,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 3	2	YES	廋	srjuw	ʂow
 3	2	YES	説	sywejH/sywet	ʂǔi/ʃyuɛt
 3	2		辭		
-3	2	YES	夫	bju	fvȕ
+3	2	YES	夫	bju	fʱȕ
 3	2		聖		
 3	2	YES	汙	’wae	ʔwa
 3	2	YES	垤	det	diɛ̏t
@@ -513,7 +513,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 3	4		土	duX	dǔ'
 3	4	YES	綢	drjuw	tʃɦiȍw
 3	4		繆	mjiw	miȍw
-3	4	YES	鴟	tsyhij	tʃhiɨ
+3	4	YES	鴟	tsyhij	tʃhɨ
 3	4	YES	鴞	hjew	hjɛw?
 3	4	YES	般	ban	pɦwɔ̏n
 3	4		樂		
@@ -530,7 +530,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 3	5	YES	不		
 3	5		横	hwaengH	ɦwə̏ŋ
 3	5	YES	氓	maeng	mə̏ŋ
-3	6	YES	怵	trhwit	tʃhyut
+3	6	YES	怵	trhwit	tʃhyt
 3	6		惕		
 3	6	YES	内	nop	nȁp
 3	6		交		
@@ -572,7 +572,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 3	9		之		
 3	9	YES	憚	danH	dǎn
 3	9	YES	儷	lejH	lǐ
-3	9	YES	絀	trhwit	tʃhyut
+3	9	YES	絀	trhwit	tʃhyt
 3	9	YES	伯		
 3	9		夷		
 3	9		隘	’eaH	ʔiǎi
@@ -650,7 +650,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 4	6	YES	相		
 4	6		比	bjijH/pjijX	bǐ/pî
 4	6	YES	曰		
-4	6		夫	bju	fvȕ
+4	6		夫	bju	fʱȕ
 4	6	YES	危		
 4	6		行	haengH	ɦǐŋ
 4	7	YES	稱	tsyhingH	tʃhǐŋ
@@ -705,7 +705,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 5	1		麇	kwin	kyun
 5	1	YES	相		
 5	1		直	driH	dʒǐ
-5	1	YES	復	bjuwH	fvǒw
+5	1	YES	復	bjuwH	fʱǒw
 5	1		見		
 5	1	YES	重	drjowngH	dʒyǔŋ
 5	1		受		
@@ -758,7 +758,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 5	3		民		
 5	3	YES	徹	drjet	dʒiɛ̏t
 5	3	YES	受		
-5	3		禪	dzyenH	ʃʒiɛ̌n
+5	3		禪	dzyenH	ʃʱiɛ̌n
 5	3	YES	校		
 5	3		數	srjuX	ʂû
 5	3	YES	有		
@@ -776,14 +776,14 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 5	3	YES	惡	’u	ʔu
 5	3		在		
 5	3	YES	養		
-5	3		食	ziH	szǐ
+5	3		食	ziH	s⁽ʱ⁾ɨ̌
 5	3	YES	未		
 5	3		任	nyim	ʒȉm
 5	3	YES	雨	hjuH	jy̌
 5	3		我		
 5	3	YES	學		
 5	3		校	haewH	ɦiǎw
-5	3	YES	射	zyaeH	ʃʒiɛ̌
+5	3	YES	射	zyaeH	ʃʱiɛ̌
 5	3		也		
 5	3	YES	各		
 5	3		去	khjoX	khŷ
@@ -814,7 +814,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 5	4	YES	叩		
 5	4		㧻	traewk	ʈʂwɒk
 5	4	YES	陳		
-5	4		相		
+5	4		相	sjangH/sjang	siɑ̌ŋ/siɑŋ
 5	4	YES	饔	’jowng	ʔyuŋ
 5	4	YES	飱	swon	sun
 5	4	YES	當	tangH	tɑ̌ŋ
@@ -829,9 +829,9 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 5	4		也		
 5	4	YES	羸	ljwe/lwaX	lȕi/lwɔ̂
 5	4		路		
-5	4	YES	食	ziH	szǐ
+5	4	YES	食	ziH	s⁽ʱ⁾ɨ̌
 5	4		人		
-5	4	YES	食	zyik	ʃʒȉk
+5	4	YES	食	zyik	ʃʱȉk
 5	4		於		
 5	4		人		
 5	4	YES	氾	phjomH	fǎm
@@ -845,7 +845,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 5	4		契	sjet	siɛt
 5	4	YES	放	pjangX	fɑ̂ŋ
 5	4		勲		
-5	4	YES	曰	?njit	?ʒȉt
+5	4	YES	曰	njit?	ʒȉt?
 5	4	YES	勞	lawH	lǎw
 5	4		之		
 5	4		來	lojH	lǎi
@@ -863,10 +863,10 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 5	4	YES	皜	kawX	kâw
 5	4	YES	質		
 5	4		放	pjangX	fɑ̂ŋ
-5	4	YES	鴃	kwet	kyuɛt
+5	4	YES	鴃	kwet/kwek	kyuɛt/kyuək
 5	4		舌		
 5	4	YES	鳴		
-5	4		鴃	?kjwiek	kyuək
+5	4		鴃	kwek	kyuək
 5	4	YES	大	thajH	thǎi
 5	4		古		
 5	4	YES	閟	pijH	pǐ
@@ -874,11 +874,11 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 5	4	YES	膺		
 5	4		擊		
 5	4	YES	懲		
-5	4		艾	?	?
+5	4		艾	ngjojH	ŋǐ
 5	4	YES	市		
 5	4		賈	kaeH	kiǎ
 5	4	YES	倍		
-5	4		蓰	?srje/srjeX	?ʂɨ/sî
+5	4		蓰	srje/srjeX	ʂɨ/sî
 5	4	YES	子		
 5	4		比	bjijH	bǐ
 5	5	YES	徐		
@@ -889,9 +889,9 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 5	5	YES	匍	bu	pɦȕ
 5	5	YES	匐	bok	bə̏k
 5	5	YES	蠅		
-5	5		蜹	?nywejH	ʒǔi
+5	5		蜹	nywejH/yuw	ʒǔi/jȉw
 5	5		姑		
-5	5	YES	嘬	tsrhwaejH	?
+5	5	YES	嘬	tsrhwaejH	ʈʂhwǎi
 5	5	YES	有		
 5	5		泚	tshejX	tshî
 5	5	YES	睨	ngejH	ŋǐ
@@ -910,10 +910,10 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 6	1	YES	要	’jiew	ʔiɛw
 6	1		利		
 6	1	YES	奚		
-6	1		乘	zyingH	ʃʒǐŋ
+6	1		乘	zyingH	ʃʱǐŋ
 6	1	YES	强	gjangX	giɑ̌ŋ'
 6	1		而		
-6	1	YES	射	zyek	ʃʒȉk
+6	1	YES	射	zyek	ʃʱȉk
 6	1		之		
 6	1	YES	範		
 6	1		我		
@@ -943,7 +943,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 6	3	YES	出		
 6	3		疆	kjang	kiɑŋ
 6	3	YES	載		
-6	3		質	tsyijh	tʃiɨ̌
+6	3		質	tsyijh	tʃɨ̌
 6	3	YES	以		
 6	3		見	henH	ɦiɛ̌n
 6	3	YES	粢	tsij	tsɨ
@@ -951,8 +951,8 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 6	3	YES	繅	saw	saw
 6	3	YES	皿	mjaengX	mîŋ
 6	3	YES	藉	dzjek	dzȉk
-6	3	YES	腯	dwot	?
-6	3	YES	絀	trhwit	tʃhyut
+6	3	YES	腯	dwot	dȕt
+6	3	YES	絀	trhwit	tʃhyt
 6	3	YES	為	hjweH	ǔi
 6	3		出		
 6	3	YES	難	nanH/nan	nǎn/nȁn
@@ -966,12 +966,12 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 6	4		更	kaeng	kəŋ
 6	4	YES	從	dzjowngH	dzyǔŋ
 6	4		者		
-6	4	YES	傳	trjwenH	tʃyuɛ̌n
+6	4	YES	傳	drjwenH	dʒyuɛ̌n
 6	4		食		
 6	4	YES	簞		
-6	4		食	ziH	?
+6	4		食	ziH	s⁽ʱ⁾ɨ̌
 6	4	YES	笥	siH	sɨ̌
-6	4	YES	羨	zjenH/yenH	sziɛ̌n/jiɛ̌n
+6	4	YES	羨	zjenH/yenH	sʱiɛ̌n/jiɛ̌n
 6	4	YES	畫	hweak	ɦwə̏k
 6	4	YES	墁	man	mwɔ̏n
 6	4	YES	素		
@@ -981,7 +981,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 6	5		之		
 6	5	YES	餉	syangH	ʃiɑ̌ŋ
 6	5	YES	徯	hejX	ɦǐ'
-6	5	YES	匪		
+6	5	YES	匪	pj+jX	fî
 6	5		厥		
 6	5	YES	救		
 6	6	YES	咻	xjuw	hiow
@@ -1137,7 +1137,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 7	8		菑	tsoj	tsai
 7	8	YES	滄		
 7	8		浪	lang	lɑ̏ŋ
-7	8	YES	夫	bju	fvȕ
+7	8	YES	夫	bju	fʱȕ
 7	8		人		
 7	8	YES	孼	ngjet	ŋiɛ̏t
 7	8	YES	恐		
@@ -1205,7 +1205,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 7	24		見		
 7	25	YES	餔	pu/buH	pu/bǔ
 7	25	YES	啜	tsyhwet	tʃhyuɛt
-7	28	YES	厎	tsyeX	tʃiɨ̂
+7	28	YES	厎	tsyeX	tʃɨ̂
 8	1	YES	畎	?sywenX/khwenX	?
 8	1		夷		
 8	1	YES	書		
@@ -1227,7 +1227,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 8	1		量	ljangH	liɑ̌ŋ
 8	1	YES	不		
 8	1		比	bjijH	bǐ
-8	2	YES	乘	zyingH	ʃʒǐŋ
+8	2	YES	乘	zyingH	ʃʱǐŋ
 8	2		輿		
 8	2	YES	溱	tsrin	ʈʂən
 8	2	YES	洧	hwijX	?
@@ -1272,7 +1272,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 8	9		及		
 8	9	YES	好	xawH	hǎw
 8	9		言		
-8	9	YES	忮	tsyeH	tʃiɨ̌
+8	9	YES	忮	tsyeH	tʃɨ̌
 8	11	YES	之		
 8	11		行	haengH	ɦǐŋ
 8	11	YES	行	haeng	ɦȉŋ
@@ -1308,7 +1308,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 8	20		爾		
 8	21	YES	熄	sik	sik
 8	21	YES	之		
-8	21		乘	zyingH	ʃʒǐŋ
+8	21		乘	zyingH	ʃʱǐŋ
 8	21	YES	檮	daw	tɦȁw
 8	21		杌	ngwot	ŋȕt
 8	22	YES	跌	det	diɛ̏t
@@ -1321,7 +1321,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 8	24		他	da	tɦɔ̏
 8	24	YES	邪		
 8	24		辟	phjiek	phik
-8	24	YES	乘	zyingH	ʃʒǐŋ
+8	24	YES	乘	zyingH	ʃʱǐŋ
 8	24		矢		
 8	26	YES	桮	pwoj	pui
 8	26	YES	棬	?	khyuɛn
@@ -1343,10 +1343,10 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 8	33	YES	蚤	tsawX	tsâw
 8	33	YES	施		
 8	33		從		
-8	33	YES	墦	bjon/phan	fvȁn/phwɔn
+8	33	YES	墦	bjon/phan	fʱȁn/phwɔn
 8	33	YES	訕	?sraenH	?ʂǎn
-8	33	YES	施	?sye/	ʃiɨ/jȉ
-8	33		施	?sye/	ʃiɨ/jȉ
+8	33	YES	施	?sye/	ʃɨ/jȉ
+8	33		施	?sye/	ʃɨ/jȉ
 8	33	YES	扁	bjien	pɦiɛ̏n
 8	33		扁	bjien	pɦiɛ̏n
 9	1	YES	見		
@@ -1358,7 +1358,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 9	1	YES	共	kjowngH	kyǔŋ
 9	1		為		
 9	1	YES	求		
-9	1		禪	dzyenH	ʃʒiɛ̌n
+9	1		禪	dzyenH	ʃʱiɛ̌n
 9	1	YES	不		
 9	1		見	henH	ɦiɛ̌n
 9	1	YES	人		
@@ -1374,7 +1374,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 9	2	YES	懟	drwijH	ɖʐǔi
 9	2	YES	妻	?tshejH	tshǐ
 9	2		舜		
-9	2	YES	捐	?ywen/zjwen	?jyuɛ̏n/szyuɛ̏n
+9	2	YES	捐	?ywen/zjwen	?jyuɛ̏n/sʱyuɛ̏n
 9	2	YES	浚	swinH	syǔn
 9	2	YES	揜	’jemX	ʔiɛ̂m
 9	2	YES	弤	?tejX/tew	?tî/tiɛw
@@ -1467,10 +1467,10 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 9	9	YES	繆	mjuwk	mȕk
 9	9		公		
 9	9	YES	羖	kuX	kû
-9	9	YES	屈	kjut	kyut
+9	9	YES	屈	kjut	kyt
 9	9		産		
 9	9	YES	之		
-9	9		乘	zyingH	ʃʒǐŋ
+9	9		乘	zyingH	ʃʱǐŋ
 9	9	YES	時		
 9	9		舎	syaeX	ʃiɛ̂
 10	1	YES	横	hwaengH	ɦwə̌ŋ
@@ -1557,7 +1557,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 10	5	YES	椎	drwij	ʈʂɦȕi
 10	5	YES	㑹	kwajH	kǔi
 10	5		計		
-10	5	YES	乘	zyingH	ʃʒǐŋ
+10	5	YES	乘	zyingH	ʃʱǐŋ
 10	5		田		
 10	5	YES	茁	tsrweat	?
 10	5	YES	壯		
@@ -1585,11 +1585,11 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 10	6		女	nrjoH	ny̌
 10	6		焉		
 10	7	YES	傳		
-10	7		質	tsyijH	tʃiɨ̌
+10	7		質	tsyijH	tʃɨ̌
 10	7	YES	敢		
 10	7		見	henH	ɦiɛ̌n
 10	7	YES	如		
-10	7		底	tsyeX	tʃiɨ̂
+10	7		底	tsyeX	tʃɨ̂
 10	7	YES	沮	tshjo	?
 10	7		溺		
 10	8	YES	好	xawH	hǎw
@@ -1623,7 +1623,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 11	2	YES	顙	sangX	sɑ̂ŋ
 11	2	YES	好	xawH	hǎw
 11	2		下		
-11	4	YES	耆	dzyijH	ʃʒiɨ̌
+11	4	YES	耆	dzyijH	ʃʱɨ̌
 11	4		秦		
 11	4	YES	炙	tsyaeH	tʃiɛ̌
 11	6	YES	惡	’u	ʔu
@@ -1662,12 +1662,12 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 11	10	YES	暴	buwk	bȕk
 11	10		之		
 11	10	YES	繳	tsyak	tʃiɒk
-11	10	YES	射	zyek	ʃʒȉk
+11	10	YES	射	zyek	ʃʱȉk
 11	10		之		
 11	10	YES	為	hjweH	ǔi
 11	10		是		
 11	11	YES	熊		
-11	11		蹯	bjon	fvȁn
+11	11		蹯	bjon	fʱȁn
 11	11	YES	不		
 11	11		辟	bjieH	bǐ
 11	11	YES	嘑	xuH	hǔ
@@ -1714,7 +1714,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 12	1		於	’u	ʔu
 12	1	YES	揣	tsrhjweX	?ʈʂhûi
 12	1	YES	奚		
-12	1		翅	syeH	ʃiɨ̌
+12	1		翅	syeH	ʃɨ̌
 12	1	YES	紾	?tsyinX/?	?tʃîn/?
 12	1	YES	摟		
 12	2	YES	以		
@@ -1735,7 +1735,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 12	3	YES	闗	’waen	ʔwan
 12	3		弓		
 12	3	YES	而		
-12	3		射	zyek	ʃʒȉk
+12	3		射	zyek	ʃʱȉk
 12	3	YES	重	drjowngH	dʒyǔŋ
 12	3		言		
 12	3	YES	邶	bwojH	bǔi
@@ -1822,7 +1822,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 12	15		説	ywet	jyuɛ̏t
 12	15	YES	膠		
 12	15		鬲	keak	kək
-12	15	YES	拂	bjut	fvȕt
+12	15	YES	拂	bjut	fʱȕt
 12	15		亂		
 12	15	YES	忍	nyinX/nyinH	ʒîn/ʒǐn
 12	15		性		
@@ -1830,7 +1830,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 12	15	YES	曽	?tsong/?	?tsəŋ/?
 12	15		益		
 12	15	YES	瘁	dzwijH	dzǔi
-12	15	YES	屈	kjut	kyut
+12	15	YES	屈	kjut	kyt
 12	15	YES	拂	bit	bȉt
 12	15	YES	知	trjeH	tʃǐ
 12	15		生		
@@ -1911,7 +1911,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 13	19	YES	怍	dzak	dzɒ̏k
 13	19	YES	重	drjowngH	dʒyǔŋ
 13	19		言		
-13	20	YES	分	bjunH	fvǔn
+13	20	YES	分	bjunH	fʱǔn
 13	20		定		
 13	20	YES	睟	swijH	sǔi
 13	20		然		
@@ -1926,7 +1926,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 13	22	YES	易	yeH	jǐ
 13	22		其		
 13	22	YES	輕		
-13	22		施	syeH	ʃiɨ̌
+13	22		施	syeH	ʃɨ̌
 13	22	YES	焉	’jen	ʔiɛn
 13	22		有		
 13	23	YES	小		
@@ -1951,7 +1951,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 13	26		甘		
 13	27	YES	其		
 13	27		介		
-13	28	YES	掘	gjut/gjwot	gyȕt/gyuɛ̏t
+13	28	YES	掘	gjut/gjwot	gy̏t/gyuɛ̏t
 13	28	YES	軔	nyinH	ʒǐn
 13	28	YES	論		
 13	28		之		
@@ -1971,7 +1971,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 13	34		蹝	srjeX	?
 13	34	YES	訢	xj+n	hin
 13	36	YES	喟	khwijH	khǔi
-13	37	YES	乘	zyingH	ʃʒǐŋ
+13	37	YES	乘	zyingH	ʃʱǐŋ
 13	37		服		
 13	37	YES	呼	xuH	hǔ
 13	37		於		
@@ -2116,7 +2116,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 14	30	YES	從	dzjowngH	dzyǔŋ
 14	30		者		
 14	30	YES	廋	srjuw	ʂow
-14	30	YES	屝	bj+jH	fvǐ
+14	30	YES	屝	bj+jH	fʱǐ
 14	30	YES	造	tshawH	tshǎw
 14	31	YES	餂	themX/nem	thiɛ̂m/niɛ̏m
 14	31		之		
@@ -2141,12 +2141,12 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 14	34		樂		
 14	34	YES	自		
 14	34		遺	ywijH	ǔi
-14	35	YES	單	dzyenX	ʃʒiɛ̌n'
+14	35	YES	單	dzyenX	ʃʱiɛ̌n'
 14	35		豹		
 14	35	YES	黶	’eamX	ʔiâm
 14	36	YES	晳	sek	sik
 14	36	YES	不		
-14	36		復	bjuwH	fvǒw
+14	36		復	bjuwH	fʱǒw
 14	36	YES	炙	tsyaeH	tʃiɛ̌
 14	37	YES	狂		
 14	37		獧	kjwienH/kwenH	kyuɛ̌n
