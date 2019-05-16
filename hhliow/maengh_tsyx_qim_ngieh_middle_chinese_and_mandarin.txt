@@ -995,11 +995,11 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 6	7		内	nop	nȁp
 6	7	YES	繆	mjuwk	mȕk
 6	7		公		
-6	7	YES	矙	?	kʰǎm
+6	7	YES	矙	khamH?	kʰǎm
 6	7	YES	使	sriH	ʂɨ̌
 6	7		人		
 6	7	YES	脅	xjaep/xip	hiɛp/hip
-6	7	YES	畦	hwej	?
+6	7	YES	畦	hwej	ɦȉ
 6	7	YES	竦	sjowngX	syûŋ
 6	7	YES	强	gjangX	giɑ̌ŋ'
 6	7	YES	赧	nraenX	nân
@@ -1008,15 +1008,15 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 6	8	YES	攘	nyang	ʒiɑ̏ŋ
 6	9	YES	子		
 6	9		好	xawH	hǎw
-6	9	YES	汜	?phjomH	fǎm
+6	9	YES	汜	phjomH	fǎm
 6	9	YES	埤	pjie	pi
 6	9	YES	度	dak	dɒ̏k
 6	9		之		
-6	9	YES	洚	?kaewngH/haewng/huwngH/huwng	kiɑ̌ŋ/ɦiɑ̏ŋ/ɦǔŋ/ɦȕŋ
+6	9	YES	洚	kaewngH/haewng/huwngH/huwng	kiɑ̌ŋ/ɦiɑ̏ŋ/ɦǔŋ/ɦȕŋ
 6	9		水		
 6	9	YES	洚	haewng/huwngH	ɦiɑ̏ŋ/ɦǔŋ
 6	9		洞	duwngH/duwng	dǔŋ/tʱȕŋ
-6	9	YES	菹	tsrjo/tsjae	?
+6	9	YES	菹	tsrjo/tsjae	?/tsiɛ
 6	9	YES	既		
 6	9		逺	hjwonH	jyuɛ̌n
 6	9	YES	壞	kweajH	kwǎi
@@ -1026,23 +1026,23 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 6	9		説	sywet/sywejH	ʃyuɛt/ʂǔi
 6	9	YES	暴		
 6	9		行	haengH	ɦǐŋ
-6	9	YES	沛	?bwojH	bǔi
+6	9	YES	沛	bajH?	bǔi
 6	9	YES	更	kaeng	kəŋ
 6	9		興		
 6	9	YES	放		
-6	9		辟	phjiek	pʰik
+6	9		辟	phjiek?	pʰik?
 6	9	YES	相	sjangH	siɑ̌ŋ
 6	9		武		
 6	9	YES	素		
-6	9		王	?hjwangH	wɑ̌ŋ
-6	9	YES	横	hwaengH	?
+6	9		王	hjwangH/hjwang	wɑ̌ŋ/wɑ̏ŋ
+6	9	YES	横	hwaengH	ɦwə̌ŋ
 6	9		議		
 6	9	YES	為	hjweH	ǔi
 6	9		我		
 6	9	YES	莩	bjewX/phju	biɛ̌w'/fu
-6	9	YES	詖	?pjeH	pǐ
+6	9	YES	詖	pjeH	pǐ
 6	9	YES	駢	ben	pʱiɛ̏n
-6	9		躓	?trij/trijH	tʃi/tʃǐ
+6	9		躓	trij/trijH	tʃi/tʃǐ
 6	9	YES	周		
 6	9		公		
 6	9		卬	ngjangX	ŋiɑ̂ŋ
@@ -1059,14 +1059,14 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 6	10	YES	戴		
 6	10		蓋	hap	ɦɔ̏p
 6	10	YES	䳘	nga	ŋɔ̏
-6	10	YES	已	kiX	?
+6	10	YES	已	kiX	kî
 6	10		頻		
 6	10		顣	tsjuwk	tsyuk
 6	10	YES	鶃	ngek	ŋȉk
 6	10		鶃	ngek	ŋȉk
-6	10	YES	哇	’ea	?
+6	10	YES	哇	’ea	ʔwa?
 6	10	YES	母		
-6	10		食	ziH	?
+6	10		食	ziH	s⁽ʱ⁾ɨ̌
 7	0	YES	黄		
 7	0		帝		
 7	0		亡		
@@ -1078,7 +1078,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 7	1		洗	senX	siɛ̂n
 7	1	YES	無		
 7	1		射	yek	jȉk
-7	1	YES	徴	triX	?
+7	1	YES	徴	triX	tʃhî?
 7	1	YES	仁		
 7	1		聞	mjunH	vǔn
 7	1	YES	嘉	haeh	ɦiǎ
@@ -1163,7 +1163,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 7	13		往		
 7	14	YES	辟	bjiek	bȉk
 7	14		草		
-7	14	YES	任		
+7	14	YES	任	nyimH?	ʒǐm?
 7	14		土		
 7	14	YES	合		
 7	14		從	tsjowng	tsyuŋ
@@ -1206,7 +1206,7 @@ volume_index	chapter_index	is_new_entry	char	mc	mandarin
 7	25	YES	餔	pu/buH	pu/bǔ
 7	25	YES	啜	tsyhwet	tʃʰyuɛt
 7	28	YES	厎	tsyeX	tʃɨ̂
-8	1	YES	畎	?sywenX/khwenX	?
+8	1	YES	畎	?sywenX/khwenX	?/kʰyuɛ̂n
 8	1		夷		
 8	1	YES	書		
 8	1		曰		
