@@ -1,8 +1,8 @@
 #《禮記·中庸》中古音及中州音
-# v20190522
+# v20190525
 # author: hhliow (github.com/hhliow)
 # license: cc by-nc-sa 4.0
-char	middle_chinese		mandarin	reference
+char	middle_chinese	mandarin	reference
 天	then	tʰiɛn	
 命	mjaengH	mǐŋ	
 之	tsyi	tʃɨ	
@@ -825,7 +825,7 @@ char	middle_chinese		mandarin	reference
 怨。	’jwonH/’jwon	ʔjyuɛ̌n/ʔyuɛn	【音義】
 上	dzyangH	ʃʱiɑ̌ŋ	
 不	pjuw	put	
-怨。	’jwonH/’jwon	ʔjyuɛ̌n/ʔyuɛn	【音義】
+怨	’jwonH/’jwon	ʔjyuɛ̌n/ʔyuɛn	【音義】
 天。	then	tʰiɛn	
 下	haeX	ɦiǎ'	
 不	pjuw	put	
@@ -899,7 +899,7 @@ char	middle_chinese		mandarin	reference
 樂	lak	lɒ̏k	【音義】【集註】
 且	tshjaeX	tshiɛ̂	
 耽。	tom	tam	【音義】【集註】
-宜	ngje	jȉ	
+宜	ngje	(ŋ)jȉ	
 爾	nyeX	ɻ̂	
 室	syit	ʃit	
 家。	kae	kia	
@@ -1073,9 +1073,9 @@ char	middle_chinese		mandarin	reference
 憲	xenX/xjonH	hiɛ̂n/hiɛ̌n	【音義】【集註】
 令	ljengH	lǐŋ	
 德。	tok	tək	
-宜	ngje	jȉ	
+宜	ngje	(ŋ)jȉ	
 民	mjin	mȉn	
-宜	ngje	jȉ	
+宜	ngje	(ŋ)jȉ	
 人。	nyin	ʒȉn	
 受	dzyuwX	ʃʱǐw'	
 祿	luwk	lȕk	
@@ -1484,7 +1484,7 @@ char	middle_chinese		mandarin	reference
 大。	dajH	dǎi	
 義	ngjeH	(ŋ)jǐ	
 者	tsyaeX	tʃiɛ̂	
-宜	ngje	jȉ	
+宜	ngje	(ŋ)jȉ	
 也。	yaeX	jiɛ̂	
 尊	tswon	tsun	
 賢	hen	ɦiɛ̏n	
@@ -1866,7 +1866,7 @@ char	middle_chinese		mandarin	reference
 也。	yaeX	jiɛ̂	
 忠	trjuwng	tʃyuŋ	
 信	sinH	sǐn	
-重	drjowngX/drjowngH	dʒyǔŋ'	
+重	drjowngX/drjowngH	dʒyǔŋ'/dʒyǔŋ	
 祿。	luwk	lȕk	
 所	srjoX	ʂû	
 以	yiX	jî	
@@ -2424,7 +2424,7 @@ char	middle_chinese		mandarin	reference
 時	dzyi	ʃʱɨ̏	
 措	tshuH	tsʰǔ	
 之	tsyi	tʃɨ	
-宜	ngje	jȉ	
+宜	ngje	(ŋ)jȉ	
 也。	yaeX	jiɛ̂	
 故	kuH	kǔ	
 至	tsyijH	tʃɨ̌	
@@ -2577,8 +2577,8 @@ char	middle_chinese		mandarin	reference
 岳	ngaewk	(ŋ)jiɒ̏k	
 而	nyi	ɻ̏	
 不	pjuw	put	
-重。	drjowngX/drjowngH	dʒyǔŋ'	
-振	tsyin	tʃin	
+重。	drjowngX/drjowngH	dʒyǔŋ'/dʒyǔŋ	
+振	tsyinH	tʃǐn	
 河	ha	ɦɔ̏	
 海	xojX	hâi	
 而	nyi	ɻ̏	
@@ -2700,11 +2700,11 @@ char	middle_chinese		mandarin	reference
 大	dajH	dǎi	
 哉。	tsoj	tsai	
 禮	lejX	lî	
-儀	ngje	jȉ	
+儀	ngje	(ŋ)jȉ	
 三	sam	sam	
 百。	paek	pək	
 威	’jw+j	ʔui	
-儀	ngje	jȉ	
+儀	ngje	(ŋ)jȉ	
 三	sam	sam	
 千。	tshen	tsʰiɛn	
 待	dojX	dǎi'	
@@ -2809,7 +2809,7 @@ char	middle_chinese		mandarin	reference
 賤	dzjenH	dziɛ̌n	
 而	nyi	ɻ̏	
 好	xawH	hǎw	【音義】【集註】
-字	dziH	dzɨ̌	
+自	dziH	dzɨ̌	
 專。	tsywen	tʃyuɛn	
 生	sraeng	ʂəŋ	
 乎	hu	ɦȕ	
@@ -2844,7 +2844,7 @@ char	middle_chinese		mandarin	reference
 今	kim	kim	
 天	then	tʰiɛn	
 下	haeX	ɦiǎ'	
-車	kjo	ky	
+車	kjo/tsyhae	ky/tʃʰiɛ	
 同	duwng	tʱȕŋ	
 軌。	kwijX	kûi	
 書	syo	ʃy	
@@ -2987,7 +2987,7 @@ char	middle_chinese		mandarin	reference
 神	zyin	ʃʱȉn	
 而	nyi	ɻ̏	
 無	mju	vȕ	
-疑。	ngi	jȉ	
+疑。	ngi	(ŋ)jȉ	
 百	paek	pək	
 世	syejH	ʃǐ	
 以	yiX	jî	
@@ -3002,7 +3002,7 @@ char	middle_chinese		mandarin	reference
 神	zyin	ʃʱȉn	
 而	nyi	ɻ̏	
 無	mju	vȕ	
-疑。	ngi	jȉ	
+疑。	ngi	(ŋ)jȉ	
 知	trje	tʃi	
 天	then	tʰiɛn	
 也。	yaeX	jiɛ̂	
@@ -3197,8 +3197,8 @@ char	middle_chinese		mandarin	reference
 有	hjuwX	jîw	
 執	tsyip	tʃip	
 也。	yaeX	jiɛ̂	
-齊。	tsreaj	tʂai	【音義】【集註】
-莊	tsrjang	ʈʂ(w)ɑŋ	
+齊	tsreaj	tʂai	【音義】【集註】
+莊	tsrjang	ʈʂwɑŋ	
 中	trjuwng	tʃyuŋ	
 正。	tsyengH	tʃǐŋ	
 足	tsjowk	tsyuk	
@@ -3263,7 +3263,7 @@ char	middle_chinese		mandarin	reference
 蠻	maen	mȁn	
 貊。	maek	mə̏k	【音義】
 舟	tsyuw	tʃiw	
-車	kjo	ky	
+車	kjo/tsyhae	ky/tʃʰiɛ	
 所	srjoX	ʂû	
 至。	tsyijH	tʃɨ̌	
 人	nyin	ʒȉn	
@@ -3296,7 +3296,7 @@ char	middle_chinese		mandarin	reference
 尊	tswon	tsun	
 親。	tshin	tsʰin	
 故	kuH	kǔ	
-曰。	hjwot	jyuɛ̏t	
+曰	hjwot	jyuɛ̏t	
 配	phwojH	pʰǔi	
 天。	then	tʰiɛn	
 唯	ywij	vȉ	
@@ -3506,7 +3506,7 @@ char	middle_chinese		mandarin	reference
 威	’jw+j	ʔui	
 於	’jo	ʔy	
 鈇	pju/pjuX	fu/fû	【音義】【集註】
-鉞。	hjwot	(ŋ)jyuɛ̏t	【音義】
+鉞。	hjwot	jyuɛ̏t	【音義】
 詩	syi	ʃɨ	
 曰。	hjwot	jyuɛ̏t	
 不	pjuw	put	
