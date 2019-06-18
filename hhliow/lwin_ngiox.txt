@@ -1,7 +1,7 @@
 #《論語》中古音及中州音
 # 論語 in Middle Chinese and Classical Mandarin.
 # author: hhliow (github.com/hhliow)
-# version: 20190508
+# version: 20190618
 # license: cc by-nc-sa 4.0
 # Middle Chinese is in Baxter transcription, converted and proof-read by hhliow from the compilation done by biopolyhedron (github.com/biopolyhedron).
 # Mandarin pronunciation is transcribed by hhliow following the system of 洪武正韻譯訓
@@ -264,8 +264,8 @@ pat jȉt dǐ sam
 · ʔai kuŋ vǔn ʃʱiɛ̌’ ʔy tsâi ŋɔ̂. tsâi ŋɔ̂ tǔi jyuɛ̏t. ɦiǎ’ ɦǒw’ ʃʱɨ̌’ jî syuŋ. ʔin ʒȉn jî pək. tʃiow ʒȉn jî lȉt. jyuɛ̏t ʂɨ̂ mȉn tʃiɛ̌n lȉt. tsɨ̂ vȕn tʃɨ jyuɛ̏t. tʃʱȉŋ ʂʱɨ̌ put ʃyɛt. sʱǔi ʂʱɨ̌ put kiǎn. kǐ wɑ̂ŋ put giǒw’.
 
 〇子曰。管仲之器小哉。或曰。管仲儉乎。曰管氏有三歸。官事不攝。焉得儉。然則管仲知禮乎。曰。邦君樹塞門。管氏亦樹塞門。邦君爲〈【音義】于僞反又如字〉兩君之好、有反坫。管氏亦有反坫。管氏而知禮。孰不知禮。
-· tsiX hjwot. kwanX drjuwngH tsyi khijH sjewX tsoj. hwok hjwot. kwanX drjuwngH gjemX hu. hjwot kwanX dzyeX hjuwX sam kjw+j. kwan dzriH pjuw syep. ’jen tok gjemX. nyen tsok kwanX drjuwngH trje lejX hu. hjwot. paewng kjun dzyuH sok mwon. kwanX dzyeX yek dzyuH sok mwon. paewng kjun hjweH<【音義】于僞反又如字> ljangX kjun tsyi xawH, hjuwX pjonX temH. kwanX dzyeX yek hjuwX pjonX temH. kwanX dzyeX nyi trje lejX. dzyuwk pjuw trje lejX.
-· tsɨ̂ jyuɛ̏t. kwɔ̂n dʒyǔŋ tʃɨ kʰǐ siɛ̂w tsai. ɦwə̏k jyuɛ̏t. kwɔ̂n dʒyǔŋ giɛ̌m’ ɦȕ. jyuɛ̏t kwɔ̂n ʃʱɨ̌’ jiôw sam kui. kwɔn ʂʱɨ̌ put ʃiɛp. ʔiɛn tək giɛ̌m’. ʒiɛ̏n tsək kwɔ̂n dʒyǔŋ tʃi lî ɦȕ. jyuɛ̏t. pɑŋ kyun ʃʱy̌ sək mȕn. kwɔ̂n ʃʱɨ̌’ jȉk ʃʱy̌ sək mȕn. pɑŋ kyun ǔi<【音義】于僞反又如字> liɑ̂ŋ kyun tʃɨ hǎw, jiôw fân tiɛ̌m. kwɔ̂n ʃʱɨ̌’ jȉk jiôw fân tiɛ̌m. kwɔ̂n ʃʱɨ̌’ ɻ̏ tʃi lî. ʃʱyȕk put tʃi lî.
+· tsiX hjwot. kwanX drjuwngH tsyi khijH sjewX tsoj. hwok hjwot. kwanX drjuwngH gjemX hu. hjwot kwanX dzyeX hjuwX sam kjw+j. kwan dzriH pjuw syep. ’jen tok gjemX. nyen tsok kwanX drjuwngH trje lejX hu. hjwot. paewng kjun dzyuH sok mwon. kwanX dzyeX yek dzyuH sok mwon. paewng kjun hjwe(H)<【音義】于僞反又如字> ljangX kjun tsyi xawH, hjuwX pjonX temH. kwanX dzyeX yek hjuwX pjonX temH. kwanX dzyeX nyi trje lejX. dzyuwk pjuw trje lejX.
+· tsɨ̂ jyuɛ̏t. kwɔ̂n dʒyǔŋ tʃɨ kʰǐ siɛ̂w tsai. ɦwə̏k jyuɛ̏t. kwɔ̂n dʒyǔŋ giɛ̌m’ ɦȕ. jyuɛ̏t kwɔ̂n ʃʱɨ̌’ jiôw sam kui. kwɔn ʂʱɨ̌ put ʃiɛp. ʔiɛn tək giɛ̌m’. ʒiɛ̏n tsək kwɔ̂n dʒyǔŋ tʃi lî ɦȕ. jyuɛ̏t. pɑŋ kyun ʃʱy̌ sək mȕn. kwɔ̂n ʃʱɨ̌’ jȉk ʃʱy̌ sək mȕn. pɑŋ kyun ǔi/ȕi<【音義】于僞反又如字> liɑ̂ŋ kyun tʃɨ hǎw, jiôw fân tiɛ̌m. kwɔ̂n ʃʱɨ̌’ jȉk jiôw fân tiɛ̌m. kwɔ̂n ʃʱɨ̌’ ɻ̏ tʃi lî. ʃʱyȕk put tʃi lî.
 
 〇子語魯大師樂。曰。樂其可知也。始作。翕如也。從之。純如也。皦如也。繹如也。以成。
 · tsiX ngjoH luX thajH srij ngaewk. hjwot. ngaewk gi khaX trje yaeX. syiX tsak. xip nyo yaeX. tsjowngH tsyi. dzywin nyo yaeX. kewX nyo yaeX. yek nyo yaeX. yiX dzyeng.
@@ -345,7 +345,7 @@ lî ʒȉn dǐ sɨ̌
 
 〇子曰。參乎。吾道一以貫之。曾子曰。唯。子出。門人問曰。何謂也。曾子曰。夫子之道。忠恕而已矣。
 · tsiX hjwot. srim hu. ngu dawX ’jit yiX kwanH tsyi. tsong tsiX hjwot. ywijX. tsiX tsyhwit. mwon nyin mjunH hjwot. ha hjw+jH yaeX. tsong tsiX hjwot. pju tsiX tsyi dawX. trjuwng syoH nyi yiX hiX.
-· tsɨ̂ jyuɛ̏t. ʂəm ɦȕ. ŋȕ dǎw’ ʔit jî kwɔ̌n tʃɨ. tsəŋ tsɨ̂ jyuɛ̏t. ʔûi. tsɨ̂ tʃʰyt. mȕn ʒȉn vǔn jyuɛ̏t. ɦɔ̏ ǔi jiɛ̂. tsəŋ tsɨ̂ jyuɛ̏t. fu tsɨ̂ tʃɨ dǎw’. tʃyuŋ ʃy̌ ɻ̏ jî jî.
+· tsɨ̂ jyuɛ̏t. ʂəm ɦȕ. ŋȕ dǎw’ ʔit jî kwɔ̌n tʃɨ. tsəŋ tsɨ̂ jyuɛ̏t. ûi. tsɨ̂ tʃʰyt. mȕn ʒȉn vǔn jyuɛ̏t. ɦɔ̏ ǔi jiɛ̂. tsəŋ tsɨ̂ jyuɛ̏t. fu tsɨ̂ tʃɨ dǎw’. tʃyuŋ ʃy̌ ɻ̏ jî jî.
 
 〇子曰。君子喻於義。小人喻於利。
 · tsiX hjwot. kjun tsiX yuH ’jo ngjeH. sjewX nyin yuH ’jo lijH.
