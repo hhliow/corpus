@@ -1,7 +1,7 @@
 #《論語》中古音及中州音
 # 論語 in Middle Chinese and Classical Mandarin.
 # author: hhliow (github.com/hhliow)
-# version: 20190618
+# version: 20190626
 # license: cc by-nc-sa 4.0
 # Middle Chinese is in Baxter transcription, converted and proof-read by hhliow from the compilation done by biopolyhedron (github.com/biopolyhedron).
 # Mandarin pronunciation is transcribed by hhliow following the system of 洪武正韻譯訓
@@ -699,9 +699,9 @@ zywit nyi dejH tshit
 · tsiX hjwot. bjonX srjo ziH. ’imX sywijX. khjowk kwong nyi tsyimH tsyi. lak yek dzojX gi trjuwng hiX. pjuwH ngjeH nyi pjuwH tshjaeX kjw+jH. ’jo ngaX nyo bjuw hjun.
 · tsɨ̂ jyuɛ̏t. fʱǎn’ ʂu sʱɨ̌. ʔîm ʂûi. kʰyuk kwəŋ ɻ̏ tʃǐm tʃɨ. lɒ̏k jȉk dzǎi’ kʱȉ tʃyuŋ jî. put (ŋ)jǐ ɻ̏ fǒw tsʰiɛ̂ kǔi. ʔy ŋɔ̂ ʒy̏ fʱȍw jyȕn.
 
-〇子曰。加我數年。五十以學易。可以無大過矣。
-· tsiX hjwot. kae(X?) ngaX sraewk nen. nguX(?) dzyip(?) yiX haewk yek. khaX yiX mju dajH kwaH hiX.
-· tsɨ̂ jyuɛ̏t. kia(kiâ) ŋɔ̂ ʂwɒk niɛ̏n. ŋû(?) ʃʱȉp(?) jî ɦiɒ̏k jȉk. kʰɔ̂ jî vȕ dǎi kwɔ̌ jî.
+〇子曰。加我數〈【音義】色主反〉年。五十以學易。可以無大過矣。
+· tsiX hjwot. kae(X?) ngaX srjuX(H?)<【音義】色主反> nen. nguX(?) dzyip(?) yiX haewk yek. khaX yiX mju dajH kwaH hiX.
+· tsɨ̂ jyuɛ̏t. kia(kiâ) ŋɔ̂ ʂû(ʂǔ?)<【音義】色主反> niɛ̏n. ŋû(?) ʃʱȉp(?) jî ɦiɒ̏k jȉk. kʰɔ̂ jî vȕ dǎi kwɔ̌ jî.
 
 〇子所雅言。詩書執禮。皆雅言也。
 · tsiX srjoX ngaeX ngjon. syi syo tsyip lejX. keaj ngaeX ngjon yaeX.
@@ -2072,8 +2072,8 @@ tsɨ̂ tʃiɑŋ dǐ ʃʱȉp kiôw
 · ǔi kuŋ sun tʃʱiɛ̏w<【音義】直遙反【集註】音潮> vǔn ʔy tsɨ̂ kǔŋ jyuɛ̏t. dʒyǔŋ nȉ ʔiɛn<【音義】【集註】於䖍反> ɦiɒ̏k. tsɨ̂ kǔŋ jyuɛ̏t. vȕn vû tʃɨ dǎw’. vǐ ɖʐǔi<【音義】直類反> ʔy dǐ. dzǎi’ ʒȉn. ɦiɛ̏n tʃiɛ̂ tʃɨ̌<【集註】音志> kʱȉ dǎi tʃiɛ̂. put ɦiɛ̏n tʃiɛ̂ tʃɨ̌<【集註】音志> kʱȉ siɛ̂w tʃiɛ̂. mɒ̏k put jiôw vȕn vû tʃɨ dǎw’ jiɛ̏n. fu tsɨ̂ ʔiɛn<【音義】【集註】於䖍反> put ɦiɒ̏k. ɻ̏ jȉk ɦɔ̏ (t)ʃʱiɑ̏ŋ ʂɨ tʃɨ jiôw.
 
 〇叔孫武叔。語〈【音義】魚據反【集註】去聲〉大夫於朝〈【音義】直遙反【集註】音潮〉（馬曰魯大夫叔孫州仇〈【音義】音求〉武諡）曰。子貢賢於仲尼。子服景伯以告子貢。子貢曰。譬之宮牆。賜之牆也及肩。窺〈【音義】棄規反〉見室家之好。〈【音義】如字舊呼報反〉夫子之牆數〈【音義】色主反〉仞。〈【音義】仞一作刃音同〉不得其門而入。不見宗廟之美。百官之富。得其門者或寡矣。（包曰七尺曰仞）夫子之云。不亦宜乎。（包曰夫子謂武叔）
-· syuwk swon mjuX syuwk. ngjoH<【音義】魚據反【集註】去聲> dajH pju ’jo drjew<【音義】直遙反【集註】音潮> hjwot. tsiX kuwngH hen ’jo drjuwngH nrij. tsiX bjuwk kjaengX paek yiX kawH tsiX kuwngH. tsiX kuwngH hjwot. phjieH tsyi kjuwng dzjang. sjeH tsyi dzjang yaeX gip ken. khjwie<【音義】棄規反> kenH syit kae tsyi xawX.<【音義】如字舊呼報反> pju tsiX tsyi dzjang sraewk(X?)<【音義】色主反> nyinH.<【音義】仞一作刃音同> pjuw tok gi mwon nyi nyip. pjuw kenH tsowng mjewH tsyi mijX. paek kwan tsyi pjuwH. tok gi mwon tsyaeX hwok kwaeX hiX. pju tsiX tsyi hjun. pjuw yek ngje hu.
-· ʃyuk sun vû ʃyuk. ŋy̌<【音義】魚據反【集註】去聲> dǎi fu ʔy tʃʱiɛ̏w<【音義】直遙反【集註】音潮> jyuɛ̏t. tsɨ̂ kǔŋ ɦiɛ̏n ʔy dʒyǔŋ nȉ. tsɨ̂ fʱȕk kîŋ pək jî kǎw tsɨ̂ kǔŋ. tsɨ̂ kǔŋ jyuɛ̏t. pʰǐ tʃɨ kyuŋ tsʱiɑ̏ŋ. sɨ̌ tʃɨ tsʱiɑ̏ŋ jiɛ̂ gȉp kiɛn. kʰui<【音義】棄規反> kiɛ̌n ʃit kia tʃɨ hâw.<【音義】如字舊呼報反> fu tsɨ̂ tʃɨ tsʱiɑ̏ŋ ʂwɒk(ʂû?)<【音義】色主反> ʒǐn.<【音義】仞一作刃音同> put tək kʱȉ mȕn ɻ̏ ʒȉp. put kiɛ̌n tsuŋ miɛ̌w tʃɨ mûi. pək kwɔn tʃɨ fǒw. tək kʱȉ mȕn tʃiɛ̂ ɦwə̏k kwâ jî. fu tsɨ̂ tʃɨ jyȕn. put jȉk (ŋ)jȉ ɦȕ.
+· syuwk swon mjuX syuwk. ngjoH<【音義】魚據反【集註】去聲> dajH pju ’jo drjew<【音義】直遙反【集註】音潮> hjwot. tsiX kuwngH hen ’jo drjuwngH nrij. tsiX bjuwk kjaengX paek yiX kawH tsiX kuwngH. tsiX kuwngH hjwot. phjieH tsyi kjuwng dzjang. sjeH tsyi dzjang yaeX gip ken. khjwie<【音義】棄規反> kenH syit kae tsyi xawX.<【音義】如字舊呼報反> pju tsiX tsyi dzjang srjuX(H?)<【音義】色主反> nyinH.<【音義】仞一作刃音同> pjuw tok gi mwon nyi nyip. pjuw kenH tsowng mjewH tsyi mijX. paek kwan tsyi pjuwH. tok gi mwon tsyaeX hwok kwaeX hiX. pju tsiX tsyi hjun. pjuw yek ngje hu.
+· ʃyuk sun vû ʃyuk. ŋy̌<【音義】魚據反【集註】去聲> dǎi fu ʔy tʃʱiɛ̏w<【音義】直遙反【集註】音潮> jyuɛ̏t. tsɨ̂ kǔŋ ɦiɛ̏n ʔy dʒyǔŋ nȉ. tsɨ̂ fʱȕk kîŋ pək jî kǎw tsɨ̂ kǔŋ. tsɨ̂ kǔŋ jyuɛ̏t. pʰǐ tʃɨ kyuŋ tsʱiɑ̏ŋ. sɨ̌ tʃɨ tsʱiɑ̏ŋ jiɛ̂ gȉp kiɛn. kʰui<【音義】棄規反> kiɛ̌n ʃit kia tʃɨ hâw.<【音義】如字舊呼報反> fu tsɨ̂ tʃɨ tsʱiɑ̏ŋ ʂû(ʂǔ?)<【音義】色主反> ʒǐn.<【音義】仞一作刃音同> put tək kʱȉ mȕn ɻ̏ ʒȉp. put kiɛ̌n tsuŋ miɛ̌w tʃɨ mûi. pək kwɔn tʃɨ fǒw. tək kʱȉ mȕn tʃiɛ̂ ɦwə̏k kwâ jî. fu tsɨ̂ tʃɨ jyȕn. put jȉk (ŋ)jȉ ɦȕ.
 
 〇叔孫武叔毀仲尼。子貢曰。無以爲也。仲尼不可毀也。他人之賢者。丘陵也。猶可踰也。仲尼日月也。無得而踰焉。人雖欲自絕。其何傷於日月乎。多見其不知量〈【音義】音亮注同【集註】去聲〉也。（言人雖自絕棄於日月其何能傷之乎適足自見其不知量〈【音義】音亮〉也）
 · syuwk swon mjuX syuwk xjweX drjuwngH nrij. tsiX kuwngH hjwot. mju yiX hjwe yaeX. drjuwngH nrij pjuw khaX xjweX yaeX. tha nyin tsyi hen tsyaeX. khjuw ling yaeX. yuw khaX yu yaeX. drjuwngH nrij nyit ngjwot yaeX. mju tok nyi yu hjen. nyin swij yowk dzijH dzjwet. gi ha syang ’jo nyit ngjwot hu. ta kenH gi pjuw trje ljangH<【音義】音亮注同【集註】去聲> yaeX.
