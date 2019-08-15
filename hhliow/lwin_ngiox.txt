@@ -1,3 +1,4 @@
+
 #《論語》中古音及中州音
 # 論語 in Middle Chinese and Classical Mandarin.
 # author: hhliow (github.com/hhliow)
@@ -1016,8 +1017,8 @@ hiɑŋ tɑ̂ŋ dǐ ʃʱȉp
 · kyun dʒiɛ̌w ʂɨ̂ pǐn. ʂək bȕt ʒy̏ jiɛ̂. tsyuk kʰyuɒk ʒy̏ jiɛ̂. ʔip ʂû jŷ lȉp. tsɔ̂ jiôw/jiǒw ʃiôw. ʔi tsʱiɛ̏n ɦǒw’. tʃʰiɛ̌m ʒy̏ jiɛ̂. tsʰy tsǐn. jȉk ʒy̏ jiɛ̂. pin tʰǔi. pit fʱȕk mǐŋ jyuɛ̏t. pin put kǔ jî.
 
 〇入公門。鞠躬如也。如不容。立不中門。行不履閾。過位。色勃如也。足躩如也。其言似不足者。攝齊升堂。鞠躬如也。屏氣似不息者。出、降一等。逞顏色。怡怡如也。沒階趨。翼如也。復其位。踧踖如也。
-· nyip kuwng mwon. kjuwk kjuwng nyo yaeX. nyo pjuw yowng. lip pjuw trjuwngH mwon. haeng pjuw lijX hwik. kwa hwijH. srik bwot nyo yaeX. tsjowk khjwak nyo yaeX. gi ngjon ziX pjuw tsjowk tsyaeX. syep tsij sying dang. kjuwk kjuwng nyo yaeX. pjiengX khj+jH ziX pjuw sik tsyaeX. tsyhwit, kaewngH ’jit tongX. trhjengX ngaen srik. yi yi nyo yaeX. mwot keaj tshju. yik nyo yaeX. bjuwk gi hwijH. tsjuwk tsjek nyo yaeX.
-· ʒȉp kuŋ mȕn. kyuk kyuŋ ʒy̏ jiɛ̂. ʒy̏ put jyȕŋ. lȉp put tʃyǔŋ mȕn. ɦȉŋ put lî jyuə̏k. kwɔ ǔi. ʂək bȕt ʒy̏ jiɛ̂. tsyuk kʰyuɒk ʒy̏ jiɛ̂. kʱȉ jiɛ̏n sʱɨ̌’ put tsyuk tʃiɛ̂. ʃiɛp tsɨ ʃiŋ tʱɑ̏ŋ. kyuk kyuŋ ʒy̏ jiɛ̂. pîŋ kʰǐ sʱɨ̌’ put sik tʃiɛ̂. tʃʰyt, kiɑ̌ŋ ʔit tə̂ŋ. tʃʰîŋ (ŋ)jiȁn ʂək. jȉ jȉ ʒy̏ jiɛ̂. mȕt kiai tsʰy. jȉk ʒy̏ jiɛ̂. fʱȕk kʱȉ ǔi. tsyuk tsik ʒy̏ jiɛ̂.
+· nyip kuwng mwon. kjuwk kjuwng nyo yaeX. nyo pjuw yowng. lip pjuw trjuwng mwon. haeng pjuw lijX hwik. kwa hwijH. srik bwot nyo yaeX. tsjowk khjwak nyo yaeX. gi ngjon ziX pjuw tsjowk tsyaeX. syep tsij sying dang. kjuwk kjuwng nyo yaeX. pjiengX khj+jH ziX pjuw sik tsyaeX. tsyhwit, kaewngH ’jit tongX. trhjengX ngaen srik. yi yi nyo yaeX. mwot keaj tshju. yik nyo yaeX. bjuwk gi hwijH. tsjuwk tsjek nyo yaeX.
+· ʒȉp kuŋ mȕn. kyuk kyuŋ ʒy̏ jiɛ̂. ʒy̏ put jyȕŋ. lȉp put tʃyuŋ mȕn. ɦȉŋ put lî jyuə̏k. kwɔ ǔi. ʂək bȕt ʒy̏ jiɛ̂. tsyuk kʰyuɒk ʒy̏ jiɛ̂. kʱȉ jiɛ̏n sʱɨ̌’ put tsyuk tʃiɛ̂. ʃiɛp tsɨ ʃiŋ tʱɑ̏ŋ. kyuk kyuŋ ʒy̏ jiɛ̂. pîŋ kʰǐ sʱɨ̌’ put sik tʃiɛ̂. tʃʰyt, kiɑ̌ŋ ʔit tə̂ŋ. tʃʰîŋ (ŋ)jiȁn ʂək. jȉ jȉ ʒy̏ jiɛ̂. mȕt kiai tsʰy. jȉk ʒy̏ jiɛ̂. fʱȕk kʱȉ ǔi. tsyuk tsik ʒy̏ jiɛ̂.
 
 〇執圭。鞠躬如也。如不勝。上如揖。下如授。勃如戰色。足縮縮。如有循。享禮、有容色。私覿。愉愉如也。
 · tsyip kwej. kjuwk kjuwng nyo yaeX. nyo pjuw sying. dzyangH nyo ’jip. haeX nyo dzyuwH. bwot nyo tsyenH srik. tsjowk srjuwk srjuwk. nyo hjuwX zwin. xjangX lejX, hjuwX yowng srik. sij dek. yu yu nyo yaeX.
