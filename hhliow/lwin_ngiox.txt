@@ -1,7 +1,7 @@
 #《論語》中古音及中州音
 # 論語 in Middle Chinese and Classical Mandarin.
 # author: hhliow (github.com/hhliow)
-# version: 20190815
+# version: 20190819
 # license: cc by-nc-sa 4.0
 # Middle Chinese is in Baxter transcription, converted and proof-read by hhliow from the compilation done by biopolyhedron (github.com/biopolyhedron).
 # Mandarin pronunciation is transcribed by hhliow following the system of 洪武正韻譯訓
@@ -783,8 +783,8 @@ zywit nyi dejH tshit
 · tsiX hjwot. kjun tsiX thanX dangX dangX. sjewX nyin drjang tshek tshek.
 · tsɨ̂ jyuɛ̏t. kyun tsɨ̂ tʰân dɑ̌ŋ’ dɑ̌ŋ’. siɛ̂w ʒȉn tʃʱiɑ̏ŋ tsʰik tsʰik.
 
-〇子溫而不厲。威而不猛。恭而安。
-· tsiX ’won nyi pjuw ljejH. ’jw+j nyi pjuw maengX. kjowng nyi ’an.
+〇子溫而厲。威而不猛。恭而安。
+· tsiX ’won nyi ljejH. ’jw+j nyi pjuw maengX. kjowng nyi ’an.
 · tsɨ̂ ʔun ɻ̏ put lǐ. ʔui ɻ̏ put mə̂ŋ. kyuŋ ɻ̏ ʔɑn.
 
 泰伯第八
