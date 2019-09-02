@@ -1,7 +1,7 @@
 #《論語》中古音及中州音
 # 論語 in Middle Chinese and Classical Mandarin.
 # author: hhliow (github.com/hhliow)
-# version: 20190821
+# version: 20190902
 # license: cc by-nc-sa 4.0
 # Middle Chinese is in Baxter transcription, converted and proof-read by hhliow from the compilation done by biopolyhedron (github.com/biopolyhedron).
 # Mandarin pronunciation is transcribed by hhliow following the system of 洪武正韻譯訓
@@ -1252,8 +1252,8 @@ ngaen ’wen dejH dzyip nyijH
 · tsɨ̂ jyuɛ̏t. tʰǐŋ sʱyǔŋ. ŋȕ jiȍw ʒȉn jiɛ̂. pit jiɛ̂ ʂɨ̂ vȕ sʱyǔŋ ɦȕ.
 
 〇子張問政。子曰。居之無倦。行之以忠。
-· tsiX trjangH mjunH tsyengH. tsiX hjwot. kjo tsyi mju gjwenH. haeng tsyi yiX trjuwng.
-· tsɨ̂ tʃiɑ̌ŋ vǔn tʃǐŋ. tsɨ̂ jyuɛ̏t. ky tʃɨ vȕ gyuɛ̌n. ɦȉŋ tʃɨ jî tʃyuŋ.
+· tsiX trjang mjunH tsyengH. tsiX hjwot. kjo tsyi mju gjwenH. haeng tsyi yiX trjuwng.
+· tsɨ̂ tʃiɑŋ vǔn tʃǐŋ. tsɨ̂ jyuɛ̏t. ky tʃɨ vȕ gyuɛ̌n. ɦȉŋ tʃɨ jî tʃyuŋ.
 
 〇子曰。博學於文。約之以禮。亦可以弗畔矣夫。
 · tsiX hjwot. pak haewk ’jo mjun. ’jak tsyi yiX lejX. yek khaX yiX pjut banH hiX bju.
@@ -1377,11 +1377,11 @@ tsɨ̂ lǔ dǐ ʃʱȉp sam
 
 〇子貢問曰。何如斯可謂之士矣。子曰。行己有恥。使於四方。不辱君命。可謂士矣。曰。敢問其次。曰。宗族稱孝焉。鄉黨稱弟焉。曰。敢問其次。曰。言必信。行必果。硜硜然。小人哉。抑亦可以爲次矣。曰。今之從政者何如。子曰。噫。斗筲之人。何足算也。
 · tsiX kuwngH mjunH hjwot. ha nyo sje khaX hjw+jH tsyi dzriX hiX. tsiX hjwot. haeng kiX hjuwX trhiX. sriH ’jo sijH pjang. pjuw nyowk kjun mjaengH. khaX hjw+jH dzriX hiX. hjwot. kamX mjunH gi tshijH. hjwot. tsowng dzuwk tsyhing xaewH hjen. xjang tangX tsyhing dejH hjen. hjwot. kamX mjunH gi tshijH. hjwot. ngjon pjit sinH. haengH pjit kwaX. kheang kheang nyen. sjewX nyin tsoj. ’ik yek khaX yiX hjwe tshijH hiX. hjwot. kim tsyi dzjowng tsyengH tsyaeX ha nyo. tsiX hjwot. ’i. tuwX sraew tsyi nyin. ha tsjowk swanH yaeX.
-· tsɨ̂ kǔŋ vǔn jyuɛ̏t. ɦɔ̏ ʒy̏ sɨ kʰɔ̂ ǔi tʃɨ ʂʱɨ̌’ jî. tsɨ̂ jyuɛ̏t. ɦȉŋ kî jiôw tʃʰî. ʂɨ̂ ʔy sɨ̌ fɑŋ. put ʒyȕk kyun mǐŋ. kʰɔ̂ ǔi ʂʱɨ̌’ jî. jyuɛ̏t. kâm vǔn kʱȉ tsʰɨ̌. jyuɛ̏t. tsuŋ dzȕk tʃʰiŋ hiǎw jiɛ̏n. hiɑŋ tɑ̂ŋ tʃʰiŋ dǐ jiɛ̏n. jyuɛ̏t. kâm vǔn kʱȉ tsʰɨ̌. jyuɛ̏t. jiɛ̏n pit sǐn. ɦǐŋ pit kwɔ̂. kʰəŋ kʰəŋ ʒiɛ̏n. siɛ̂w ʒȉn tsai. ʔik jȉk kʰɔ̂ jî ȕi tsʰɨ̌ jî. jyuɛ̏t. kim tʃɨ tsʱyȕŋ tʃǐŋ tʃiɛ̂ ɦɔ̏ ʒy̏. tsɨ̂ jyuɛ̏t. ʔi. tôw ʂaw tʃɨ ʒȉn. ɦɔ̏ tsyuk swɔ̌n jiɛ̂.
+· tsɨ̂ kǔŋ vǔn jyuɛ̏t. ɦɔ̏ ʒy̏ sɨ kʰɔ̂ ǔi tʃɨ ʂʱɨ̌’ jî. tsɨ̂ jyuɛ̏t. ɦȉŋ kî jiôw tʃʰî. ʂɨ̌ ʔy sɨ̌ fɑŋ. put ʒyȕk kyun mǐŋ. kʰɔ̂ ǔi ʂʱɨ̌’ jî. jyuɛ̏t. kâm vǔn kʱȉ tsʰɨ̌. jyuɛ̏t. tsuŋ dzȕk tʃʰiŋ hiǎw jiɛ̏n. hiɑŋ tɑ̂ŋ tʃʰiŋ dǐ jiɛ̏n. jyuɛ̏t. kâm vǔn kʱȉ tsʰɨ̌. jyuɛ̏t. jiɛ̏n pit sǐn. ɦǐŋ pit kwɔ̂. kʰəŋ kʰəŋ ʒiɛ̏n. siɛ̂w ʒȉn tsai. ʔik jȉk kʰɔ̂ jî ȕi tsʰɨ̌ jî. jyuɛ̏t. kim tʃɨ tsʱyȕŋ tʃǐŋ tʃiɛ̂ ɦɔ̏ ʒy̏. tsɨ̂ jyuɛ̏t. ʔi. tôw ʂaw tʃɨ ʒȉn. ɦɔ̏ tsyuk swɔ̌n jiɛ̂.
 
 〇子曰。不得中行（包曰中行行能得其中者言不得中行則欲得狂狷者）而與之。必也狂狷乎。狂者進取。狷者有所不爲也。（包曰狂者進取於善道狷者守節無爲欲得此二人者以時多進退取其恆一）
-· tsiX hjwot. pjuw tok trjuwng haeng nyi yoX tsyi. pjit yaeX gjwang kjwienH hu. gjwang tsyaeX tsinH tshjuX. kjwienH tsyaeX hjuwX srjoX pjuw hjwe yaeX.
-· tsɨ̂ jyuɛ̏t. put tək tʃyuŋ ɦȉŋ ɻ̏ jŷ tʃɨ. pit jiɛ̂ kʱwɑ̏ŋ kyuɛ̌n ɦȕ. kʱwɑ̏ŋ tʃiɛ̂ tsǐn tsʰŷ. kyuɛ̌n tʃiɛ̂ jiôw ʂû put ȕi jiɛ̂.
+· tsiX hjwot. pjuw tok trjuwng hang nyi yoX tsyi. pjit yaeX gjwang kjwienH hu. gjwang tsyaeX tsinH tshjuX. kjwienH tsyaeX hjuwX srjoX pjuw hjwe yaeX.
+· tsɨ̂ jyuɛ̏t. put tək tʃyuŋ ɦɑ̏ŋ ɻ̏ jŷ tʃɨ. pit jiɛ̂ kʱwɑ̏ŋ kyuɛ̌n ɦȕ. kʱwɑ̏ŋ tʃiɛ̂ tsǐn tsʰŷ. kyuɛ̌n tʃiɛ̂ jiôw ʂû put ȕi jiɛ̂.
 
 〇子曰。南人有言曰。人而無恆。不可以作巫醫。善夫。不恆其德。或承之羞。子曰。不占而已矣。
 · tsiX hjwot. nom nyin hjuwX ngjon hjwot. nyin nyi mju hong. pjuw khaX yiX tsak mju ’i. dzyenX bju. pjuw hong gi tok. hwok dzying tsyi sjuw. tsiX hjwot. pjuw tsyem nyi yiX hiX.
@@ -1416,8 +1416,8 @@ tsɨ̂ lǔ dǐ ʃʱȉp sam
 · tsɨ̂ jyuɛ̏t. ʃʱiɛ̌n’ ʒȉn kiaw mȉn tsʰit niɛ̏n. jȉk kʰɔ̂ jî tsik ʒyȕŋ jî.
 
 〇子曰。以不敎民戰。是謂棄之。
-· tsiX hjwot. yiX pjuw kaewH mjin tsyenH. dzyeX hjw+jH khjijH tsyi.
-· tsɨ̂ jyuɛ̏t. jî put kiǎw mȉn tʃiɛ̌n. ʃʱɨ̌’ ǔi kʰǐ tʃɨ.
+· tsiX hjwot. yiX pjuw kaew mjin tsyenH. dzyeX hjw+jH khjijH tsyi.
+· tsɨ̂ jyuɛ̏t. jî put kiaw mȉn tʃiɛ̌n. ʃʱɨ̌’ ǔi kʰǐ tʃɨ.
 
 憲問第十四
 xjonH mjunH dejH dzyip sijH
