@@ -1,7 +1,7 @@
 #《論語》中古音及中州音
 # 論語 in Middle Chinese and Classical Mandarin.
 # author: hhliow (github.com/hhliow)
-# version: 20190902
+# version: 20190911
 # license: cc by-nc-sa 4.0
 # Middle Chinese is in Baxter transcription, converted and proof-read by hhliow from the compilation done by biopolyhedron (github.com/biopolyhedron).
 # Mandarin pronunciation is transcribed by hhliow following the system of 洪武正韻譯訓
@@ -1456,8 +1456,8 @@ hiɛ̌n vǔn dǐ ʃʱȉp sɨ̌
 · tsɨ̂ jyuɛ̏t. ȕi mǐŋ. pʱȉ ʃʱȉm tsʰâw ʈʂʰwɑ̌ŋ tʃɨ. ʃǐ ʃyuk tʰâw lȕn tʃɨ. ɦȉŋ ʒȉn tsɨ̂ jŷ siow ʃik tʃɨ. tuŋ lî tsɨ̂ ʈʂʰân ʒyǔn ʂək tʃɨ.
 
 〇或問子產。子曰。惠人也。問子西。曰。彼哉彼哉。問管仲。曰。人也。奪伯氏駢邑三百。飯疏食。沒齒無怨言。
-· hwok mjunH tsiX sreanX. tsiX hjwot. hwejH nyin yaeX. mjunH tsiX sej. hjwot. pjeX tsoj pjeX tsoj. mjunH kwanX drjuwngH. hjwot. nyin yaeX. dwat paek dzyeX ben ’ip sam paek. bjonX srjo zyik. mwot tsyhiX mju ’jwonH ngjon.
-· ɦwə̏k vǔn tsɨ̂ ʈʂʰân. tsɨ̂ jyuɛ̏t. ɦǔi ʒȉn jiɛ̂. vǔn tsɨ̂ si. jyuɛ̏t. pî tsai pî tsai. vǔn kwɔ̂n dʒyǔŋ. jyuɛ̏t. ʒȉn jiɛ̂. dwɔ̏t pək ʃʱɨ̌’ pʱiɛ̏n ʔip sam pək. fʱǎn’ ʂu ʃʱȉk. mȕt tʃʰɨ̂ vȕ ʔyuɛ̌n jiɛ̏n.
+· hwok mjunH tsiX sreanX. tsiX hjwot. hwejH nyin yaeX. mjunH tsiX sej. hjwot. pjeX tsoj pjeX tsoj. mjunH kwanX drjuwngH. hjwot. nyin yaeX. dwat paek dzyeX ben ’ip sam paek. bjonX srjo ziH/zyik. mwot tsyhiX mju ’jwonH ngjon.
+· ɦwə̏k vǔn tsɨ̂ ʈʂʰân. tsɨ̂ jyuɛ̏t. ɦǔi ʒȉn jiɛ̂. vǔn tsɨ̂ si. jyuɛ̏t. pî tsai pî tsai. vǔn kwɔ̂n dʒyǔŋ. jyuɛ̏t. ʒȉn jiɛ̂. dwɔ̏t pək ʃʱɨ̌’ pʱiɛ̏n ʔip sam pək. fʱǎn’ ʂu sʱɨ̌/ʃʱȉk. mȕt tʃʰɨ̂ vȕ ʔyuɛ̌n jiɛ̏n.
 
 〇子曰。貧而無怨難。富而無驕易。
 · tsiX hjwot. bin nyi mju ’jwonH nanH. pjuwH nyi mju kjew yeH.
@@ -1468,8 +1468,8 @@ hiɛ̌n vǔn dǐ ʃʱȉp sɨ̌
 · tsɨ̂ jyuɛ̏t. mə̌ŋ kuŋ tʃʰiɒk ȕi dʒiɛ̌w’ ŋǔi lâw tsək ʔiow. put kʰɔ̂ jî ȕi tʱə̏ŋ siɛt dǎi fu.
 
 〇子路問成人。子曰。若臧武仲之知。公綽之不欲。卞莊子之勇。冉求之藝。文之以禮樂。亦可以爲成人矣。曰。今之成人者。何必然。見利思義。見危授命。久要不忘平生之言。亦可以爲成人矣。
-· tsiX luH mjunH dzyeng nyin. tsiX hjwot. nyak tsang mjuX drjuwngH tsyi trjeH. kuwng tsyhak tsyi pjuw yowk. bjenH tsrjang tsiX tsyi yowngX. nyemX gjuw tsyi ngjiejH. mjun tsyi yiX lejX ngaewk. yek khaX yiX hjwe dzyeng nyin hiX. hjwot. kim tsyi dzyeng nyin tsyaeX. ha pjit nyen. kenH lijH si ngjeH. kenH ngjwe dzyuwH mjaengH. kjuwX ’jiew(H) pjuw mjangH bjaeng srjaeng tsyi ngjon. yek khaX yiX hjwe dzyeng nyin hiX.
-· tsɨ̂ lǔ vǔn tʃʱȉŋ ʒȉn. tsɨ̂ jyuɛ̏t. ʒiɒ̏k tsɑŋ vû dʒyǔŋ tʃɨ tʃǐ. kuŋ tʃʰiɒk tʃɨ put jyȕk. biɛ̌n ʈʂwɑŋ tsɨ̂ tʃɨ jyûŋ. ʒiɛ̂m kʱiȍw tʃɨ (ŋ)jǐ. vȕn tʃɨ jî lî (ŋ)jiɒ̏k. jȉk kʰɔ̂ jî ȕi tʃʱȉŋ ʒȉn jî. jyuɛ̏t. kim tʃɨ tʃʱȉŋ ʒȉn tʃiɛ̂. ɦɔ̏ pit ʒiɛ̏n. kiɛ̌n lǐ sɨ (ŋ)jǐ. kiɛ̌n ŋȕi ʃʱiǒw mǐŋ. kiôw ʔiɛw/ʔiɛ̌w put vɑ̌ŋ pʱȉŋ ʂəŋ tʃɨ jiɛ̏n. jȉk kʰɔ̂ jî ȕi tʃʱȉŋ ʒȉn jî.
+· tsiX luH mjunH dzyeng nyin. tsiX hjwot. nyak tsang mjuX drjuwngH tsyi trjeH. kuwng tsyhak tsyi pjuw yowk. bjenH tsrjang tsiX tsyi yowngX. nyemX gjuw tsyi ngjiejH. mjun tsyi yiX lejX ngaewk. yek khaX yiX hjwe dzyeng nyin hiX. hjwot. kim tsyi dzyeng nyin tsyaeX. ha pjit nyen. kenH lijH si ngjeH. kenH ngjwe dzyuwH mjaengH. kjuwX ’jiew(H) pjuw mjang(H) bjaeng srjaeng tsyi ngjon. yek khaX yiX hjwe dzyeng nyin hiX.
+· tsɨ̂ lǔ vǔn tʃʱȉŋ ʒȉn. tsɨ̂ jyuɛ̏t. ʒiɒ̏k tsɑŋ vû dʒyǔŋ tʃɨ tʃǐ. kuŋ tʃʰiɒk tʃɨ put jyȕk. biɛ̌n ʈʂwɑŋ tsɨ̂ tʃɨ jyûŋ. ʒiɛ̂m kʱiȍw tʃɨ (ŋ)jǐ. vȕn tʃɨ jî lî (ŋ)jiɒ̏k. jȉk kʰɔ̂ jî ȕi tʃʱȉŋ ʒȉn jî. jyuɛ̏t. kim tʃɨ tʃʱȉŋ ʒȉn tʃiɛ̂. ɦɔ̏ pit ʒiɛ̏n. kiɛ̌n lǐ sɨ (ŋ)jǐ. kiɛ̌n ŋȕi ʃʱiǒw mǐŋ. kiôw ʔiɛw/ʔiɛ̌w put vɑ̏ŋ/vɑ̌ŋ pʱȉŋ ʂəŋ tʃɨ jiɛ̏n. jȉk kʰɔ̂ jî ȕi tʃʱȉŋ ʒȉn jî.
 
 〇子問公叔文子於公明賈曰。信乎夫子不言不笑不取乎。公明賈對曰。以告者過也。夫子時然後言。人不厭其言。樂然後笑。人不厭其笑。義然後取。人不厭其取。子曰。其然。豈其然乎。
 · tsiX mjunH kuwng syuwk mjun tsiX ’jo kuwng mjaeng kaeX hjwot. sinH hu pju tsiX pjuw ngjon pjuw sjewH pjuw tshjuX hu. kuwng mjaeng kaeX twojH hjwot. yiX kawH tsyaeX kwaH yaeX. pju tsiX dzyi nyen huwX ngjon. nyin pjuw ’jiemH gi ngjon. lak nyen huwX sjewH. nyin pjuw ’jiemH gi sjewH. ngjeH nyen huwX tshjuX. nyin pjuw ’jiemH gi tshjuX. tsiX hjwot. gi nyen. khj+jX gi nyen hu.
@@ -1576,8 +1576,8 @@ hiɛ̌n vǔn dǐ ʃʱȉp sɨ̌
 · tsɨ̂ lǔ syuk ʔy ʃʱȉk mȕn. ʃʱȉn mȕn jyuɛ̏t. ɦȉ dzɨ̌. tsɨ̂ lǔ jyuɛ̏t. dzɨ̌ kʰûŋ ʃʱɨ̌’. jyuɛ̏t. ʃʱɨ̌’ tʃi kʱȉ put kʰɔ̂ ɻ̏ ȕi tʃɨ tʃiɛ̂ jy̏.
 
 〇子擊磬於衞。有荷〈【音義】胡我反本又作河音同〉蕢而過孔氏之門者。曰。有心哉。擊磬乎。旣而曰。鄙哉。硜硜乎。莫己知也。斯已而已矣。深則厲。淺則揭。子曰。果哉。末之難矣。
-· tsiX kek khengH ’jo hjwejH. hjuwX haX<集註之謂去聲者蓋訛><【音義】胡我反本又作河音同> gwijH nyi kwaH khuwngX dzyeX tsyi mwon tsyaeX. hjwot. hjuwX sim tsoj. kek khengH hu. kj+jH nyi hjwot. pijX tsoj. kheang kheang hu. mak kiX trje yaeX. sje yiX nyi yiX hiX. syim tsok ljejH. tshjenX tsok khjejH. tsiX hjwot. kwaX tsoj. mat tsyi nan hiX.
-· tsɨ̂ kik kʰǐŋ ʔy ǔi. jiôw ɦɔ̌’<【音義】胡我反本又作河音同> gǔi ɻ̏ kwɔ̌ kʰûŋ ʃʱɨ̌’ tʃɨ mȕn tʃiɛ̂. jyuɛ̏t. jiôw sim tsai. kik kʰǐŋ ɦȕ. kǐ ɻ̏ jyuɛ̏t. pî tsai. kʰəŋ kʰəŋ ɦȕ. mɒ̏k kî tʃi jiɛ̂. sɨ jî ɻ̏ jî jî. ʃim tsək lǐ. tsʰiɛ̂n tsək kʰǐ. tsɨ̂ jyuɛ̏t. kwɔ̂ tsai. mwɔ̏t tʃɨ nȁn jî.
+· tsiX kek khengH ’jo hjwejH. hjuwX haX<集註之謂去聲者蓋訛><【音義】胡我反本又作河音同> gwijH nyi kwa khuwngX dzyeX tsyi mwon tsyaeX. hjwot. hjuwX sim tsoj. kek khengH hu. kj+jH nyi hjwot. pijX tsoj. kheang kheang hu. mak kiX trje yaeX. sje yiX nyi yiX hiX. syim tsok ljejH. tshjenX tsok khjejH. tsiX hjwot. kwaX tsoj. mat tsyi nan hiX.
+· tsɨ̂ kik kʰǐŋ ʔy ǔi. jiôw ɦɔ̌’<【音義】胡我反本又作河音同> gǔi ɻ̏ kwɔ kʰûŋ ʃʱɨ̌’ tʃɨ mȕn tʃiɛ̂. jyuɛ̏t. jiôw sim tsai. kik kʰǐŋ ɦȕ. kǐ ɻ̏ jyuɛ̏t. pî tsai. kʰəŋ kʰəŋ ɦȕ. mɒ̏k kî tʃi jiɛ̂. sɨ jî ɻ̏ jî jî. ʃim tsək lǐ. tsʰiɛ̂n tsək kʰǐ. tsɨ̂ jyuɛ̏t. kwɔ̂ tsai. mwɔ̏t tʃɨ nȁn jî.
 
 〇子張曰。書云。高宗諒陰。三年不言。何謂也。子曰。何必高宗。古之人皆然。君薨。百官緫己。以聽於冢宰。三年。
 · tsiX trjang hjwot. syo hjun. kaw tsowng ljangH ’im. sam nen pjuw ngjon. ha hjw+jH yaeX. tsiX hjwot. ha pjit kaw tsowng. kuX tsyi nyin keaj nyen. kjun xwong. paek kwan tsuwngX kiX. yiX thengH ’jo trjowngX tsojX. sam nen.
