@@ -1,7 +1,7 @@
 #《論語》中古音及中州音
 # 論語 in Middle Chinese and Classical Mandarin.
 # author: hhliow (github.com/hhliow)
-# version: 20190911
+# version: 20190921
 # license: cc by-nc-sa 4.0
 # Middle Chinese is in Baxter transcription, converted and proof-read by hhliow from the compilation done by biopolyhedron (github.com/biopolyhedron).
 # Mandarin pronunciation is transcribed by hhliow following the system of 洪武正韻譯訓
@@ -1791,7 +1791,7 @@ kǐ ʃʱɨ̌’ dǐ ʃʱȉp lȕk
 · khuwngX tsiX hjwot. ’jiek tsyaeX sam hjuwX. swonX tsyaeX sam hjuwX. hjuwX drik. hjuwX ljangH. hjuwX ta mjun. ’jiek hiX. hjuwX bjien<【音義】婢緜反【集註】平聲> bjiek.<【音義】【集註】婢亦反> hjuwX dzyenX nyuw. hjuwX bjien<【音義】婢緜反> nengH.<【音義】乃定反> swonX hiX.
 · kʰûŋ tsɨ̂ jyuɛ̏t. ʔik tʃiɛ̂ sam jiôw. sûn tʃiɛ̂ sam jiôw. jiôw dʒȉk. jiôw liɑ̌ŋ. jiôw tɔ vȕn. ʔik jî. jiôw pʱiɛ̏n<【音義】婢緜反【集註】平聲> bȉk.<【音義】【集註】婢亦反> jiôw ʃʱiɛ̌n’ ʒiȍw. jiôw pʱiɛ̏n<【音義】婢緜反> nǐŋ.<【音義】乃定反> sûn jî.
 
-〇孔子曰。益者三樂。〈【音義】五敎反下不出者同【集註】五敎反〉損者三樂。〈【音義】五敎反〉樂〈【音義】五敎反〉節禮樂。〈【音義】【集註】音岳〉（動得禮樂之節）樂〈【音義】五敎反〉道人之善。樂〈【音義】五敎反〉多賢友。益矣。樂〈【音義】五敎反〉驕樂。〈【音義】【集註】音洛〉（孔曰恃尊貴以自恣）樂〈【音義】五敎反〉佚（王曰佚〈【音義】本亦作逸音同遊出入不節）遊。樂〈【音義】五敎反〉宴樂。〈【音義】【集註】音洛〉損矣。（孔曰宴樂沈荒淫瀆三者自損之道）
+〇孔子曰。益者三樂。〈【音義】五敎反下不出者同【集註】五敎反〉損者三樂。〈【音義】五敎反〉樂〈【音義】五敎反〉節禮樂。〈【音義】【集註】音岳〉（動得禮樂之節）樂〈【音義】五敎反〉道人之善。樂〈【音義】五敎反〉多賢友。益矣。樂〈【音義】五敎反〉驕樂。〈【音義】【集註】音洛〉（孔曰恃尊貴以自恣）樂〈【音義】五敎反〉佚〈【音義】本亦作逸音同〉遊。（王曰佚遊出入不節）樂〈【音義】五敎反〉宴樂。〈【音義】【集註】音洛〉損矣。（孔曰宴樂沈荒淫瀆三者自損之道）
 · khuwngX tsiX hjwot. ’jiek tsyaeX sam ngaewH.<【音義】五敎反下不出者同【集註】五敎反> swonX tsyaeX sam ngaewH.<【音義】五敎反> ngaewH<【音義】五敎反> tset lejX ngaewk.<【音義】【集註】音岳> ngaewH<【音義】五敎反> dawX nyin tsyi dzyenX. ngaewH<【音義】五敎反> ta hen hjuwX. ’jiek hiX. ngaewH<【音義】五敎反> kjew lak.<【音義】【集註】音洛> ngaewH<【音義】五敎反> yit yuw. ngaewH<【音義】五敎反> ’enH lak.<【音義】【集註】音洛> swonX hiX.
 · kʰûŋ tsɨ̂ jyuɛ̏t. ʔik tʃiɛ̂ sam (ŋ)jiǎw.<【音義】五敎反下不出者同【集註】五敎反> sûn tʃiɛ̂ sam (ŋ)jiǎw.<【音義】五敎反> (ŋ)jiǎw<【音義】五敎反> tsiɛt lî (ŋ)jiɒ̏k.<【音義】【集註】音岳> (ŋ)jiǎw<【音義】五敎反> dǎw’ ʒȉn tʃɨ ʃʱiɛ̌n’. (ŋ)jiǎw<【音義】五敎反> tɔ ɦiɛ̏n jiôw. ʔik jî. (ŋ)jiǎw<【音義】五敎反> kiɛw lɒ̏k.<【音義】【集註】音洛> (ŋ)jiǎw<【音義】五敎反> jȉt jiȍw. (ŋ)jiǎw<【音義】五敎反> ʔiɛ̌n lɒ̏k.<【音義】【集註】音洛> sûn jî.
 
