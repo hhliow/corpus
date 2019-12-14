@@ -1,5 +1,5 @@
 #《禮記·中庸》中古音及中州音
-# v20190526
+# v20191214
 # author: hhliow (github.com/hhliow)
 # license: cc by-nc-sa 4.0
 char	middle_chinese	mandarin	reference
