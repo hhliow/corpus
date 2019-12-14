@@ -179,7 +179,7 @@ char	middle_chinese	mandarin	reference
 之。	tsyi	tʃɨ	
 愚	ngju	ŋy˩	
 者	tsyaeX	tʃiɛ˥˧	
-不	pjuw	puʔ(t)	
+不	pjuw(t)	puʔ(t)	
 及	gip	giʔ(p)˩	
 也。	yaeX	jiɛ˥˧	
 道	dawX	daw'˨˦	
@@ -198,7 +198,7 @@ char	middle_chinese	mandarin	reference
 不	pjuw	puʔ(t)	
 肖	sjewH	siɛw˨˦	【音義】
 者	tsyaeX	tʃiɛ˥˧	
-不	pjuw	puʔ(t)	
+不	pjuw(t)	puʔ(t)	
 及	gip	giʔ(p)˩	
 也。	yaeX	jiɛ˥˧	
 人	nyin	ʒin˩	
@@ -289,7 +289,7 @@ char	middle_chinese	mandarin	reference
 中	trjuwng	tʃyuŋ	
 庸。	yowng	jyuŋ˩	
 而	nyi	ɻ˩	
-不	pjuw	puʔ(t)	
+不	pjuw(t)	puʔ(t)	
 能	nong	nəŋ˩	
 期	ki	ki	【音義】【集註】
 月	ngjwot	(ŋ)yuɛʔ(t)˩	
@@ -310,16 +310,10 @@ char	middle_chinese	mandarin	reference
 一	’jit	ʔiʔ(t)	
 善。	dzyenX	ʃʱiɛn'˨˦	
 則	tsok	tsəʔ(k)	
-拳	"gjwen/
-khjwon"	"kʱyuɛn˩/
-kʰyuɛn˧"	【音義】
-拳	"gjwen/
-khjwon"	"kʱyuɛn˩/
-kʰyuɛn˧"	【音義】
+拳	gjwen/khjwon	kʱyuɛn˩/kʰyuɛn˧	【音義】
+拳	gjwen/khjwon	kʱyuɛn˩/kʰyuɛn˧	【音義】
 服	bjuwk	fʱuʔ(k)˩	
-膺	"’ingH/
-’ing"	"ʔiŋ˨˦/
-ʔiŋ˧"	【音義】
+膺	’ingH/’ing	ʔiŋ˨˦/ʔiŋ˧	【音義】
 而	nyi	ɻ˩	
 弗	pjut	fuʔ(t)	
 失	syit	ʃiʔ(t)	
@@ -387,9 +381,7 @@ kʰyuɛn˧"	【音義】
 子	tsiX	tsɨ˥˧	
 居	kjo	ky	
 之。	tsyi	tʃɨ	
-衽	"nyimX/
-nyimH"	"ʒim˥˧/
-ʒim˨˦"	【音義】
+衽	nyimX/nyimH	ʒim˥˧/ʒim˨˦	【音義】
 金	kim	kim	
 革。	keak	kəʔ(k)	
 死	sijX	sɨ˥˧	
@@ -498,9 +490,7 @@ nyimH"	"ʒim˥˧/
 子	tsiX	tsɨ˥˧	
 之	tsyi	tʃɨ	
 道。	dawX	daw'˨˦	
-費	"bjut/
-bj+jH"	"fʱut˩/
-fʱi˨˦"	【音義】【集註】
+費	bjut/bj+jH	fʱut˩/fʱi˨˦	【音義】【集註】
 而	nyi	ɻ˩	
 隱。	’j+nX	ʔin˥˧	
 夫	pju	fu	
@@ -581,9 +571,7 @@ fʱi˨˦"	【音義】【集註】
 云。	hjun	jyun˩	
 鳶	ywen	jyuɛn˩	【音義】【集註】
 飛	pj+j	fi	
-戾	"lejH/
-let"	"li˨˦/
-liɛʔ(t)˩"	【音義】
+戾	lejH/let	li˨˦/liɛʔ(t)˩	【音義】
 天。	then	tʰiɛn	
 魚	ngjo	ŋy˩	
 躍	yak	jiɒʔ(k)˩	【音義】
@@ -753,12 +741,8 @@ liɛʔ(t)˩"	【音義】
 盡。	dzinX	dzin'˨˦	
 言	ngjon	jiɛn˩	
 顧	kuH	ku˨˦	
-行。	"haengH/
-haeng"	"ɦiŋ˨˦/
-ɦiŋ˩"	【音義】
-行。	"haengH/
-haeng"	"ɦiŋ˨˦/
-ɦiŋ˩"	【音義】
+行。	haengH/haeng	ɦiŋ˨˦/ɦiŋ˩	【音義】
+行。	haengH/haeng	ɦiŋ˨˦/ɦiŋ˩	【音義】
 顧	kuH	ku˨˦	
 言。	ngjon	jiɛn˩	
 君	kjun	kyun	
@@ -838,14 +822,10 @@ haeng"	"ɦiŋ˨˦/
 人。	nyin	ʒin˩	
 則	tsok	tsəʔ(k)	
 無	mju	vu˩	
-怨。	"’jwonH/
-’jwon"	"ʔyuɛn˨˦/
-ʔyuɛn˧"	【音義】
+怨。	’jwonH/’jwon	ʔyuɛn˨˦/ʔyuɛn˧	【音義】
 上	dzyangH	ʃʱiɑŋ˨˦	
 不	pjuw	puʔ(t)	
-怨	"’jwonH/
-’jwon"	"ʔyuɛn˨˦/
-ʔyuɛn˧"	【音義】
+怨	’jwonH/’jwon	ʔyuɛn˨˦/ʔyuɛn˧	【音義】
 天。	then	tʰiɛn	
 下	haeX	ɦia'˨˦	
 不	pjuw	puʔ(t)	
@@ -900,9 +880,7 @@ haeng"	"ɦiŋ˨˦/
 高	kaw	kaw	
 必	pjit	piʔ(t)	
 自	dzijH	dzɨ˨˦	
-卑。	"bjieX/
-pjie"	"bi'˨˦/
-pi˧"	【音義】
+卑。	bjieX/pjie	bi'˨˦/pi˧	【音義】
 詩	syi	ʃɨ	
 曰。	hjwot	jyuɛʔ(t)˩	
 妻	tshej	tsʰi	
@@ -953,9 +931,7 @@ pi˧"	【音義】
 而	nyi	ɻ˩	
 弗	pjut	fuʔ(t)	
 見。	kenH	kiɛn˨˦	
-聽	"theng/
-thengH"	"tʰiŋ˧/
-thiŋ˨˦"	
+聽	theng/thengH	tʰiŋ˧/thiŋ˨˦	
 之	tsyi	tʃɨ	
 而	nyi	ɻ˩	
 弗	pjut	fuʔ(t)	
@@ -1065,9 +1041,7 @@ thiŋ˨˦"
 必	pjit	piʔ(t)	
 得	tok	təʔ(k)	
 其	gi	kʱi˩	
-壽。	"dzyuwX/
-dzyuwH"	"ʃʱiw'˨˦/
-ʃʱiw˨˦"	
+壽。	dzyuwX/dzyuwH	ʃʱiw'˨˦/ʃʱiw˨˦	
 故	kuH	ku˨˦	
 天	then	tʰiɛn	
 之	tsyi	tʃɨ	
@@ -1091,18 +1065,12 @@ dzyuwH"	"ʃʱiw'˨˦/
 之。	tsyi	tʃɨ	
 詩	syi	ʃɨ	
 曰。	hjwot	jyuɛʔ(t)˩	
-嘉	"haeH/
-kae"	"ɦia˨˦/
-kia˧"	【音義】【集註】
+嘉	haeH/kae	ɦia˨˦/kia˧	【音義】【集註】
 樂	lak	lɒʔ(k)˩	
 君	kjun	kyun	
 子。	tsiX	tsɨ˥˧	
-憲	"xenX/
-xjonH"	"hiɛn˥˧/
-hiɛn˨˦"	【音義】【集註】
-憲	"xenX/
-xjonH"	"hiɛn˥˧/
-hiɛn˨˦"	【音義】【集註】
+憲	xenX/xjonH	hiɛn˥˧/hiɛn˨˦	【音義】【集註】
+憲	xenX/xjonH	hiɛn˥˧/hiɛn˨˦	【音義】【集註】
 令	ljengH	liŋ˨˦	
 德。	tok	təʔ(k)	
 宜	ngje	(ŋ)i˩	
@@ -1167,9 +1135,7 @@ hiɛn˨˦"	【音義】【集註】
 緒。	zjoX	sʱy'˨˦	
 壹	’jit	ʔiʔ(t)	
 戎	nyuwng	ʒyuŋ˩	
-衣。	"’j+n/
-’j+j"	"ʔin/
-ʔi"	【音義】
+衣。	’j+n/’j+j	ʔin/ʔi	【音義】
 而	nyi	ɻ˩	
 有	hjuwX	jiw˥˧	
 天	then	tʰiɛn	
@@ -1343,9 +1309,7 @@ hiɛn˨˦"	【音義】【集註】
 所	srjoX	ʂu˥˧	
 以	yiX	ji˥˧	
 序	zjoX	sʱy'˨˦	
-昭	"dzyew/
-tsyew"	"ʃʱiɛw˩/
-tʃiɛw˧"	【音義】【集註】
+昭	dzyew/tsyew	ʃʱiɛw˩/tʃiɛw˧	【音義】【集註】
 穆	mjuwk	muʔ(k)˩	
 也。	yaeX	jiɛ˥˧	
 序	zjoX	sʱy'˨˦	
@@ -1446,9 +1410,7 @@ tʃiɛw˧"	【音義】【集註】
 國	kwok	kwəʔ(k)	
 其	gi	kʱi˩	
 如	nyo	ʒy˩	
-示	"tsyeH/
-dzyijH"	"tʃi˨˦/
-ʃʱɨ˨˦"	【音義】【集註】
+示	tsyeH/dzyijH	tʃi˨˦/ʃʱɨ˨˦	【音義】【集註】
 諸	tsyo	tʃy	
 掌	tsyangX	tʃiɑŋ˥˧	
 乎。	hu	ɦu˩	
@@ -1552,9 +1514,7 @@ dzyijH"	"tʃi˨˦/
 可	khaX	kʰɔ˥˧	
 得	tok	təʔ(k)	
 而	nyi	ɻ˩	
-治	"driH/
-dri"	"dʒi˨˦/
-tʃʱi˩"	【音義】
+治	driH/dri	dʒi˨˦/tʃʱi˩	【音義】
 矣。	hiX	ji˥˧	
 故	kuH	ku˨˦	
 君	kjun	kyun	
@@ -1699,9 +1659,7 @@ tʃʱi˩"	【音義】
 乎	hu	ɦu˩	
 知。	trjeH	tʃi˨˦	【音義】【集註】
 力	lik	liʔ(k)˩	
-行	"haeng/
-haengH"	"ɦiŋ˩/
-ɦiŋ˨˦"	【音義】
+行	haeng/haengH	ɦiŋ˩/ɦiŋ˨˦	【音義】
 近	gj+nH	gin˨˦	【音義】
 乎	hu	ɦu˩	
 仁。	nyin	ʒin˩	
@@ -1773,9 +1731,7 @@ haengH"	"ɦiŋ˩/
 群	gjun	kʱyun˩	
 臣	dzyin	tʃʱin˩	
 也。	yaeX	jiɛ˥˧	
-子	"tsiX/
-tsiH"	"tsɨ˥˧/
-tsɨ˨˦"	【音義】
+子	tsiX/tsiH	tsɨ˥˧/tsɨ˨˦	【音義】
 庶	syoH	ʃy˨˦	
 民	mjin	min˩	
 也。	yaeX	jiɛ˥˧	
@@ -1825,9 +1781,7 @@ tsɨ˨˦"	【音義】
 報	pawH	paw˨˦	
 禮	lejX	li˥˧	
 重。	drjowngX	dʒyuŋ'˨˦	
-子	"tsiX/
-tsiH"	"tsɨ˥˧/
-tsɨ˨˦"	【音義】
+子	tsiX/tsiH	tsɨ˥˧/tsɨ˨˦	【音義】
 庶	syoH	ʃy˨˦	
 民	mjin	min˩	
 則	tsok	tsəʔ(k)	
@@ -1887,19 +1841,13 @@ tsɨ˨˦"	【音義】
 尊	tswon	tsun	
 其	gi	kʱi˩	
 位。	hwijH	ui˨˦	
-重	"drjowngX/
-drjowngH"	"dʒyuŋ'˨˦/
-dʒyuŋ˨˦"	
+重	drjowngX/drjowngH	dʒyuŋ'˨˦/dʒyuŋ˨˦	
 其	gi	kʱi˩	
 祿。	luwk	luʔ(k)˩	
 同	duwng	tʱuŋ˩	
 其	gi	kʱi˩	
-好	"xawH/
-xawX"	"haw˨˦/
-haw˥˧"	【音義】【集註】
-惡。	"’uH/
-’ak"	"ʔu˨˦/
-ʔɔʔ(k)"	【音義】【集註】
+好	xawH/xawX	haw˨˦/haw˥˧	【音義】【集註】
+惡。	’uH/’ak	ʔu˨˦/ʔɔʔ(k)	【音義】【集註】
 所	srjoX	ʂu˥˧	
 以	yiX	ji˥˧	
 勸	khjwonH	kʰyuɛn˨˦	
@@ -1918,9 +1866,7 @@ haw˥˧"	【音義】【集註】
 也。	yaeX	jiɛ˥˧	
 忠	trjuwng	tʃyuŋ	
 信	sinH	sin˨˦	
-重	"drjowngX/
-drjowngH"	"dʒyuŋ'˨˦/
-dʒyuŋ˨˦"	
+重	drjowngX/drjowngH	dʒyuŋ'˨˦/dʒyuŋ˨˦	
 祿。	luwk	luʔ(k)˩	
 所	srjoX	ʂu˥˧	
 以	yiX	ji˥˧	
@@ -1942,9 +1888,7 @@ dʒyuŋ˨˦"
 月	ngjwot	(ŋ)yuɛʔ(t)˩	
 試。	syiH	ʃɨ˨˦	
 既	xj+jH	hi˨˦	【音義】【集註】
-稟	"pimX/
-limX"	"pin(m)˥˧/
-lim˥˧"	【音義】【集註】
+稟	pimX/limX	pin(m)˥˧/lim˥˧	【音義】【集註】
 稱	tsyhingH	tʃʰiŋ˨˦	【音義】【集註】
 事。	dzriH	ʂʱɨ˨˦	
 所	srjoX	ʂu˥˧	
@@ -2024,9 +1968,7 @@ lim˥˧"	【音義】【集註】
 定	dengH	diŋ˨˦	
 則	tsok	tsəʔ(k)	
 不	pjuw	puʔ(t)	
-跲。	"gjaep/
-kip"	"giɛp˩/
-kiʔ(p)"	【音義】【集註】
+跲。	gjaep/kip	giɛp˩/kiʔ(p)	【音義】【集註】
 事	dzriH	ʂʱɨ˨˦	
 前	dzen	tsʱiɛn˩	
 定	dengH	diŋ˨˦	
@@ -2136,18 +2078,14 @@ kiʔ(p)"	【音義】【集註】
 不	pjuw	puʔ(t)	
 勉	mjenX	miɛn˥˧	
 而	nyi	ɻ˩	
-中。	"trjuwngH/
-trjuwng"	"tʃyuŋ˨˦/
-tʃyuŋ˧"	【音義】【集註】
+中。	trjuwngH/trjuwng	tʃyuŋ˨˦/tʃyuŋ˧	【音義】【集註】
 不	pjuw	puʔ(t)	
 思	si	sɨ	
 而	nyi	ɻ˩	
 得。	tok	təʔ(k)	
 從	tshjowng	tsʰ(y)uŋ	【音義】【集註】
 容	yowng	jyuŋ˩	
-中。	"trjuwngH/
-trjuwng"	"tʃyuŋ˨˦/
-tʃyuŋ˧"	【音義】【集註】
+中。	trjuwngH/trjuwng	tʃyuŋ˨˦/tʃyuŋ˧	【音義】【集註】
 道。	dawX	daw'˨˦	
 聖	syengH	ʃiŋ˨˦	
 人	nyin	ʒin˩	
@@ -2635,15 +2573,11 @@ tʃyuŋ˧"	【音義】【集註】
 廣	kwangX	kwɑŋ˥˧	
 厚。	huwX	ɦəw'˨˦	
 載	tsojH	tsai˨˦	
-華	"hwaeH/
-hwae"	"ɦwa˨˦/
-ɦwa˩"	【音義】【集註】
+華	hwaeH/hwae	ɦwa˨˦/ɦwa˩	【音義】【集註】
 岳	ngaewk	(ŋ)iɒʔ(k)˩	
 而	nyi	ɻ˩	
-不	pjuw	puʔ(t)	
-重。	"drjowngX/
-drjowngH"	"dʒyuŋ'˨˦/
-dʒyuŋ˨˦"	
+不	pjuw(t)	puʔ(t)	
+重。	drjowngX/drjowngH	dʒyuŋ'˨˦/dʒyuŋ˨˦	
 振	tsyinH	tʃin˨˦	
 河	ha	ɦɔ˩	
 海	xojX	hai˥˧	
@@ -2658,9 +2592,7 @@ dʒyuŋ˨˦"
 夫	bju	fʱu˩	【音義】【集註】
 山。	srean	ʂan	
 一	’jit	ʔiʔ(t)	
-卷	"gjwen/
-khjwen/"	"kʱyuɛn˩/
-kʰyuɛn˧"	【音義】【集註】
+卷	gjwen/khjwen/khjwon	kʱyuɛn˩/kʰyuɛn˧	【音義】【集註】
 石	dzyek	ʃʱiʔ(k)˩	
 之	tsyi	tʃɨ	
 多。	ta	tɔ	
@@ -2692,9 +2624,7 @@ kʰyuɛn˧"	【音義】【集註】
 不	pjuw	puʔ(t)	
 測。	tsrhik	ʈʂʰəʔ(k)	
 黿	ngjwon	(ŋ)yuɛn˩	【音義】
-鼉	"da/
-dan"	"tʱɔ˩/
-tʱan˩"	【音義】
+鼉	da/dan	tʱɔ˩/tʱan˩	【音義】
 蛟	kaew	kiaw	【音義】
 龍	ljowng	lyuŋ˩	
 魚	ngjo	ŋy˩	
@@ -2914,9 +2844,7 @@ tʱan˩"	【音義】
 今	kim	kim	
 天	then	tʰiɛn	
 下	haeX	ɦia'˨˦	
-車	"kjo/
-tsyhae"	"ky/
-tʃʰiɛ"	
+車	kjo/tsyhae	ky/tʃʰiɛ	
 同	duwng	tʱuŋ˩	
 軌。	kwijX	kui˥˧	
 書	syo	ʃy	
@@ -2983,9 +2911,7 @@ tʃʰiɛ"
 吾	ngu	(ŋ)u˩	
 從	dzjowng	tsʱyuŋ˩	
 周。	tsyuw	tʃiw	
-王	"hjwangH/
-hjwang"	"wɑŋ˨˦/
-wɑŋ˩"	【音義】【集註】
+王	hjwangH/hjwang	wɑŋ˨˦/wɑŋ˩	【音義】【集註】
 天	then	tʰiɛn	
 下	haeX	ɦia'˨˦	
 有	hjuwX	jiw˥˧	
@@ -3117,19 +3043,15 @@ wɑŋ˩"	【音義】【集註】
 天	then	tʰiɛn	
 下	haeX	ɦia'˨˦	
 則。	tsok	tsəʔ(k)	
-遠	"hjwonX/
-hjwonH"	"jyuɛn˥˧/
-jyuɛn˨˦"	【音義】
+遠	hjwonX/hjwonH	jyuɛn˥˧/jyuɛn˨˦	【音義】
 之	tsyi	tʃɨ	
 則	tsok	tsəʔ(k)	
 有	hjuwX	jiw˥˧	
 望。	mjangH	vɑŋ˨˦	
-近	"gj+nX/
-gj+nH"	"gin'˨˦/
-gin˨˦"	【音義】
+近	gj+nX/gj+nH	gin'˨˦/gin˨˦	【音義】
 之	tsyi	tʃɨ	
 則	tsok	tsəʔ(k)	
-不	pjuw	puʔ(t)	
+不	pjuw(t)	puʔ(t)	
 厭。	’jiemH	ʔiɛm˨˦	【音義】
 詩	syi	ʃɨ	
 曰。	hjwot	jyuɛʔ(t)˩	
@@ -3140,9 +3062,7 @@ gin˨˦"	【音義】
 在	dzojX	dzai'˨˦	
 此	tshjeX	tsʰɨ˥˧	
 無	mju	vu˩	
-射。	"yek/
-tuH"	"jik˩/
-tu˨˦"	【音義】【集註】
+射。	yek/tuH	jik˩/tu˨˦	【音義】【集註】
 庶	syoH	ʃy˨˦	
 幾	kj+j	ki	
 夙	sjuwk	syuʔ(k)	
@@ -3301,9 +3221,7 @@ tu˨˦"	【音義】【集註】
 泉。	dzjwen	tsʱyuɛn˩	
 而	nyi	ɻ˩	
 時	dzyi	ʃʱɨ˩	
-出	"tsyhwit/
-tsyhwijH"	"tʃʰyt/
-ʈʂhui˨˦"	
+出	tsyhwit/tsyhwijH	tʃʰyt/ʈʂhui˨˦	
 之。	tsyi	tʃɨ	
 溥	phuX	pʰu˥˧	
 博	pak	pɒʔ(k)	
@@ -3345,9 +3263,7 @@ tsyhwijH"	"tʃʰyt/
 蠻	maen	man˩	
 貊。	maek	məʔ(k)˩	【音義】
 舟	tsyuw	tʃiw	
-車	"kjo/
-tsyhae"	"ky/
-tʃʰiɛ"	
+車	kjo/tsyhae	ky/tʃʰiɛ	
 所	srjoX	ʂu˥˧	
 至。	tsyijH	tʃɨ˨˦	
 人	nyin	ʒin˩	
@@ -3376,7 +3292,7 @@ tʃʰiɛ"
 氣	khj+jH	kʰi˨˦	
 者。	tsyaeX	tʃiɛ˥˧	
 莫	mak	mɒʔ(k)˩	
-不	pjuw	puʔ(t)	
+不	pjuw(t)	puʔ(t)	
 尊	tswon	tsun	
 親。	tshin	tsʰin	
 故	kuH	ku˨˦	
@@ -3413,9 +3329,7 @@ tʃʰiɛ"
 焉	’jen	ʔiɛn	【音義】【集註】
 有	hjuwX	jiw˥˧	
 所	srjoX	ʂu˥˧	
-倚。	"’jeX/
-’jeH"	"ʔi˥˧/
-ʔi˨˦"	
+倚。	’jeX/’jeH	ʔi˥˧/ʔi˨˦	
 肫	tsywin	tʃyun	【音義】【集註】
 肫	tsywin	tʃyun	【音義】【集註】
 其	gi	kʱi˩	
@@ -3461,9 +3375,7 @@ tʃʰiɛ"
 子	tsiX	tsɨ˥˧	
 之	tsyi	tʃɨ	
 道。	dawX	daw'˨˦	
-闇	"’omX/
-’omH"	"ʔam˥˧/
-ʔam˨˦"	【音義】【集註】
+闇	’omX/’omH	ʔam˥˧/ʔam˨˦	【音義】【集註】
 然	nyen	ʒiɛn˩	
 而	nyi	ɻ˩	
 日	nyit	ʒiʔ(t)˩	【音義】
@@ -3481,9 +3393,7 @@ tʃʰiɛ"
 子	tsiX	tsɨ˥˧	
 之	tsyi	tʃɨ	
 道。	dawX	daw'˨˦	
-淡	"damH/
-damX"	"dam˨˦/
-dam'˨˦"	【音義】
+淡	damH/damX	dam˨˦/dam'˨˦	【音義】
 而	nyi	ɻ˩	
 不	pjuw	puʔ(t)	
 厭。	’jiemH	ʔiɛm˨˦	【音義】
@@ -3519,9 +3429,7 @@ dam'˨˦"	【音義】
 亦	yek	jiʔ(k)˩	
 孔	khuwngX	kʰuŋ˥˧	
 之	tsyi	tʃɨ	
-昭。	"tsyewH/
-tsyew"	"tʃiɛw˨˦/
-tʃiɛw˧"	【音義】
+昭。	tsyewH/tsyew	tʃiɛw˨˦/tʃiɛw˧	【音義】
 故	kuH	ku˨˦	
 君	kjun	kyun	
 子	tsiX	tsɨ˥˧	
@@ -3575,9 +3483,7 @@ tʃiɛw˧"	【音義】
 詩	syi	ʃɨ	
 曰。	hjwot	jyuɛʔ(t)˩	
 奏	tsuwH	tsəw˨˦	【音義】
-假	"kaeX/
-kaeH"	"kia˥˧/
-kia˨˦"	【音義】【集註】
+假	kaeX/kaeH	kia˥˧/kia˨˦	【音義】【集註】
 無	mju	vu˩	
 言。	ngjon	jiɛn˩	
 時	dzyi	ʃʱɨ˩	
@@ -3599,9 +3505,7 @@ kia˨˦"	【音義】【集註】
 民	mjin	min˩	
 威	’jw+j	ʔui	
 於	’jo	ʔy	
-鈇	"pju/
-pjuX"	"fu˧/
-fu˥˧"	【音義】【集註】
+鈇	pju/pjuX	fu˧/fu˥˧	【音義】【集註】
 鉞。	hjwot	jyuɛʔ(t)˩	【音義】
 詩	syi	ʃɨ	
 曰。	hjwot	jyuɛʔ(t)˩	
@@ -3649,9 +3553,7 @@ fu˥˧"	【音義】【集註】
 詩	syi	ʃɨ	
 云。	hjun	jyun˩	
 德	tok	təʔ(k)	
-輶	"yuwX/
-yuw"	"jiw˥˧/
-jiw˩"	【音義】【集註】
+輶	yuwX/yuw	jiw˥˧/jiw˩	【音義】【集註】
 如	nyo	ʒy˩	
 毛。	maw	maw˩	
 毛	maw	maw˩	
@@ -3661,9 +3563,7 @@ jiw˩"	【音義】【集註】
 上	dzyangH	ʃʱiɑŋ˨˦	
 天	then	tʰiɛn	
 之	tsyi	tʃɨ	
-載。	"tsoj/
-tsojH"	"tsai˧/
-tsai˨˦"	【音義】
+載。	tsoj/tsojH	tsai˧/tsai˨˦	【音義】
 無	mju	vu˩	
 聲	syeng	ʃiŋ	
 無	mju	vu˩	
