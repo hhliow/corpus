@@ -1,7 +1,7 @@
 #《論語》中古音及中州音
 # 論語 in Middle Chinese and Classical Mandarin.
 # author: hhliow (github.com/hhliow)
-# version: 20191224
+# version: 20200106
 # license: cc by-nc-sa 4.0
 # Middle Chinese is in Baxter transcription, converted and proof-read by hhliow from the compilation done by biopolyhedron (github.com/biopolyhedron).
 # Mandarin pronunciation is transcribed by hhliow following the system of 洪武正韻譯訓
@@ -92,8 +92,8 @@ ui˩ tʃiŋ˨˦ di˨˦ ɻ˨˦
 · tsɨ˥˧ jyuɛʔ(t)˩. daw˨˦ tʃɨ ji˥˧ tʃiŋ˨˦. tsʱi˩ tʃɨ ji˥˧ ɦiŋ˩. min˩ miɛn˥˧ ɻ˩ vu˩ tʃʰi˥˧. daw˨˦ tʃɨ ji˥˧ təʔ(k). tsʱi˩ tʃɨ ji˥˧ li˥˧. jiow˥˧ tʃʰi˥˧ tsʰiɛ˥˧ kəʔ(k).
 
 〇子曰。吾十有五而志于學。三十而立。四十而不惑。五十而知天命。六十而耳順。七十而從心所欲。不踰矩。
-· tsiX hjwot. ngu dzyip hjuwH nguX nyi tsyiH hju haewk. sam dzyip nyi lip. sijH dzyip nyi pjuw hwok. nguX dzyip nyi trje then mjaengH. ljuwk dzyip nyi nyiX zywinH. tshit dzyip nyi dzjowng sim srjoX yowk. pjuw yu kjuX.
-· tsɨ˥˧ jyuɛʔ(t)˩. ŋu˩ ʃʱiʔ(p)˩ jiow˨˦ ŋu˥˧ ɻ˩ tʃɨ˨˦ jy˩ ɦiɒʔ(k)˩. sam ʃʱiʔ(p)˩ ɻ˩ liʔ(p)˩. sɨ˨˦ ʃʱiʔ(p)˩ ɻ˩ puʔ(t) ɦwəʔ(k)˩. ŋu˥˧ ʃʱiʔ(p)˩ ɻ˩ tʃi tʰiɛn miŋ˨˦. luʔ(k)˩ ʃʱiʔ(p)˩ ɻ˩ ɻ˥˧ ʃʱyun˨˦. tsʰiʔ(t) ʃʱiʔ(p)˩ ɻ˩ tsʱyuŋ˩ sim ʂu˥˧ jyuʔ(k)˩. puʔ(t) jy˩ ky˥˧.
+· tsiX hjwot. ngu dzyip hjuwX/H nguX nyi tsyiH hju haewk. sam dzyip nyi lip. sijH dzyip nyi pjuw hwok. nguX dzyip nyi trje then mjaengH. ljuwk dzyip nyi nyiX zywinH. tshit dzyip nyi dzjowng sim srjoX yowk. pjuw yu kjuX.
+· tsɨ˥˧ jyuɛʔ(t)˩. ŋu˩ ʃʱiʔ(p)˩ jiow˥˧/˨˦ ŋu˥˧ ɻ˩ tʃɨ˨˦ jy˩ ɦiɒʔ(k)˩. sam ʃʱiʔ(p)˩ ɻ˩ liʔ(p)˩. sɨ˨˦ ʃʱiʔ(p)˩ ɻ˩ puʔ(t) ɦwəʔ(k)˩. ŋu˥˧ ʃʱiʔ(p)˩ ɻ˩ tʃi tʰiɛn miŋ˨˦. luʔ(k)˩ ʃʱiʔ(p)˩ ɻ˩ ɻ˥˧ ʃʱyun˨˦. tsʰiʔ(t) ʃʱiʔ(p)˩ ɻ˩ tsʱyuŋ˩ sim ʂu˥˧ jyuʔ(k)˩. puʔ(t) jy˩ ky˥˧.
 
 〇孟懿子問孝。子曰。無違。樊遲御。子告之曰。孟孫問孝於我。我對曰無違。樊遲曰。何謂也。子曰。生事之以禮。死葬之以禮。祭之以禮。
 · maengH ’ijH tsiX mjunH xaewH. tsiX hjwot. mju hjw+j. bjon drij ngjoH. tsiX kawH tsyi hjwot. maengH swon mjunH xaewH ’jo ngaX. ngaX twojH hjwot mju hjw+j. bjon drij hjwot. ha hjw+jH yaeX. tsiX hjwot. srjaeng dzriH tsyi yiX lejX. sijX tsangH tsyi yiX lejX. tsjejH tsyi yiX lejX.
