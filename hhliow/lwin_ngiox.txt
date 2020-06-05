@@ -1,7 +1,7 @@
 #《論語》中古音及中州音
 # 論語 in Middle Chinese and Classical Mandarin.
 # author: hhliow (github.com/hhliow)
-# version: 20200317
+# version: 20200604
 # license: cc by-nc-sa 4.0
 # Middle Chinese is in Baxter transcription, converted and proof-read by hhliow from the compilation done by biopolyhedron (github.com/biopolyhedron).
 # Mandarin pronunciation is transcribed by hhliow following the system of 洪武正韻譯訓
@@ -57,7 +57,7 @@ haewk nyi dejH ’jit
 
 〇有子曰。禮之用。和爲貴。先王之道。斯爲美。小大由之。有所不行。知和而和。不以禮節之。亦不可行也。
 · hjuwX tsiX hjwot. lejX tsyi yowngH. hwa hjwe kjw+jH. sen hjwang tsyi dawX. sje hjwe mijX. sjewX dajH yuw tsyi. hjuwX srjoX pjuw haeng. trje hwa nyi hwa. pjuw yiX lejX tset tsyi. yek pjuw khaX haeng yaeX.
-· jiow˥˧ tsɨ˥˧ jyuɛʔ(t)˩. li˥˧ tʃɨ jyuŋ˨˦. ɦwɔ˩ ui˩ kui˨˦. siɛn wɑŋ˩ tʃɨ daw’˨˦. sɨ ui˩ mui˥˧. siɛw˥˧ dai˨˦ jiow˩ tʃɨ. jiow˥˧ ʂu˥˧ puʔ(t) ɦiŋ˩. tʃɨ ɦwɔ˩ ɻ˩ ɦwɔ˩. puʔ(t) ji˥˧ li˥˧ tsiɛʔ(t) tʃɨ. jiʔ(k)˩ puʔ(t) kʰɔ˥˧ ɦiŋ˩ jiɛ˥˧.
+· jiow˥˧ tsɨ˥˧ jyuɛʔ(t)˩. li˥˧ tʃɨ jyuŋ˨˦. ɦwɔ˩ ui˩ kui˨˦. siɛn wɑŋ˩ tʃɨ daw’˨˦. sɨ ui˩ mui˥˧. siɛw˥˧ dai˨˦ jiow˩ tʃɨ. jiow˥˧ ʂu˥˧ puʔ(t) ɦiŋ˩. tʃi ɦwɔ˩ ɻ˩ ɦwɔ˩. puʔ(t) ji˥˧ li˥˧ tsiɛʔ(t) tʃɨ. jiʔ(k)˩ puʔ(t) kʰɔ˥˧ ɦiŋ˩ jiɛ˥˧.
 
 〇有子曰。信近於義。言可復也。恭近於禮。遠恥辱也。因不失其親。亦可宗也。
 · hjuwX tsiX hjwot. sinH gj+nH ’jo ngjeH. ngjon khaX phjuwk yaeX. kjowng gj+nH ’jo lejX. hjwonH trhiX nyowk yaeX. ’jin pjuw syit gi tshin. yek khaX tsowng yaeX.
@@ -69,11 +69,11 @@ haewk nyi dejH ’jit
 
 〇子貢曰。貧而無諂。富而無驕。何如。子曰。可也。未若貧而樂。富而好禮者也。子貢曰。詩云。如切如磋。如琢如磨。其斯之謂與。子曰。賜也始可與言詩已矣。告諸往而知來者。
 · tsiX kuwngH hjwot. bin nyi mju trhjemX. pjuwH nyi mju kjew. ha nyo. tsiX hjwot. khaX yaeX. mj+jH nyak bin nyi lak. pjuwH nyi xawH lejX tsyaeX yaeX. tsiX kuwngH hjwot. syi hjun. nyo tshet nyo tsha. nyo traewk nyo ma. gi sje tsyi hjw+jH yo. tsiX hjwot. sjeH yaeX syiX khaX yoX ngjon syi yiX hiX. kawH tsyo hjwangX nyi trie loj tsyaeX.
-· tsɨ˥˧ kuŋ˨˦ jyuɛʔ(t)˩. pʱin˩ ɻ˩ vu˩ tʃʰiɛm˥˧. fow˨˦ ɻ˩ vu˩ kiɛw. ɦɔ˩ ʒy˩. tsɨ˥˧ jyuɛʔ(t)˩. kʰɔ˥˧ jiɛ˥˧. vi˨˦ ʒiɒʔ(k)˩ pʱin˩ ɻ˩ lɒʔ(k)˩. fow˨˦ ɻ˩ haw˨˦ li˥˧ tʃiɛ˥˧ jiɛ˥˧. tsɨ˥˧ kuŋ˨˦ jyuɛʔ(t)˩. ʃɨ jyun˩. ʒy˩ tsʰiɛʔ(t) ʒy˩ tsʰɔ. ʒy˩ ʈʂɒʔ(k) ʒy˩ mwɔ˩. kʱi˩ sɨ tʃɨ ui˨˦ jy˩. tsɨ˥˧ jyuɛʔ(t)˩. sɨ˨˦ jiɛ˥˧ ʃɨ˥˧ kʰɔ˥˧ jy˥˧ jiɛn˩ ʃɨ ji˥˧ ji˥˧. kaw˨˦ tʃy wɑŋ˥˧ ɻ˩ tʃɨ lai˩ tʃiɛ˥˧.
+· tsɨ˥˧ kuŋ˨˦ jyuɛʔ(t)˩. pʱin˩ ɻ˩ vu˩ tʃʰiɛm˥˧. fow˨˦ ɻ˩ vu˩ kiɛw. ɦɔ˩ ʒy˩. tsɨ˥˧ jyuɛʔ(t)˩. kʰɔ˥˧ jiɛ˥˧. vi˨˦ ʒiɒʔ(k)˩ pʱin˩ ɻ˩ lɒʔ(k)˩. fow˨˦ ɻ˩ haw˨˦ li˥˧ tʃiɛ˥˧ jiɛ˥˧. tsɨ˥˧ kuŋ˨˦ jyuɛʔ(t)˩. ʃɨ jyun˩. ʒy˩ tsʰiɛʔ(t) ʒy˩ tsʰɔ. ʒy˩ ʈʂɒʔ(k) ʒy˩ mwɔ˩. kʱi˩ sɨ tʃɨ ui˨˦ jy˩. tsɨ˥˧ jyuɛʔ(t)˩. sɨ˨˦ jiɛ˥˧ ʃɨ˥˧ kʰɔ˥˧ jy˥˧ jiɛn˩ ʃɨ ji˥˧ ji˥˧. kaw˨˦ tʃy wɑŋ˥˧ ɻ˩ tʃi lai˩ tʃiɛ˥˧.
 
 〇子曰。不患人之不己知。患不知人也。
 · tsiX hjwot. pjuw hwaenH nyin tsyi pjuw kiX trje. hwaenH pjuw trje nyin yaeX.
-· tsɨ˥˧ jyuɛʔ(t)˩. puʔ(t) ɦwan˨˦ ʒin˩ tʃɨ puʔ(t) ki˥˧ tʃɨ. ɦwan˨˦ puʔ(t) tʃɨ ʒin˩ jiɛ˥˧.
+· tsɨ˥˧ jyuɛʔ(t)˩. puʔ(t) ɦwan˨˦ ʒin˩ tʃɨ puʔ(t) ki˥˧ tʃi. ɦwan˨˦ puʔ(t) tʃi ʒin˩ jiɛ˥˧.
 
 爲政第二
 hjwe tsyengH dejH nyijH
@@ -121,7 +121,7 @@ ui˩ tʃiŋ˨˦ di˨˦ ɻ˨˦
 
 〇子曰。溫故而知新。可以爲師矣。
 · tsiX hjwot. ’won kuH nyi trje sin. khaX yiX hjwe srij hiX.
-· tsɨ˥˧ jyuɛʔ(t)˩. ʔun ku˨˦ ɻ˩ tʃɨ sin. kʰɔ˥˧ ji˥˧ ui˩ ʂɨ ji˥˧.
+· tsɨ˥˧ jyuɛʔ(t)˩. ʔun ku˨˦ ɻ˩ tʃi sin. kʰɔ˥˧ ji˥˧ ui˩ ʂɨ ji˥˧.
 
 〇子曰。君子不器。
 · tsiX hjwot. kjun tsiX pjuw khijH.
