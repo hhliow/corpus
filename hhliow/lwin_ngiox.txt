@@ -6,6 +6,7 @@
 # Middle Chinese is in Baxter transcription, converted and proof-read by hhliow from the compilation done by biopolyhedron (github.com/biopolyhedron).
 # Mandarin pronunciation is transcribed by hhliow following the system of 洪武正韻譯訓
 # Work in progress.
+
 學而第一
 haewk nyi dejH ’jit
 ɦiɒʔ(k)˩ ɻ˩ di˨˦ ʔiʔ(t)
