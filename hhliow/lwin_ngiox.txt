@@ -1,7 +1,7 @@
 #《論語》中古音及中州音
 # 論語 in Middle Chinese and Classical Mandarin.
 # author: hhliow (github.com/hhliow)
-# version: 20200712
+# version: 20200714
 # license: cc by-nc-sa 4.0
 # Middle Chinese is in Baxter transcription, converted and proof-read by hhliow from the compilation done by biopolyhedron (github.com/biopolyhedron).
 # Mandarin pronunciation is transcribed by hhliow following the system of 洪武正韻譯訓
@@ -1495,7 +1495,7 @@ siɛn tsin˨˦ di˨˦ ʃʱiʔ(p)˩ ʔiʔ(t)
 顏淵第十二
 ngaen ’wen dejH dzyip nyijH
 (ŋ)ian˩ ʔyuɛn di˨˦ ʃʱiʔ(p)˩ ɻ˨˦
-(ㄫ)ㄧㄚㄣˆ　阝ㄩㄢ　ㄉ'ㄧ꜅　ㄕ'ㄧ꜇ㆴ　ㄦ꜅
+꜁(ㄫ)ㄧㄚㄣ　阝ㄩㄢ　ㄉ'ㄧ꜅　ㄕ'ㄧ꜇ㆴ　ㄦ꜅
 
 〇顏淵問仁。子曰。克己復禮爲仁。一日克己復禮。天下歸仁焉。爲仁由己。而由人乎哉。顏淵曰。請問其目。子曰。非禮勿視。非禮勿聽。非禮勿言。非禮勿動。顏淵曰。回雖不敏。請事斯語矣。
 · ngaen ’wen mjunH nyin. tsiX hjwot. khok kiX bjuwk lejX hjwe nyin. ’jit nyit khok kiX bjuwk lejX. then haeX kjw+j nyin hjen. hjwe nyin yuw kiX. nyi yuw nyin hu tsoj. ngaen ’wen hjwot. tshjengX mjunH gi mjuwk. tsiX hjwot. pj+j lejX mjut dzyijX. pj+j lejX mjut theng(H). pj+j lejX mjut ngjon. pj+j lejX mjut duwngX. ngaen ’wen hjwot. hwoj swij pjuw minX. tshjengX dzriH sje ngjoX hiX.
@@ -1615,7 +1615,7 @@ ngaen ’wen dejH dzyip nyijH
 〇曾子曰。君子以文會友。以友輔仁。
 · tsong tsiX hjwot. kjun tsiX yiX mjun hwajH hjuwX. yiX hjuwX bjuX nyin.
 · tsəŋ tsɨ˥˧ jyuɛʔ(t)˩. kyun tsɨ˥˧ ji˥˧ vun˩ ɦui˨˦ jiow˥˧. ji˥˧ jiow˥˧ fʱu'˨˦ ʒin˩.
-·　ㄗㄥ　꜂ㄗ　ㄩㄝ꜇ㆵ。　ㄐㄩㄣ　꜂ㄗ　꜂ㄧ　꜁ㄪㄨㄣ　ㄏ'ㄨㄟ꜅　꜂ㄧㄡ。　꜂ㄧ　꜂ㄧㄡ　ㄈ'ㄨ'꜅　꜁ㄖㄧㄣ。
+·　ㄗㄥ　꜂ㄗ　ㄩㄝ꜇ㆵ。　ㄐㄩㄣ　꜂ㄗ　꜂ㄧ　꜁ㄪㄨㄣ　ㄏ'ㄨㄟ꜅　꜂ㄧㄡ。　꜂ㄧ　꜂ㄧㄡ　ㄈ'ㄨ꜃꜅　꜁ㄖㄧㄣ。
 
 子路第十三
 tsiX luH dejH dzyip sam
