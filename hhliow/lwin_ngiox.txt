@@ -1,7 +1,7 @@
 #《論語》中古音及中州音
 # 論語 in Middle Chinese and Classical Mandarin.
 # author: hhliow (github.com/hhliow)
-# version: 20200714
+# version: 20200716
 # license: cc by-nc-sa 4.0
 # Middle Chinese is in Baxter transcription, converted and proof-read by hhliow from the compilation done by biopolyhedron (github.com/biopolyhedron).
 # Mandarin pronunciation is transcribed by hhliow following the system of 洪武正韻譯訓
@@ -1015,7 +1015,7 @@ tʰai˨˦ pəʔ(k) di˨˦ paʔ(t)
 〇曾子曰。可以託六尺之孤。可以寄百里之命。臨大節而不可奪也。君子人與。君子人也。
 · tsong tsiX hjwot. khaX yiX thak ljuwk tsyhek tsyi ku. khaX yiX kjeH paek liX tsyi mjaengH. lim dajH tset nyi pjuw khaX dwat yaeX. kjun tsiX nyin yo. kjun tsiX nyin yaeX.
 · tsəŋ tsɨ˥˧ jyuɛʔ(t)˩. kʰɔ˥˧ ji˥˧ tʰɒʔ(k) luʔ(k)˩ tʃʰiʔ(k) tʃɨ ku. kʰɔ˥˧ ji˥˧ ki˨˦ pəʔ(k) li˥˧ tʃɨ miŋ˨˦. lim˩ dai˨˦ tsiɛʔ(t) ɻ˩ puʔ(t) kʰɔ˥˧ dwɔʔ(t)˩ jiɛ˥˧. kyun tsɨ˥˧ ʒin˩ jy˩. kyun tsɨ˥˧ ʒin˩ jiɛ˥˧.
-·　ㄗㄥ　꜂ㄗ　ㄩㄝ꜇ㆵ。　꜂ㄎㄛ　꜂ㄧ　ㄊㆦㆶ　ㄌㄨ꜇ㆶ　ㄔㄧㆶ　ㄓ　ㄍㄨ。　꜂ㄎㄛ　꜂ㄧ　ㄐㄧ꜄　ㄅㄜㆶ　꜂ㄌㄧ　ㄓ　ㄇㄧㄥ꜅。　꜁ㄌㄧㆬ　ㄉ'ㄞ꜅　ㄗㄧㄝㆵ　꜁ㄦ　ㄅㄨ꜆　꜂ㄎㄛ　ㄉ'ㄨㄛ꜇ㄉ　꜂ㄧㄝ。　ㄐㄩㄣ　꜂ㄗ　꜁ㄖㄧㄣ　꜁ㄩ。　ㄐㄩㄣ　꜂ㄗ　꜁ㄖㄧㄣ　꜂ㄧㄝ。
+·　ㄗㄥ　꜂ㄗ　ㄩㄝ꜇ㆵ。　꜂ㄎㄛ　꜂ㄧ　ㄊㆦㆶ　ㄌㄨ꜇ㆶ　ㄔㄧㆶ　ㄓ　ㄍㄨ。　꜂ㄎㄛ　꜂ㄧ　ㄐㄧ꜄　ㄅㄜㆶ　꜂ㄌㄧ　ㄓ　ㄇㄧㄥ꜅。　꜁ㄌㄧㆬ　ㄉ'ㄞ꜅　ㄗㄧㄝㆵ　꜁ㄦ　ㄅㄨ꜆　꜂ㄎㄛ　ㄉ'ㄨㄛ꜇ㆵ　꜂ㄧㄝ。　ㄐㄩㄣ　꜂ㄗ　꜁ㄖㄧㄣ　꜁ㄩ。　ㄐㄩㄣ　꜂ㄗ　꜁ㄖㄧㄣ　꜂ㄧㄝ。
 
 〇曾子曰。士不可以不弘毅。任重而道遠。仁以爲己任。不亦重乎。死而後已。不亦遠乎。
 · tsong tsiX hjwot. dzriX pjuw khaX yiX pjuw hwong ngj+jH. nyimH drjowngX nyi dawX hjwonX. nyin yiX hjwe kiX nyimH. pjuw yek drjowngX hu. sijX nyi huwX yiX. pjuw yek hjwonX hu.
@@ -1150,7 +1150,7 @@ tsɨ˥˧ hɑn˥˧ di˨˦ kiow˥˧
 〇顏淵喟然歎曰。仰之彌高。鑽之彌堅。瞻之在前。忽焉在後。夫子循循然善誘人。博我以文。約我以禮。欲罷不能。旣竭吾才。如有所立。卓爾。雖欲從之。末由也已。
 · ngaen ’wen khwijH nyen thanH hjwot. ngjangX tsyi mjie kaw. tswan tsyi mjie ken. tsyem tsyi dzojX dzen. xwot hjen dzojX huwX. pju tsiX zwin zwin nyen dzyenX yuwX nyin. pak ngaX yiX mjun. ’jak ngaX yiX lejX. yowk beaX pjuw nong. kj+jH gjot ngu dzoj. nyo hjuwX srjoX lip. traewk nyeX. swij yowk dzjowng tsyi. mat yuw yaeX yiX.
 · (ŋ)ian˩ ʔyuɛn kʰui˨˦ ʒiɛn˩ tʰan˨˦ jyuɛʔ(t)˩. ŋiɑŋ˥˧ tʃɨ mi˩ kaw. tswɔn tʃɨ mi˩ kiɛn. tʃiɛm tʃɨ dzai’˨˦ tsʱiɛn˩. huʔ(t) jiɛn˩ dzai’˨˦ ɦow’˨˦. fu tsɨ˥˧ sʱyun˩ sʱyun˩ ʒiɛn˩ ʃʱiɛn’˨˦ jiow˥˧ ʒin˩. pɒʔ(k) ŋɔ˥˧ ji˥˧ vun˩. ʔiɒʔ(k) ŋɔ˥˧ ji˥˧ li˥˧. jyuʔ(k)˩ ba˨˦ puʔ(t) nəŋ˩. ki˨˦ giɛʔ(t)˩ ŋu˩ tsʱai˩. ʒy˩ jiow˥˧ ʂu˥˧ liʔ(p)˩. ʈʂwɒʔ(k) ɻ˥˧. sui jyuʔ(k)˩ tsʱyuŋ˩ tʃɨ. mwɔʔ(t)˩ jiow˩ jiɛ˥˧ ji˥˧.
-·　꜁(ㄫ)ㄧㄚㄣ　阝ㄩㄢ　ㄎㄨㄟ꜄　꜁ㄖㄧㄢ　ㄊㄢ꜄　ㄩㄝ꜇ㆵ。　꜂ㄫㄧㄤ　ㄓ　꜁ㄇㄧ　ㄍㄠ。　ㄗㄨㄛㄣ　ㄓ　꜁ㄇㄧ　ㄐㄧㄝㄣ。　ㄓㄧㄝㆬ　ㄓ　ㆡㄞ꜃꜅　꜁ㄘ'ㄧㄢ。　ㄏㄨㆵ　꜁ㄧㄝㄣ　ㆡㄞ꜃꜅　ㄏ'ㄡ꜃꜅。　ㄈㄨ　꜂ㄗ　꜁ㄙ'ㄩㄣ　꜁ㄙ'ㄩㄣ　꜁ㄖㄧㄢ　ㄕ'ㄧㄢ꜃꜅　꜂ㄧㄡ　꜁ㄖㄧㄣ。　ㄅㆦㆶ　꜂ㄫㄛ　꜂ㄧ　꜁ㄪㄨㄣ。　阝ㄧㆦㆶ　꜂ㄫㄛ　꜂ㄧ　꜂ㄌㄧ。　ㄩㄨ꜇ㆶ　ㆠㄚ꜅　ㄅㄨ꜆　꜁ㄋㄥ。　ㄐㄧ꜄　ㆢㄧㄝ꜇ㆵ　꜁ㄫㄨ　꜁ㄘ'ㄞ。　꜁ㄖㄩ　꜂ㄧㄡ　꜂ㄕㄨ　ㄌㄧ꜇ㆴ。　ㄓㄨㆦㆶ　꜂ㄦ。　ㄙㄨㄟ　ㄩㄨ꜇ㆶ　꜁ㄘ'ㄩㄨㆭ　ㄓ。　ㄇㄨㄛ꜇ㄉ　꜁ㄧㄡ　꜂ㄧㄝ　꜂ㄧ。
+·　꜁(ㄫ)ㄧㄚㄣ　阝ㄩㄢ　ㄎㄨㄟ꜄　꜁ㄖㄧㄢ　ㄊㄢ꜄　ㄩㄝ꜇ㆵ。　꜂ㄫㄧㄤ　ㄓ　꜁ㄇㄧ　ㄍㄠ。　ㄗㄨㄛㄣ　ㄓ　꜁ㄇㄧ　ㄐㄧㄝㄣ。　ㄓㄧㄝㆬ　ㄓ　ㆡㄞ꜃꜅　꜁ㄘ'ㄧㄢ。　ㄏㄨㆵ　꜁ㄧㄝㄣ　ㆡㄞ꜃꜅　ㄏ'ㄡ꜃꜅。　ㄈㄨ　꜂ㄗ　꜁ㄙ'ㄩㄣ　꜁ㄙ'ㄩㄣ　꜁ㄖㄧㄢ　ㄕ'ㄧㄢ꜃꜅　꜂ㄧㄡ　꜁ㄖㄧㄣ。　ㄅㆦㆶ　꜂ㄫㄛ　꜂ㄧ　꜁ㄪㄨㄣ。　阝ㄧㆦㆶ　꜂ㄫㄛ　꜂ㄧ　꜂ㄌㄧ。　ㄩㄨ꜇ㆶ　ㆠㄚ꜅　ㄅㄨ꜆　꜁ㄋㄥ。　ㄐㄧ꜄　ㆢㄧㄝ꜇ㆵ　꜁ㄫㄨ　꜁ㄘ'ㄞ。　꜁ㄖㄩ　꜂ㄧㄡ　꜂ㄕㄨ　ㄌㄧ꜇ㆴ。　ㄓㄨㆦㆶ　꜂ㄦ。　ㄙㄨㄟ　ㄩㄨ꜇ㆶ　꜁ㄘ'ㄩㄨㆭ　ㄓ。　ㄇㄨㄛ꜇ㆵ　꜁ㄧㄡ　꜂ㄧㄝ　꜂ㄧ。
 
 〇子疾病。子路使門人爲臣。病閒。曰。久矣哉。由之行詐也。無臣而爲有臣。吾誰欺。欺天乎。且予與其死於臣之手也。無寧死於二三子之手乎。且予縱不得大葬。予死於道路乎。
 · tsiX dzit bjaengH. tsiX luH sriX mwon nyin hjwe dzyin. bjaengH keanH. hjwot. kjuwX hiX tsoj. yuw tsyi haeng tsraeH yaeX. mju dzyin nyi hjwe hjuwX dzyin. ngu dzywij khi. khi then hu. tshjaeX yo yoX gi sijX ’jo dzyin tsyi syuwX yaeX. mju neng sijX ’jo nyijH sam tsiX tsyi syuwX hu. tshjaeX yo tsjowngH pjuw tok dajH tsangH. yo sijX ’jo dawX luH hu.
@@ -1215,7 +1215,7 @@ tsɨ˥˧ hɑn˥˧ di˨˦ kiow˥˧
 〇子曰。法語之言。能無從乎。改之爲貴。巽與之言。能無說乎。繹之爲貴。說而不繹。從而不改。吾末如之何也已矣。
 · tsiX hjwot. pjop ngjoH tsyi ngjon. nong mju dzjowng hu. kojX tsyi hjwe kjw+jH. swonH yoX tsyi ngjon. nong mju ywet hu. yek tsyi hjwe kjw+jH. ywet nyi pjuw yek. dzjowng nyi pjuw kojX. ngu mat nyo tsyi ha yaeX yiX hiX.
 · tsɨ˥˧ jyuɛʔ(t)˩. faʔ(p) ŋy˨˦ tʃɨ jiɛn˩. nəŋ˩ vu˩ tsʱyuŋ˩ ɦu˩. kai˥˧ tʃɨ ui˩ kui˨˦. sun˨˦ jy˥˧ tʃɨ jiɛn˩. nəŋ˩ vu˩ jyuɛʔ(t)˩ ɦu˩. jiʔ(k)˩ tʃɨ ui˩ kui˨˦. jyuɛʔ(t)˩ ɻ˩ puʔ(t) jiʔ(k)˩. tsʱyuŋ˩ ɻ˩ puʔ(t) kai˥˧. ŋu˩ mwɔʔ(t)˩ ʒy˩ tʃɨ ɦɔ˩ jiɛ˥˧ ji˥˧ ji˥˧.
-·　꜂ㄗ　ㄩㄝ꜇ㆵ。　ㄈㄚㆴ　ㄫㄩ꜅　ㄓ　꜁ㄧㄝㄣ。　꜁ㄋㄥ　꜁ㄪㄨ　꜁ㄘ'ㄩㄨㆭ　꜁ㄏ'ㄨ。　꜂ㄍㄞ　ㄓ　꜁ㄨㄟ　ㄍㄨㄟ꜄。　ㄙㄨㄣ꜄　꜂ㄩ　ㄓ　꜁ㄧㄝㄣ。　꜁ㄋㄥ　꜁ㄪㄨ　ㄩㄝ꜇ㆵ　꜁ㄏ'ㄨ。　ㄧ꜇ㆶ　ㄓ　꜁ㄨㄟ　ㄍㄨㄟ꜄。　ㄩㄝ꜇ㆵ　꜁ㄦ　ㄅㄨ꜆　ㄧ꜇ㆶ。　꜁ㄘ'ㄩㄨㆭ　꜁ㄦ　ㄅㄨ꜆　꜂ㄍㄞ。　꜁ㄫㄨ　ㄇㄨㄛ꜇ㄉ　꜁ㄖㄩ　ㄓ　꜁ㄏ'ㄛ　꜂ㄧㄝ　꜂ㄧ　꜂ㄧ。
+·　꜂ㄗ　ㄩㄝ꜇ㆵ。　ㄈㄚㆴ　ㄫㄩ꜅　ㄓ　꜁ㄧㄝㄣ。　꜁ㄋㄥ　꜁ㄪㄨ　꜁ㄘ'ㄩㄨㆭ　꜁ㄏ'ㄨ。　꜂ㄍㄞ　ㄓ　꜁ㄨㄟ　ㄍㄨㄟ꜄。　ㄙㄨㄣ꜄　꜂ㄩ　ㄓ　꜁ㄧㄝㄣ。　꜁ㄋㄥ　꜁ㄪㄨ　ㄩㄝ꜇ㆵ　꜁ㄏ'ㄨ。　ㄧ꜇ㆶ　ㄓ　꜁ㄨㄟ　ㄍㄨㄟ꜄。　ㄩㄝ꜇ㆵ　꜁ㄦ　ㄅㄨ꜆　ㄧ꜇ㆶ。　꜁ㄘ'ㄩㄨㆭ　꜁ㄦ　ㄅㄨ꜆　꜂ㄍㄞ。　꜁ㄫㄨ　ㄇㄨㄛ꜇ㆵ　꜁ㄖㄩ　ㄓ　꜁ㄏ'ㄛ　꜂ㄧㄝ　꜂ㄧ　꜂ㄧ。
 
 〇子曰。主忠信。毋友不如己者。過則勿憚改。
 · tsiX hjwot. tsyuX trjuwng sinH. mju hjuwX pjuw nyo kiX tsyaeX. kwaH tsok mjut danH kojX.
@@ -1225,7 +1225,7 @@ tsɨ˥˧ hɑn˥˧ di˨˦ kiow˥˧
 〇子曰。三軍可奪帥也。匹夫不可奪志也。
 · tsiX hjwot. sam kjun khaX dwat srwijH yaeX. phjit pju pjuw khaX dwat tsyiH yaeX.
 · tsɨ˥˧ jyuɛʔ(t)˩. sam kyun kʰɔ˥˧ dwɔʔ(t)˩ ʂui˨˦/ʂwai˨˦ jiɛ˥˧. pʰiʔ(t) fu puʔ(t) kʰɔ˥˧ dwɔʔ(t)˩ tʃɨ˨˦ jiɛ˥˧.
-·　꜂ㄗ　ㄩㄝ꜇ㆵ。　ㄙㆰ　ㄐㄩㄣ　꜂ㄎㄛ　ㄉ'ㄨㄛ꜇ㄉ　ㄕㄨㄟ꜄・ㄕㄨㄞ꜄　꜂ㄧㄝ。　ㄆㄧㆵ　ㄈㄨ　ㄅㄨ꜆　꜂ㄎㄛ　ㄉ'ㄨㄛ꜇ㄉ　ㄓ꜄　꜂ㄧㄝ。
+·　꜂ㄗ　ㄩㄝ꜇ㆵ。　ㄙㆰ　ㄐㄩㄣ　꜂ㄎㄛ　ㄉ'ㄨㄛ꜇ㆵ　ㄕㄨㄟ꜄・ㄕㄨㄞ꜄　꜂ㄧㄝ。　ㄆㄧㆵ　ㄈㄨ　ㄅㄨ꜆　꜂ㄎㄛ　ㄉ'ㄨㄛ꜇ㆵ　ㄓ꜄　꜂ㄧㄝ。
 
 〇子曰。衣敝縕袍。與衣狐貉者立。而不恥者。其由也與。不忮不求。何用不臧。子路終身誦之。子曰。是道也。何足以臧。
 · tsiX hjwot. ’j+jH bjiejH ’junX baw. yoX ’j+jH hu hak tsyaeX lip. nyi pjuw trhiX tsyaeX. gi yuw yaeX yo. pjuw tsyeH pjuw gjuw. ha yowngH pjuw tsang. tsiX luH tsyuwng syin zjowngH tsyi. tsiX hjwot. dzyeX dawX yaeX. ha tsjowk yiX tsang.
@@ -1285,7 +1285,7 @@ hiɑŋ tɑŋ˥˧ di˨˦ ʃʱiʔ(p)˩
 〇齊、必有明衣、布。齊必變食。居必遷坐。食不厭精。膾不厭細。食饐而餲。魚餒。而肉敗不食。色惡不食。臭惡不食。失飪不食。不時不食。割不正不食。不得其醬不食。肉雖多。不使勝食氣。唯酒無量。不及亂。沽酒市脯不食。不撤薑食。不多食。祭於公。不宿肉。祭肉、不出三日。出三日。不食之矣。食不語。寢不言。雖疏食菜羹瓜。祭。必齊如也。
 · tsreaj, pjit hjuwX mjaeng ’j+j, puH. tsreaj pjit pjenH zyik. kjo pjit tshjen dzwaX. ziH pjuw ’jiemH tsjeng. kwajH pjuw ’jiemH sejH. ziH ’ijH nyi ’aejH. ngjo nwojX. nyi nyuwk baejH pjuw zyik. srik ’ak pjuw zyik. tsyhuwH ’ak pjuw zyik. syit nyimX pjuw zyik. pjuw dzyi pjuw zyik. kat pjuw tsyengH pjuw zyik. pjuw tok gi tsjangH pjuw zyik. nyuwk swij ta. pjuw sriX syingH ziH (k)hj+jH. ywij tsjuwX mju ljangH. pjuw gip lwanH. ku tsjuwX dzyiX pjuX pjuw zyik. pjuw trhjet kjang zyik. pjuw ta zyik. tsjejH ’jo kuwng. pjuw sjuwk nyuwk. tsjejH nyuwk, pjuw tsyhwit sam nyit. tsyhwit sam nyit. pjuw zyik tsyi hiX. zyik pjuw ngjoX. tshimX pjuw ngjon. swij srjo ziH tshojH kaeng kwae. tsjejH. pjit dzej nyo yaeX.
 · ʈʂai, piʔ(t) jiow˥˧ miŋ˩ ʔi, pu˨˦. ʈʂai piʔ(t) piɛn˨˦ ʃʱiʔ(k)˩. ky piʔ(t) tsʰiɛn dzwɔ’˨˦. sʱɨ˨˦ puʔ(t) ʔiɛm˨˦ tsiŋ. kui˨˦ puʔ(t) ʔiɛm˨˦ si˨˦. sʱɨ˨˦ ʔi˨˦ ɻ˩ ʔ(i)ai˨˦. ŋy˩ nui˥˧. ɻ˩ ʒyuʔ(k)˩ bai˨˦ puʔ(t) ʃʱiʔ(k)˩. ʂəʔ(k) ʔɒʔ(k) puʔ(t) ʃʱiʔ(k)˩. tʃʰiow˨˦ ʔɒʔ(k) puʔ(t) ʃʱiʔ(k)˩. ʃiʔ(t) ʒim˥˧ puʔ(t) ʃʱiʔ(k)˩. puʔ(t) ʃʱɨ˩ puʔ(t) ʃʱiʔ(k)˩. kɔʔ(t) puʔ(t) tʃiŋ˨˦ puʔ(t) ʃʱiʔ(k)˩. puʔ(t) təʔ(k) kʱi˩ tsiɑŋ˨˦ puʔ(t) ʃʱiʔ(k)˩. ʒyuʔ(k)˩ sui tɔ. puʔ(t) ʂɨ˥˧ ʃiŋ˨˦ sʱɨ˨˦ (k)hi˨˦. vi˩ tsiow˥˧ vu˩ liɑŋ˨˦. puʔ(t) giʔ(p)˩ lwɔn˨˦. ku tsiow˥˧ ʃʱɨ’˨˦ fu˥˧ puʔ(t) ʃʱiʔ(k)˩. puʔ(t) tʃʰiɛʔ(t) kiɑŋ ʃʱiʔ(k)˩. puʔ(t) tɔ ʃʱiʔ(k)˩. tsi˨˦ ʔy kuŋ. puʔ(t) syuʔ(k) ʒyuʔ(k)˩. tsi˨˦ ʒyuʔ(k)˩, puʔ(t) tʃʰyʔ(t) sam ʒiʔ(t)˩. tʃʰyʔ(t) sam ʒiʔ(t)˩. puʔ(t) ʃʱiʔ(k)˩ tʃɨ ji˥˧. ʃʱiʔ(k)˩ puʔ(t) ŋy˥˧. tsʰim˥˧ puʔ(t) jiɛn˩. sui ʂu sʱɨ˨˦ tsʰai˨˦ k(i)əŋ kwa. tsi˨˦. piʔ(t) tsʱi˩ ʒy˩ jiɛ˥˧.
-·　ㄓㄞ,　ㄅㄧㆵ　꜂ㄧㄡ　꜁ㄇㄧㄥ　阝ㄧ,　ㄅㄨ꜄。　ㄓㄞ　ㄅㄧㆵ　ㄅㄧㄢ꜄　ㄕ'ㄧ꜇ㆶ。　ㄐㄩ　ㄅㄧㆵ　ㄘㄧㄢ　ㆡㄨㄛ꜃꜅。　ㄙ'꜅　ㄅㄨ꜆　阝ㄧㄝㆬ꜄　ㄗㄧㄥ。　ㄍㄨㄟ꜄　ㄅㄨ꜆　阝ㄧㄝㆬ꜄　ㄙㄧ꜄。　ㄙ'꜅　阝ㄧ꜄　꜁ㄦ　阝(ㄧ)ㄞ꜄。　꜁ㄫㄩ　꜂ㄋㄨㄟ。　꜁ㄦ　ㄖㄩㄨ꜇ㆶ　ㆠㄞ꜅　ㄅㄨ꜆　ㄕ'ㄧ꜇ㆶ。　ㄕㄜㆶ　阝ㆦㆶ　ㄅㄨ꜆　ㄕ'ㄧ꜇ㆶ。　ㄔㄧㄡ꜄　阝ㆦㆶ　ㄅㄨ꜆　ㄕ'ㄧ꜇ㆶ。　ㄕㄧㆵ　꜂ㄖㄧㆬ　ㄅㄨ꜆　ㄕ'ㄧ꜇ㆶ。　ㄅㄨ꜆　꜁ㄕ'　ㄅㄨ꜆　ㄕ'ㄧ꜇ㆶ。　ㄍㄛㄉ　ㄅㄨ꜆　ㄓㄧㄥ꜄　ㄅㄨ꜆　ㄕ'ㄧ꜇ㆶ。　ㄅㄨ꜆　ㄉㄜㆶ　꜁ㄑ'ㄧ　ㄗㄧㄤ꜄　ㄅㄨ꜆　ㄕ'ㄧ꜇ㆶ。　ㄖㄩㄨ꜇ㆶ　ㄙㄨㄟ　ㄉㄛ。　ㄅㄨ꜆　꜂ㄕㄭ　ㄕㄧㄥ꜄　ㄙ'꜅　(ㄍ)ㄒㄧ꜄。　꜁ㄪㄧ　꜂ㄗㄧㄡ　꜁ㄪㄨ　ㄌㄧㄤ꜅。　ㄅㄨ꜆　ㆢㄧ꜇ㆴ　ㄌㄨㄛㄣ꜅。　ㄍㄨ　꜂ㄗㄧㄡ　ㄕ'꜃꜅　꜂ㄈㄨ　ㄅㄨ꜆　ㄕ'ㄧ꜇ㆶ。　ㄅㄨ꜆　ㄔㄧㄝㆵ　ㄐㄧㄤ　ㄕ'ㄧ꜇ㆶ。　ㄅㄨ꜆　ㄉㄛ　ㄕ'ㄧ꜇ㆶ。　ㄗㄧ꜄　阝ㄩ　ㄍㄨㆭ。　ㄅㄨ꜆　ㄙㄩㄨㆶ　ㄖㄩㄨ꜇ㆶ。　ㄗㄧ꜄　ㄖㄩㄨ꜇ㆶ,　ㄅㄨ꜆　ㄔㄩㆵ　ㄙㆰ　ㄖㄧ꜇ㆵ。　ㄔㄩㆵ　ㄙㆰ　ㄖㄧ꜇ㆵ。　ㄅㄨ꜆　ㄕ'ㄧ꜇ㆶ　ㄓ　꜂ㄧ。　ㄕ'ㄧ꜇ㆶ　ㄅㄨ꜆　꜂ㄫㄩ。　꜂ㄘㄧㆬ　ㄅㄨ꜆　꜁ㄧㄝㄣ。　ㄙㄨㄟ　ㄕㄨ　ㄙ'꜅　ㄘㄞ꜄　ㄍ(ㄧ)ㄥ　ㄍㄨㄚ。　ㄗㄧ꜄。　ㄅㄧㆵ　꜁ㄘ'ㄧ　꜁ㄖㄩ　꜂ㄧㄝ。
+·　꜁ㄋㆰ　ㄐㄩㄨㆭ　ㄍㄨㄛㆵ　ㄪㄨㄣ꜅　阝ㄩ　꜂ㄎㄨㆭ　꜂ㄗ　ㄩㄝ꜇ㆵ。　(ㄫ)ㄧ꜅　ㄕ'ㄧㄢ꜃꜅　ㄕ'ㄧㄝ꜅。　ㄫㄠ꜅　ㄊㄤ꜄　ㄓㄧㄡ。　ㄐㄩ　ㄅㄨ꜆　ㄉㄜㆶ　꜁ㄑ'ㄧ　꜂ㄙ　꜁ㄖㄧㄢ。　꜂ㄩ　ㄗㄧㆶ　ㄐㄩㄨㆭ　ㄐㄧㄚ꜄　꜁ㄦ　꜂ㄧㄡ　ㄊㄧㄢ　ㄒ'ㄧㄚ꜃꜅。　ㄈㄨ　꜂ㄗ　ㄅㄨ꜆　ㄉㄚㆴ。　꜁ㄋㆰ　ㄐㄩㄨㆭ　ㄍㄨㄛㄉ　ㄔㄩㆵ。　꜂ㄗ　ㄩㄝ꜇ㆵ。　ㄐㄩㄣ　꜂ㄗ　ㄗㄞ　ㄖㄧㆦ꜇ㆶ　꜁ㄖㄧㄣ。　ㄕ'ㄧㄤ꜅　ㄉㄜㆶ　ㄗㄞ　ㄖㄧㆦ꜇ㆶ　꜁ㄖㄧㄣ。
 
 〇席不正不坐。鄉人飲酒。杖者出。斯出矣。
 · zjek pjuw tsyengH pjuw dzwaX. xjang nyin ’imX tsjuwX. drjangX tsyaeX tsyhwit. sje tsyhwit hiX.
@@ -1595,7 +1595,7 @@ ngaen ’wen dejH dzyip nyijH
 〇子張問士何如、斯可謂之達矣。子曰。何哉爾所謂達者。子張對曰。在邦必聞。在家必聞。子曰。是聞也。非達也。夫達也者。質直而好義。察言而觀色。慮以下人。在邦必達。在家必達。夫聞也者。色取仁而行違。居之不疑。在邦必聞。在家必聞。
 · tsiX trjang mjunH dzriX ha nyo, sje khaX hjw+jH tsyi dat hiX. tsiX hjwot. ha tsoj nyeX srjoX hjw+jH dat tsyaeX. tsiX trjang twojH hjwot. dzojX paewng pjit mjunH(?). dzojX kae pjit mjunH(?). tsiX hjwot. dzyeX mjunH(?) yaeX. pj+j dat yaeX. bju dat yaeX tsyaeX. tsyit drik nyi xawH ngjeH. tsrheat ngjon nyi kwan srik. ljoH yiX haeH nyin. dzojX paewng pjit dat. dzojX kae pjit dat. bju mjunH(?) yaeX tsyaeX. srik tshjuX nyin nyi haengH hjw+j. kjo tsyi pjuw ngi. dzojX paewng pjit mjunH(?). dzojX kae pjit mjunH(?).
 · tsɨ˥˧ tʃiɑŋ vun˨˦ ʂʱɨ’˨˦ ɦɔ˩ ʒy˩, sɨ kʰɔ˥˧ ui˨˦ tʃɨ daʔ(t)˩ ji˥˧. tsɨ˥˧ jyuɛʔ(t)˩. ɦɔ˩ tsai ɻ˥˧ ʂu˥˧ ui˨˦ daʔ(t)˩ tʃiɛ˥˧. tsɨ˥˧ tʃiɑŋ tui˨˦ jyuɛʔ(t)˩. dzai’˨˦ pɑŋ piʔ(t) vun˨˦(?). dzai’˨˦ kia piʔ(t) vun˨˦(?). tsɨ˥˧ jyuɛʔ(t)˩. ʃʱɨ’˨˦ vun˨˦(?) jiɛ˥˧. fi daʔ(t)˩ jiɛ˥˧. fʱu˩ daʔ(t)˩ jiɛ˥˧ tʃiɛ˥˧. tʃiʔ(t) dʒiʔ(k)˩ ɻ˩ haw˨˦ (ŋ)i˨˦. ʈʂʰaʔ(t) jiɛn˩ ɻ˩ kwɔn ʂəʔ(k). ly˨˦ ji˥˧ ɦia˨˦ ʒin˩. dzai’˨˦ pɑŋ piʔ(t) daʔ(t)˩. dzai’˨˦ kia piʔ(t) daʔ(t)˩. fʱu˩ vun˨˦(?) jiɛ˥˧ tʃiɛ˥˧. ʂəʔ(k) tsʰy˥˧ ʒin˩ ɻ˩ ɦiŋ˨˦ ui˩. ky tʃɨ puʔ(t) (ŋ)i˩. dzai’˨˦ pɑŋ piʔ(t) vun˨˦(?). dzai’˨˦ kia piʔ(t) vun˨˦(?).
-·　꜂ㄗ　ㄓㄧㄤ　ㄪㄨㄣ꜅　ㄕ'ㄭ꜃꜅　꜁ㄏ'ㄛ　꜁ㄖㄩ,　ㄙ　꜂ㄎㄛ　ㄨㄟ꜅　ㄓ　ㄉ'ㄚ꜇ㆵ　꜂ㄧ。　꜂ㄗ　ㄩㄝ꜇ㆵ。　꜁ㄏ'ㄛ　ㄗㄞ　꜂ㄦ　꜂ㄕㄨ　ㄨㄟ꜅　ㄉ'ㄚ꜇ㆵ　꜂ㄓㄧㄝ。　꜂ㄗ　ㄓㄧㄤ　ㄉㄨㄟ꜄　ㄩㄝ꜇ㆵ。　ㆡㄞ꜃꜅　ㄅㄤ　ㄅㄧㆵ　ㄪㄨㄣ꜅(?)。　ㆡㄞ꜃꜅　ㄐㄧㄚ　ㄅㄧㆵ　ㄪㄨㄣ꜅(?)。　꜂ㄗ　ㄩㄝ꜇ㆵ。　ㄕ'꜃꜅　ㄪㄨㄣ꜅(?)　꜂ㄧㄝ。　ㄈㄧ　ㄉ'ㄚ꜇ㆵ　꜂ㄧㄝ。　꜁ㄈ'ㄨ　ㄉ'ㄚ꜇ㆵ　꜂ㄧㄝ　꜂ㄓㄧㄝ。　ㄓㄧㆵ　ㄓ'ㄧ꜇ㆶ　꜁ㄦ　ㄏㄠ꜄　(ㄫ)ㄧ꜅。　ㄔㄚㆵ　꜁ㄧㄝㄣ　꜁ㄦ　ㄍㄨㄛㄣ　ㄕㄜㆶ。　ㄌㄩ꜅　꜂ㄧ　ㄒ'ㄧㄚ꜅　꜁ㄖㄧㄣ。　ㆡㄞ꜃꜅　ㄅㄤ　ㄅㄧㆵ　ㄉ'ㄚ꜇ㆵ。　ㆡㄞ꜃꜅　ㄐㄧㄚ　ㄅㄧㆵ　ㄉ'ㄚ꜇ㆵ。　꜁ㄈ'ㄨ　ㄪㄨㄣ꜅(?)　꜂ㄧㄝ　꜂ㄓㄧㄝ。　ㄕㄜㆶ　꜂ㄘㄩ　꜁ㄖㄧㄣ　꜁ㄦ　ㄒ'ㄧㄥ꜅　꜁ㄨㄟ。　ㄐㄩ　ㄓ　ㄅㄨ꜆　꜁(ㄫ)ㄧ。　ㆡㄞ꜃꜅　ㄅㄤ　ㄅㄧㆵ　ㄪㄨㄣ꜅(?)。　ㆡㄞ꜃꜅　ㄐㄧㄚ　ㄅㄧㆵ　ㄪㄨㄣ꜅(?)。
+·　꜂ㄗ　ㄓㄧㄤ　ㄪㄨㄣ꜅　ㄕ'ㄭ꜃꜅　꜁ㄏ'ㄛ　꜁ㄖㄩ,　ㄙ　꜂ㄎㄛ　ㄨㄟ꜅　ㄓ　ㄉ'ㄚ꜇ㆵ　꜂ㄧ。　꜂ㄗ　ㄩㄝ꜇ㆵ。　꜁ㄏ'ㄛ　ㄗㄞ　꜂ㄦ　꜂ㄕㄨ　ㄨㄟ꜅　ㄉ'ㄚ꜇ㆵ　꜂ㄓㄧㄝ。　꜂ㄗ　ㄓㄧㄤ　ㄉㄨㄟ꜄　ㄩㄝ꜇ㆵ。　ㆡㄞ꜃꜅　ㄅㄤ　ㄅㄧㆵ　꜁ㄪㄨㄣ・々꜅(?)。　ㆡㄞ꜃꜅　ㄐㄧㄚ　ㄅㄧㆵ　꜁ㄪㄨㄣ・々꜅(?)。　꜂ㄗ　ㄩㄝ꜇ㆵ。　ㄕ'꜃꜅　꜁ㄪㄨㄣ・々꜅(?)　꜂ㄧㄝ。　ㄈㄧ　ㄉ'ㄚ꜇ㆵ　꜂ㄧㄝ。　꜁ㄈ'ㄨ　ㄉ'ㄚ꜇ㆵ　꜂ㄧㄝ　꜂ㄓㄧㄝ。　ㄓㄧㆵ　ㄓ'ㄧ꜇ㆶ　꜁ㄦ　ㄏㄠ꜄　(ㄫ)ㄧ꜅。　ㄔㄚㆵ　꜁ㄧㄝㄣ　꜁ㄦ　ㄍㄨㄛㄣ　ㄕㄜㆶ。　ㄌㄩ꜅　꜂ㄧ　ㄒ'ㄧㄚ꜅　꜁ㄖㄧㄣ。　ㆡㄞ꜃꜅　ㄅㄤ　ㄅㄧㆵ　ㄉ'ㄚ꜇ㆵ。　ㆡㄞ꜃꜅　ㄐㄧㄚ　ㄅㄧㆵ　ㄉ'ㄚ꜇ㆵ。　꜁ㄈ'ㄨ　꜁ㄪㄨㄣ・々꜅(?)　꜂ㄧㄝ　꜂ㄓㄧㄝ。　ㄕㄜㆶ　꜂ㄘㄩ　꜁ㄖㄧㄣ　꜁ㄦ　ㄒ'ㄧㄥ꜅　꜁ㄨㄟ。　ㄐㄩ　ㄓ　ㄅㄨ꜆　꜁(ㄫ)ㄧ。　ㆡㄞ꜃꜅　ㄅㄤ　ㄅㄧㆵ　꜁ㄪㄨㄣ・々꜅(?)。　ㆡㄞ꜃꜅　ㄐㄧㄚ　ㄅㄧㆵ　꜁ㄪㄨㄣ・々꜅(?)。
 
 〇樊遲從遊於舞雩之下。曰。敢問崇德脩慝辨惑。子曰。善哉問。先事後得。非崇德與。攻其惡。無攻人之惡。非脩慝與。一朝之忿。忘其身以及其親。非惑與。
 · bjon drij dzjowngH yuw ’jo mjuX hju tsyi haeX. hjwot. kamX mjunH dzrjuwng tok sjuw thok bjenX hwok. tsiX hjwot. dzyenX tsoj mjunH. sen dzriH huwX tok. pj+j dzrjuwng tok yo. kowng gi ’ak. mju kowng nyin tsyi ’ak. pj+j sjuw thok yo. ’jit trjew tsyi phjunH. mjang(H) gi syin yiX gip gi tshin. pj+j hwok yo.
@@ -1635,7 +1635,7 @@ tsɨ˥˧ lu˨˦ di˨˦ ʃʱiʔ(p)˩ sam
 〇子路曰。衞君待子而爲政。子將奚先。子曰。必也正名乎。子路曰。有是哉。子之迂也。奚其正。子曰。野哉由也。君子於其所不知。蓋闕如也。名不正。則言不順。言不順。則事不成。事不成。則禮樂不興。禮樂不興。則刑罰不中。刑罰不中。則民無所措手足。故君子名之必可言也。言之必可行也。君子於其言。無所苟而已矣。
 · tsiX luH hjwot. hjwejH kjun dojX tsiX nyi hjwe tsyengH. tsiX tsjang hej sen. tsiX hjwot. pjit yaeX tsyengH mjieng hu. tsiX luH hjwot. hjuwX dzyeX tsoj. tsiX tsyi hju/’ju yaeX. hej gi tsyengH. tsiX hjwot. yaeX tsoj yuw yaeX. kjun tsiX ’jo gi srjoX pjuw trje. kajH khjwot nyo yaeX. mjieng pjuw tsyengH. tsok ngjon pjuw zywinH. ngjon pjuw zywinH. tsok dzriH pjuw dzyeng. dzriH pjuw dzyeng. tsok lejX ngaewk pjuw xing. lejX ngaewk pjuw xing. tsok heng bjot pjuw trjuwngH. heng bjot pjuw trjuwngH. tsok mjin mju srjoX tshuH syuwX tsjowk. kuH kjun tsiX mjieng tsyi pjit khaX ngjon yaeX. ngjon tsyi pjit khaX haeng yaeX. kjun tsiX ’jo gi ngjon. mju srjoX kuwX nyi yiX hiX.
 · tsɨ˥˧ lu˨˦ jyuɛʔ(t)˩. ui˨˦ kyun dai’˨˦ tsɨ˥˧ ɻ˩ ui˩ tʃiŋ˨˦. tsɨ˥˧ tsiɑŋ ɦi˩ siɛn. tsɨ˥˧ jyuɛʔ(t)˩. piʔ(t) jiɛ˥˧ tʃiŋ˨˦ miŋ˩ ɦu˩. tsɨ˥˧ lu˨˦ jyuɛʔ(t)˩. jiow˥˧ ʃʱɨ’˨˦ tsai. tsɨ˥˧ tʃɨ (ʔ)y jiɛ˥˧. ɦi˩ kʱi˩ tʃiŋ˨˦. tsɨ˥˧ jyuɛʔ(t)˩. jiɛ˥˧ tsai jiow˩ jiɛ˥˧. kyun tsɨ˥˧ ʔy kʱi˩ ʂu˥˧ puʔ(t) tʃi. kai˨˦ kʰyuɛʔ(t) ʒy˩ jiɛ˥˧. miŋ˩ puʔ(t) tʃiŋ˨˦. tsəʔ(k) jiɛn˩ puʔ(t) ʃʱyun˨˦. jiɛn˩ puʔ(t) ʃʱyun˨˦. tsəʔ(k) ʂʱɨ˨˦ puʔ(t) tʃʱiŋ˩. ʂʱɨ˨˦ puʔ(t) tʃʱiŋ˩. tsəʔ(k) li˥˧ (ŋ)iɒʔ(k)˩ puʔ(t) hiŋ. li˥˧ (ŋ)iɒʔ(k)˩ puʔ(t) hiŋ. tsəʔ(k) ɦiŋ˩ fʱaʔ(t)˩ puʔ(t) tʃyuŋ˨˦. ɦiŋ˩ fʱaʔ(t)˩ puʔ(t) tʃyuŋ˨˦. tsəʔ(k) min˩ vu˩ ʂu˥˧ tsʰu˨˦ ʃiow˥˧ tsyuʔ(k). ku˨˦ kyun tsɨ˥˧ miŋ˩ tʃɨ piʔ(t) kʰɔ˥˧ jiɛn˩ jiɛ˥˧. jiɛn˩ tʃɨ piʔ(t) kʰɔ˥˧ ɦiŋ˩ jiɛ˥˧. kyun tsɨ˥˧ ʔy kʱi˩ jiɛn˩. vu˩ ʂu˥˧ kow˥˧ ɻ˩ ji˥˧ ji˥˧.
-·　꜂ㄗ　ㄌㄨ꜅　ㄩㄝ꜇ㆵ。　ㄨㄟ꜅　ㄐㄩㄣ　ㄉ'ㄞ꜃꜅　꜂ㄗ　꜁ㄦ　꜁ㄨㄟ　ㄓㄧㄥ꜄。　꜂ㄗ　ㄗㄧㄤ　꜁ㄒ'ㄧ　ㄙㄧㄢ。　꜂ㄗ　ㄩㄝ꜇ㆵ。　ㄅㄧㆵ　꜂ㄧㄝ　ㄓㄧㄥ꜄　꜁ㄇㄧㄥ　꜁ㄏ'ㄨ。　꜂ㄗ　ㄌㄨ꜅　ㄩㄝ꜇ㆵ。　꜂ㄧㄡ　ㄕ'꜃꜅　ㄗㄞ。　꜂ㄗ　ㄓ　(阝)ㄩ　꜂ㄧㄝ。　꜁ㄒ'ㄧ　꜁ㄑ'ㄧ　ㄓㄧㄥ꜄。　꜂ㄗ　ㄩㄝ꜇ㆵ。　꜂ㄧㄝ　ㄗㄞ　꜁ㄧㄡ　꜂ㄧㄝ。　ㄐㄩㄣ　꜂ㄗ　阝ㄩ　꜁ㄑ'ㄧ　꜂ㄕㄨ　ㄅㄨ꜆　ㄓㄧ。　ㄍㄞ꜄　ㄑㄩㄝㆵ　꜁ㄖㄩ　꜂ㄧㄝ。　꜁ㄇㄧㄥ　ㄅㄨ꜆　ㄓㄧㄥ꜄。　ㄗㄜㆶ　꜁ㄧㄝㄣ　ㄅㄨ꜆　ㄕ'ㄩㄣ꜅。　꜁ㄧㄝㄣ　ㄅㄨ꜆　ㄕ'ㄩㄣ꜅。　ㄗㄜㆶ　ㄕ'ㄭ꜅　ㄅㄨ꜆　꜁ㄔ'ㄧㄥ。　ㄕ'ㄭ꜅　ㄅㄨ꜆　꜁ㄔ'ㄧㄥ。　ㄗㄜㆶ　꜂ㄌㄧ　(ㄫ)ㄧㆦ꜇ㆶ　ㄅㄨ꜆　ㄒㄧㄥ。　꜂ㄌㄧ　(ㄫ)ㄧㆦ꜇ㆶ　ㄅㄨ꜆　ㄒㄧㄥ。　ㄗㄜㆶ　꜁ㄒ'ㄧㄥ　ㄈ'ㄚ꜇ㆵ　ㄅㄨ꜆　ㄓㄩㄨㆭ꜄。　꜁ㄒ'ㄧㄥ　ㄈ'ㄚ꜇ㆵ　ㄅㄨ꜆　ㄓㄩㄨㆭ꜄。　ㄗㄜㆶ　꜁ㄇㄧㄣ　꜁ㄪㄨ　꜂ㄕㄨ　ㄘㄨ꜄　꜂ㄕㄧㄡ　ㄗㄩㄨㆶ。　ㄍㄨ꜄　ㄐㄩㄣ　꜂ㄗ　꜁ㄇㄧㄥ　ㄓ　ㄅㄧㆵ　꜂ㄎㄛ　꜁ㄧㄝㄣ　꜂ㄧㄝ。　꜁ㄧㄝㄣ　ㄓ　ㄅㄧㆵ　꜂ㄎㄛ　꜁ㄒ'ㄧㄥ　꜂ㄧㄝ。　ㄐㄩㄣ　꜂ㄗ　阝ㄩ　꜁ㄑ'ㄧ　꜁ㄧㄝㄣ。　꜁ㄪㄨ　꜂ㄕㄨ　꜂ㄍㄡ　꜁ㄦ　꜂ㄧ　꜂ㄧ。
+·　꜂ㄗ　ㄌㄨ꜅　ㄩㄝ꜇ㆵ。　ㄨㄟ꜅　ㄐㄩㄣ　ㄉ'ㄞ꜃꜅　꜂ㄗ　꜁ㄦ　꜁ㄨㄟ　ㄓㄧㄥ꜄。　꜂ㄗ　ㄗㄧㄤ　꜁ㄒ'ㄧ　ㄙㄧㄢ。　꜂ㄗ　ㄩㄝ꜇ㆵ。　ㄅㄧㆵ　꜂ㄧㄝ　ㄓㄧㄥ꜄　꜁ㄇㄧㄥ　꜁ㄏ'ㄨ。　꜂ㄗ　ㄌㄨ꜅　ㄩㄝ꜇ㆵ。　꜂ㄧㄡ　ㄕ'꜃꜅　ㄗㄞ。　꜂ㄗ　ㄓ　阝ㄩ・꜁ㄩ　꜂ㄧㄝ。　꜁ㄒ'ㄧ　꜁ㄑ'ㄧ　ㄓㄧㄥ꜄。　꜂ㄗ　ㄩㄝ꜇ㆵ。　꜂ㄧㄝ　ㄗㄞ　꜁ㄧㄡ　꜂ㄧㄝ。　ㄐㄩㄣ　꜂ㄗ　阝ㄩ　꜁ㄑ'ㄧ　꜂ㄕㄨ　ㄅㄨ꜆　ㄓㄧ。　ㄍㄞ꜄　ㄑㄩㄝㆵ　꜁ㄖㄩ　꜂ㄧㄝ。　꜁ㄇㄧㄥ　ㄅㄨ꜆　ㄓㄧㄥ꜄。　ㄗㄜㆶ　꜁ㄧㄝㄣ　ㄅㄨ꜆　ㄕ'ㄩㄣ꜅。　꜁ㄧㄝㄣ　ㄅㄨ꜆　ㄕ'ㄩㄣ꜅。　ㄗㄜㆶ　ㄕ'ㄭ꜅　ㄅㄨ꜆　꜁ㄔ'ㄧㄥ。　ㄕ'ㄭ꜅　ㄅㄨ꜆　꜁ㄔ'ㄧㄥ。　ㄗㄜㆶ　꜂ㄌㄧ　(ㄫ)ㄧㆦ꜇ㆶ　ㄅㄨ꜆　ㄒㄧㄥ。　꜂ㄌㄧ　(ㄫ)ㄧㆦ꜇ㆶ　ㄅㄨ꜆　ㄒㄧㄥ。　ㄗㄜㆶ　꜁ㄒ'ㄧㄥ　ㄈ'ㄚ꜇ㆵ　ㄅㄨ꜆　ㄓㄩㄨㆭ꜄。　꜁ㄒ'ㄧㄥ　ㄈ'ㄚ꜇ㆵ　ㄅㄨ꜆　ㄓㄩㄨㆭ꜄。　ㄗㄜㆶ　꜁ㄇㄧㄣ　꜁ㄪㄨ　꜂ㄕㄨ　ㄘㄨ꜄　꜂ㄕㄧㄡ　ㄗㄩㄨㆶ。　ㄍㄨ꜄　ㄐㄩㄣ　꜂ㄗ　꜁ㄇㄧㄥ　ㄓ　ㄅㄧㆵ　꜂ㄎㄛ　꜁ㄧㄝㄣ　꜂ㄧㄝ。　꜁ㄧㄝㄣ　ㄓ　ㄅㄧㆵ　꜂ㄎㄛ　꜁ㄒ'ㄧㄥ　꜂ㄧㄝ。　ㄐㄩㄣ　꜂ㄗ　阝ㄩ　꜁ㄑ'ㄧ　꜁ㄧㄝㄣ。　꜁ㄪㄨ　꜂ㄕㄨ　꜂ㄍㄡ　꜁ㄦ　꜂ㄧ　꜂ㄧ。
 
 〇樊遲請學稼。子曰。吾不如老農。請學爲圃。曰。吾不如老圃。樊遲出。子曰。小人哉。樊須也。上好禮。則民莫敢不敬。上好義。則民莫敢不服。上好信。則民莫敢不用情。夫如是。則四方之民。襁負其子而至矣。焉用稼。
 · bjon drij tshjengX haewk kaeH. tsiX hjwot. ngu pjuw nyo lawX nowng. tshjengX haewk hjwe puX. hjwot. ngu pjuw nyo lawX puX. bjon drij tsyhwit. tsiX hjwot. sjewX nyin tsoj. bjon sju yaeX. dzyangH xawH lejX. tsok mjin mak kamX pjuw kjaengH. dzyangH xawH ngjeH. tsok mjin mak kamX pjuw bjuwk. dzyangH xawH sinH. tsok mjin mak kamX pjuw yowngH dzjeng. bju nyo dzyeX. tsok sijH pjang tsyi mjin. kjangX bjuwX gi tsiX nyi tsyijH hiX. ’jen yowngH kaeH.
@@ -1800,7 +1800,7 @@ hiɛn˨˦ vun˨˦ di˨˦ ʃʱiʔ(p)˩ sɨ˨˦
 〇南宮适問於孔子曰。羿善射。奡盪舟。俱不得其死然。禹稷躬稼而有天下。夫子不答。南宮适出。子曰。君子哉若人。尚德哉若人。
 · nom kjuwng kwat mjunH ’jo khuwngx tsiX hjwot. ngejH dzyenX zyaeH. ngawH thangH tsyuw. kju pjuw tok gi sijX nyen. hjuX tsik kjuwng kaeH nyi hjuwX then haeX. pju tsiX pjuw top. nom kjuwng kwat tsyhwit. tsiX hjwot. kjun tsiX tsoj nyak nyin. dzyangH tok tsoj nyak nyin.
 · nam˩ kyuŋ kwɔʔ(t) vun˨˦ ʔy kʰuŋ˥˧ tsɨ˥˧ jyuɛʔ(t)˩. (ŋ)i˨˦ ʃʱiɛn’˨˦ ʃʱiɛ˨˦. ŋaw˨˦ tʰɑŋ˨˦ tʃiow. ky puʔ(t) təʔ(k) kʱi˩ sɨ˥˧ ʒiɛn˩. jy˥˧ tsiʔ(k) kyuŋ kia˨˦ ɻ˩ jiow˥˧ tʰiɛn ɦia’˨˦. fu tsɨ˥˧ puʔ(t) taʔ(p). nam˩ kyuŋ kwɔʔ(t) tʃʰyʔ(t). tsɨ˥˧ jyuɛʔ(t)˩. kyun tsɨ˥˧ tsai ʒiɒʔ(k)˩ ʒin˩. ʃʱiɑŋ˨˦ təʔ(k) tsai ʒiɒʔ(k)˩ ʒin˩.
-·　꜁ㄋㆰ　ㄐㄩㄨㆭ　ㄍㄨㄛㄉ　ㄪㄨㄣ꜅　阝ㄩ　꜂ㄎㄨㆭ　꜂ㄗ　ㄩㄝ꜇ㆵ。　(ㄫ)ㄧ꜅　ㄕ'ㄧㄢ꜃꜅　ㄕ'ㄧㄝ꜅。　ㄫㄠ꜅　ㄊㄤ꜄　ㄓㄧㄡ。　ㄐㄩ　ㄅㄨ꜆　ㄉㄜㆶ　꜁ㄑ'ㄧ　꜂ㄙ　꜁ㄖㄧㄢ。　꜂ㄩ　ㄗㄧㆶ　ㄐㄩㄨㆭ　ㄐㄧㄚ꜄　꜁ㄦ　꜂ㄧㄡ　ㄊㄧㄢ　ㄒ'ㄧㄚ꜃꜅。　ㄈㄨ　꜂ㄗ　ㄅㄨ꜆　ㄉㄚㆴ。　꜁ㄋㆰ　ㄐㄩㄨㆭ　ㄍㄨㄛㄉ　ㄔㄩㆵ。　꜂ㄗ　ㄩㄝ꜇ㆵ。　ㄐㄩㄣ　꜂ㄗ　ㄗㄞ　ㄖㄧㆦ꜇ㆶ　꜁ㄖㄧㄣ。　ㄕ'ㄧㄤ꜅　ㄉㄜㆶ　ㄗㄞ　ㄖㄧㆦ꜇ㆶ　꜁ㄖㄧㄣ。
+·　꜁ㄋㆰ　ㄐㄩㄨㆭ　ㄍㄨㄛㆵ　ㄪㄨㄣ꜅　阝ㄩ　꜂ㄎㄨㆭ　꜂ㄗ　ㄩㄝ꜇ㆵ。　(ㄫ)ㄧ꜅　ㄕ'ㄧㄢ꜃꜅　ㄕ'ㄧㄝ꜅。　ㄫㄠ꜅　ㄊㄤ꜄　ㄓㄧㄡ。　ㄐㄩ　ㄅㄨ꜆　ㄉㄜㆶ　꜁ㄑ'ㄧ　꜂ㄙ　꜁ㄖㄧㄢ。　꜂ㄩ　ㄗㄧㆶ　ㄐㄩㄨㆭ　ㄐㄧㄚ꜄　꜁ㄦ　꜂ㄧㄡ　ㄊㄧㄢ　ㄒ'ㄧㄚ꜃꜅。　ㄈㄨ　꜂ㄗ　ㄅㄨ꜆　ㄉㄚㆴ。　꜁ㄋㆰ　ㄐㄩㄨㆭ　ㄍㄨㄛㆵ　ㄔㄩㆵ。　꜂ㄗ　ㄩㄝ꜇ㆵ。　ㄐㄩㄣ　꜂ㄗ　ㄗㄞ　ㄖㄧㆦ꜇ㆶ　꜁ㄖㄧㄣ。　ㄕ'ㄧㄤ꜅　ㄉㄜㆶ　ㄗㄞ　ㄖㄧㆦ꜇ㆶ　꜁ㄖㄧㄣ。
 
 〇子曰。君子而不仁者有矣。夫未有小人而仁者也。
 · tsiX hjwot. kjun tsiX nyi pjuw nyin tsyaeX hjuwX hiX. bju mj+jH hjuwX sjewX nyin nyi nyin tsyaeX yaeX.
@@ -1820,7 +1820,7 @@ hiɛn˨˦ vun˨˦ di˨˦ ʃʱiʔ(p)˩ sɨ˨˦
 〇或問子產。子曰。惠人也。問子西。曰。彼哉彼哉。問管仲。曰。人也。奪伯氏駢邑三百。飯疏食。沒齒無怨言。
 · hwok mjunH tsiX sreanX. tsiX hjwot. hwejH nyin yaeX. mjunH tsiX sej. hjwot. pjeX tsoj pjeX tsoj. mjunH kwanX drjuwngH. hjwot. nyin yaeX. dwat paek dzyeX ben ’ip sam paek. bjonX srjo ziH/zyik. mwot tsyhiX mju ’jwonH ngjon.
 · ɦwəʔ(k)˩ vun˨˦ tsɨ˥˧ ʈʂʰan˥˧. tsɨ˥˧ jyuɛʔ(t)˩. ɦui˨˦ ʒin˩ jiɛ˥˧. vun˨˦ tsɨ˥˧ si. jyuɛʔ(t)˩. pi˥˧ tsai pi˥˧ tsai. vun˨˦ kwɔn˥˧ dʒyuŋ˨˦. jyuɛʔ(t)˩. ʒin˩ jiɛ˥˧. dwɔʔ(t)˩ pəʔ(k) ʃʱɨ’˨˦ pʱiɛn˩ ʔiʔ(p) sam pəʔ(k). fʱan’˨˦ ʂu sʱɨ˨˦/ʃʱik˩. muʔ(t)˩ tʃʰɨ˥˧ vu˩ ʔyuɛn˨˦ jiɛn˩.
-·　ㄏ'ㄨㄜ꜇ㆶ　ㄪㄨㄣ꜅　꜂ㄗ　꜂ㄔㄢ。　꜂ㄗ　ㄩㄝ꜇ㆵ。　ㄏ'ㄨㄟ꜅　꜁ㄖㄧㄣ　꜂ㄧㄝ。　ㄪㄨㄣ꜅　꜂ㄗ　ㄙㄧ。　ㄩㄝ꜇ㆵ。　꜂ㄅㄧ　ㄗㄞ　꜂ㄅㄧ　ㄗㄞ。　ㄪㄨㄣ꜅　꜂ㄍㄨㄛㄣ　ㄓ'ㄩㄨㆭ꜅。　ㄩㄝ꜇ㆵ。　꜁ㄖㄧㄣ　꜂ㄧㄝ。　ㄉ'ㄨㄛ꜇ㄉ　ㄅㄜㆶ　ㄕ'꜃꜅　꜁ㄆ'ㄧㄢ　阝ㄧㆴ　ㄙㆰ　ㄅㄜㆶ。　ㄈ'ㄢ꜃꜅　ㄕㄨ　ㄙ'꜅・ㄕ'ㄧ꜇ㆶ。　ㄇㄨ꜇ㆵ　꜂ㄔ　꜁ㄪㄨ　阝ㄩㄢ꜄　꜁ㄧㄝㄣ。
+·　ㄏ'ㄨㄜ꜇ㆶ　ㄪㄨㄣ꜅　꜂ㄗ　꜂ㄔㄢ。　꜂ㄗ　ㄩㄝ꜇ㆵ。　ㄏ'ㄨㄟ꜅　꜁ㄖㄧㄣ　꜂ㄧㄝ。　ㄪㄨㄣ꜅　꜂ㄗ　ㄙㄧ。　ㄩㄝ꜇ㆵ。　꜂ㄅㄧ　ㄗㄞ　꜂ㄅㄧ　ㄗㄞ。　ㄪㄨㄣ꜅　꜂ㄍㄨㄛㄣ　ㄓ'ㄩㄨㆭ꜅。　ㄩㄝ꜇ㆵ。　꜁ㄖㄧㄣ　꜂ㄧㄝ。　ㄉ'ㄨㄛ꜇ㆵ　ㄅㄜㆶ　ㄕ'꜃꜅　꜁ㄆ'ㄧㄢ　阝ㄧㆴ　ㄙㆰ　ㄅㄜㆶ。　ㄈ'ㄢ꜃꜅　ㄕㄨ　ㄙ'꜅・ㄕ'ㄧ꜇ㆶ。　ㄇㄨ꜇ㆵ　꜂ㄔ　꜁ㄪㄨ　阝ㄩㄢ꜄　꜁ㄧㄝㄣ。
 
 〇子曰。貧而無怨難。富而無驕易。
 · tsiX hjwot. bin nyi mju ’jwonH nanH. pjuwH nyi mju kjew yeH.
@@ -1898,9 +1898,9 @@ hiɛn˨˦ vun˨˦ di˨˦ ʃʱiʔ(p)˩ sɨ˨˦
 ·　꜂ㄗ　ㄩㄝ꜇ㆵ。　꜂ㄍㄨ　ㄓ　ㄒ'ㄧㆦ꜇ㆶ　꜂ㄓㄧㄝ　ㄨㄟ꜅　꜂ㄐㄧ。　ㄐㄧㆬ　ㄓ　ㄒ'ㄧㆦ꜇ㆶ　꜂ㄓㄧㄝ　ㄨㄟ꜅　꜁ㄖㄧㄣ。
 
 〇蘧伯玉使人於孔子。孔子與之坐而問焉。曰。夫子何爲。對曰。夫子欲寡其過而未能也。使者出。子曰。使乎使乎。
-· gjo paek ngjowk sriH nyin ’jo khuwngX tsiX. khuwngX tsiX yoX tsyi dzwaX nyi mjunH hjen. hjwot. pju tsiX ha hjwe. twojH hjwot. pju tsiX yowk kwaeX gi kwaH nyi mj+jH nong yaeX. sriH tsyaeX tsyhwit. tsiX hjwot. sriH hu sriH hu.
-· kʱy˩ pəʔ(k) ŋyuʔ(k)˩ ʂɨ˨˦ ʒin˩ ʔy kʰuŋ˥˧ tsɨ˥˧. kʰuŋ˥˧ tsɨ˥˧ jy˥˧ tʃɨ dzwɔ’˨˦ ɻ˩ vun˨˦ jiɛn˩. jyuɛʔ(t)˩. fu tsɨ˥˧ ɦɔ˩ ui˩. tui˨˦ jyuɛʔ(t)˩. fu tsɨ˥˧ jyuʔ(k)˩ kwa˥˧ kʱi˩ kwɔ˨˦ ɻ˩ vi˨˦ nəŋ˩ jiɛ˥˧. ʂɨ˨˦ tʃiɛ˥˧ tʃʰyʔ(t). tsɨ˥˧ jyuɛʔ(t)˩. ʂɨ˨˦ ɦu˩ ʂɨ˨˦ ɦu˩.
-·　꜁ㄑ'ㄩ　ㄅㄜㆶ　ㄫㄩㄨ꜇ㆶ　ㄕㄭ꜄　꜁ㄖㄧㄣ　阝ㄩ　꜂ㄎㄨㆭ　꜂ㄗ。　꜂ㄎㄨㆭ　꜂ㄗ　꜂ㄩ　ㄓ　ㆡㄨㄛ꜃꜅　꜁ㄦ　ㄪㄨㄣ꜅　꜁ㄧㄝㄣ。　ㄩㄝ꜇ㆵ。　ㄈㄨ　꜂ㄗ　꜁ㄏ'ㄛ　꜁ㄨㄟ。　ㄉㄨㄟ꜄　ㄩㄝ꜇ㆵ。　ㄈㄨ　꜂ㄗ　ㄩㄨ꜇ㆶ　꜂ㄍㄨㄚ　꜁ㄑ'ㄧ　ㄍㄨㄛ꜄　꜁ㄦ　ㄪㄧ꜅　꜁ㄋㄥ　꜂ㄧㄝ。　ㄕㄭ꜄　꜂ㄓㄧㄝ　ㄔㄩㆵ。　꜂ㄗ　ㄩㄝ꜇ㆵ。　ㄕㄭ꜄　꜁ㄏ'ㄨ　ㄕㄭ꜄　꜁ㄏ'ㄨ。
+· gjo paek ngjowk sriX/H nyin ’jo khuwngX tsiX. khuwngX tsiX yoX tsyi dzwaX nyi mjunH hjen. hjwot. pju tsiX ha hjwe. twojH hjwot. pju tsiX yowk kwaeX gi kwaH nyi mj+jH nong yaeX. sriH tsyaeX tsyhwit. tsiX hjwot. sriH hu sriH hu.
+· kʱy˩ pəʔ(k) ŋyuʔ(k)˩ ʂɨ˥˧/˨˦ ʒin˩ ʔy kʰuŋ˥˧ tsɨ˥˧. kʰuŋ˥˧ tsɨ˥˧ jy˥˧ tʃɨ dzwɔ’˨˦ ɻ˩ vun˨˦ jiɛn˩. jyuɛʔ(t)˩. fu tsɨ˥˧ ɦɔ˩ ui˩. tui˨˦ jyuɛʔ(t)˩. fu tsɨ˥˧ jyuʔ(k)˩ kwa˥˧ kʱi˩ kwɔ˨˦ ɻ˩ vi˨˦ nəŋ˩ jiɛ˥˧. ʂɨ˨˦ tʃiɛ˥˧ tʃʰyʔ(t). tsɨ˥˧ jyuɛʔ(t)˩. ʂɨ˨˦ ɦu˩ ʂɨ˨˦ ɦu˩.
+·　꜁ㄑ'ㄩ　ㄅㄜㆶ　ㄫㄩㄨ꜇ㆶ　꜂ㄕㄭ・々꜄　꜁ㄖㄧㄣ　阝ㄩ　꜂ㄎㄨㆭ　꜂ㄗ。　꜂ㄎㄨㆭ　꜂ㄗ　꜂ㄩ　ㄓ　ㆡㄨㄛ꜃꜅　꜁ㄦ　ㄪㄨㄣ꜅　꜁ㄧㄝㄣ。　ㄩㄝ꜇ㆵ。　ㄈㄨ　꜂ㄗ　꜁ㄏ'ㄛ　꜁ㄨㄟ。　ㄉㄨㄟ꜄　ㄩㄝ꜇ㆵ。　ㄈㄨ　꜂ㄗ　ㄩㄨ꜇ㆶ　꜂ㄍㄨㄚ　꜁ㄑ'ㄧ　ㄍㄨㄛ꜄　꜁ㄦ　ㄪㄧ꜅　꜁ㄋㄥ　꜂ㄧㄝ。　ㄕㄭ꜄　꜂ㄓㄧㄝ　ㄔㄩㆵ。　꜂ㄗ　ㄩㄝ꜇ㆵ。　ㄕㄭ꜄　꜁ㄏ'ㄨ　ㄕㄭ꜄　꜁ㄏ'ㄨ。
 
 〇子曰。不在其位。不謀其政。曾子曰。君子思不出其位。
 · tsiX hjwot. pjuw dzojX gi hwijH. pjuw mjuw gi tsyengH. tsong tsiX hjwot. kjun tsiX si pjuw tsyhwit gi hwijH.
@@ -1970,7 +1970,7 @@ hiɛn˨˦ vun˨˦ di˨˦ ʃʱiʔ(p)˩ sɨ˨˦
 〇子擊磬於衞。有荷〈【音義】胡我反本又作河音同〉蕢而過孔氏之門者。曰。有心哉。擊磬乎。旣而曰。鄙哉。硜硜乎。莫己知也。斯已而已矣。深則厲。淺則揭。子曰。果哉。末之難矣。
 · tsiX kek khengH ’jo hjwejH. hjuwX haX gwijH nyi kwa khuwngX dzyeX tsyi mwon tsyaeX. hjwot. hjuwX sim tsoj. kek khengH hu. kj+jH nyi hjwot. pijX tsoj. kheang kheang hu. mak kiX trje yaeX. sje yiX nyi yiX hiX. syim tsok ljejH. tshjenX tsok khjejH. tsiX hjwot. kwaX tsoj. mat tsyi nan hiX.
 · tsɨ˥˧ kiʔ(k) kʰiŋ˨˦ ʔy ui˨˦. jiow˥˧ ɦɔ’˨˦ gui˨˦ ɻ˩ kwɔ kʰuŋ˥˧ ʃʱɨ’˨˦ tʃɨ mun˩ tʃiɛ˥˧. jyuɛʔ(t)˩. jiow˥˧ sim tsai. kiʔ(k) kʰiŋ˨˦ ɦu˩. ki˨˦ ɻ˩ jyuɛʔ(t)˩. pi˥˧ tsai. kʰəŋ kʰəŋ ɦu˩. mɒʔ(k)˩ ki˥˧ tʃi jiɛ˥˧. sɨ ji˥˧ ɻ˩ ji˥˧ ji˥˧. ʃim tsəʔ(k) li˨˦. tsʰiɛn˥˧ tsəʔ(k) kʰi˨˦. tsɨ˥˧ jyuɛʔ(t)˩. kwɔ˥˧ tsai. mwɔʔ(t)˩ tʃɨ nan˩ ji˥˧.
-·　꜂ㄗ　ㄐㄧㆶ　ㄑㄧㄥ꜄　阝ㄩ　ㄨㄟ꜅。　꜂ㄧㄡ　ㄏ'ㄛ꜃꜅　ㆣㄨㄟ꜅　꜁ㄦ　ㄍㄨㄛ　꜂ㄎㄨㆭ　ㄕ'꜃꜅　ㄓ　꜁ㄇㄨㄣ　꜂ㄓㄧㄝ。　ㄩㄝ꜇ㆵ。　꜂ㄧㄡ　ㄙㄧㆬ　ㄗㄞ。　ㄐㄧㆶ　ㄑㄧㄥ꜄　꜁ㄏ'ㄨ。　ㄐㄧ꜄　꜁ㄦ　ㄩㄝ꜇ㆵ。　꜂ㄅㄧ　ㄗㄞ。　ㄎㄥ　ㄎㄥ　꜁ㄏ'ㄨ。　ㄇㆦ꜇ㆶ　꜂ㄐㄧ　ㄓㄧ　꜂ㄧㄝ。　ㄙ　꜂ㄧ　꜁ㄦ　꜂ㄧ　꜂ㄧ。　ㄕㄧㆬ　ㄗㄜㆶ　ㄌㄧ꜅。　꜂ㄘㄧㄢ　ㄗㄜㆶ　ㄑㄧ꜄。　꜂ㄗ　ㄩㄝ꜇ㆵ。　꜂ㄍㄨㄛ　ㄗㄞ。　ㄇㄨㄛ꜇ㄉ　ㄓ　꜁ㄋㄢ　꜂ㄧ。
+·　꜂ㄗ　ㄐㄧㆶ　ㄑㄧㄥ꜄　阝ㄩ　ㄨㄟ꜅。　꜂ㄧㄡ　ㄏ'ㄛ꜃꜅　ㆣㄨㄟ꜅　꜁ㄦ　ㄍㄨㄛ　꜂ㄎㄨㆭ　ㄕ'꜃꜅　ㄓ　꜁ㄇㄨㄣ　꜂ㄓㄧㄝ。　ㄩㄝ꜇ㆵ。　꜂ㄧㄡ　ㄙㄧㆬ　ㄗㄞ。　ㄐㄧㆶ　ㄑㄧㄥ꜄　꜁ㄏ'ㄨ。　ㄐㄧ꜄　꜁ㄦ　ㄩㄝ꜇ㆵ。　꜂ㄅㄧ　ㄗㄞ。　ㄎㄥ　ㄎㄥ　꜁ㄏ'ㄨ。　ㄇㆦ꜇ㆶ　꜂ㄐㄧ　ㄓㄧ　꜂ㄧㄝ。　ㄙ　꜂ㄧ　꜁ㄦ　꜂ㄧ　꜂ㄧ。　ㄕㄧㆬ　ㄗㄜㆶ　ㄌㄧ꜅。　꜂ㄘㄧㄢ　ㄗㄜㆶ　ㄑㄧ꜄。　꜂ㄗ　ㄩㄝ꜇ㆵ。　꜂ㄍㄨㄛ　ㄗㄞ。　ㄇㄨㄛ꜇ㆵ　ㄓ　꜁ㄋㄢ　꜂ㄧ。
 
 〇子張曰。書云。高宗諒陰。三年不言。何謂也。子曰。何必高宗。古之人皆然。君薨。百官緫己。以聽於冢宰。三年。
 · tsiX trjang hjwot. syo hjun. kaw tsowng ljangH ’im. sam nen pjuw ngjon. ha hjw+jH yaeX. tsiX hjwot. ha pjit kaw tsowng. kuX tsyi nyin keaj nyen. kjun xwong. paek kwan tsuwngX kiX. yiX thengH ’jo trjowngX tsojX. sam nen.
@@ -2080,7 +2080,7 @@ ui˨˦ liŋ˩ kuŋ di˨˦ ʃʱiʔ(p)˩ ŋu˥˧
 〇子曰。不曰如之何。如之何者。吾末如之何也已矣。
 · tsiX hjwot. pjuw hjwot nyo tsyi ha. nyo tsyi ha tsyaeX. ngu mat nyo tsyi ha yaeX yiX hiX.
 · tsɨ˥˧ jyuɛʔ(t)˩. puʔ(t) jyuɛʔ(t)˩ ʒy˩ tʃɨ ɦɔ˩. ʒy˩ tʃɨ ɦɔ˩ tʃiɛ˥˧. ŋu˩ mwɔʔ(t)˩ ʒy˩ tʃɨ ɦɔ˩ jiɛ˥˧ ji˥˧ ji˥˧.
-·　꜂ㄗ　ㄩㄝ꜇ㆵ。　ㄅㄨ꜆　ㄩㄝ꜇ㆵ　꜁ㄖㄩ　ㄓ　꜁ㄏ'ㄛ。　꜁ㄖㄩ　ㄓ　꜁ㄏ'ㄛ　꜂ㄓㄧㄝ。　꜁ㄫㄨ　ㄇㄨㄛ꜇ㄉ　꜁ㄖㄩ　ㄓ　꜁ㄏ'ㄛ　꜂ㄧㄝ　꜂ㄧ　꜂ㄧ。
+·　꜂ㄗ　ㄩㄝ꜇ㆵ。　ㄅㄨ꜆　ㄩㄝ꜇ㆵ　꜁ㄖㄩ　ㄓ　꜁ㄏ'ㄛ。　꜁ㄖㄩ　ㄓ　꜁ㄏ'ㄛ　꜂ㄓㄧㄝ。　꜁ㄫㄨ　ㄇㄨㄛ꜇ㆵ　꜁ㄖㄩ　ㄓ　꜁ㄏ'ㄛ　꜂ㄧㄝ　꜂ㄧ　꜂ㄧ。
 
 〇子曰。羣居終日。言不及義。好行小慧。難矣哉。
 · tsiX hjwot. gjun kjo tsyuwng nyit. ngjon pjuw gip ngjeH. xawH haeng sjewX hwejH. nan hiX tsoj.
@@ -2305,12 +2305,12 @@ jiɑŋ˩ hwɔ˨˦ di˨˦ ʃʱiʔ(p)˩ tsʰiʔ(t)
 〇子之武城。聞弦歌之聲。（孔曰子遊爲武城宰）夫子莞〈【音義】莧華版反本今作莞【集註】華版反〉爾而笑（莞爾小笑貌）曰。割雞焉〈【音義】【集註】於䖍反〉用牛刀。（孔曰言治小何須用大道）子游對曰。昔者偃也。聞諸夫子曰。君子學道則愛人。小人學道則易〈【音義】以豉反注同【集註】去聲〉使也。（孔曰道謂禮樂也樂以和人人和則易〈【音義】以豉反〉使）子曰。二三子。（孔曰從〈【音義】才用反〉行者）偃之言是也。前言戲之耳。
 · tsiX tsyi mjuX dzyeng. mjun hen ka tsyi syeng. pju tsiX hwaenX nyeX nyi sjewH hjwot. kat kej ’jen yowngH ngjuw taw. tsiX yuw twojH hjwot. sjek tsyaeX ’jonX yaeX. mjun tsyo pju tsiX hjwot. kjun tsiX haewk dawX tsok ’ojH nyin. sjewX nyin haewk dawX tsok yeH sriX yaeX. tsiX hjwot. nyijH sam tsiX. ’jonX tsyi ngjon dzyeX yaeX. dzen ngjon xjeH tsyi nyiX.
 · tsɨ˥˧ tʃɨ vu˥˧ tʃʱiŋ˩. vun˩ ɦiɛn˩ kɔ tʃɨ ʃiŋ. fu tsɨ˥˧ ɦwan˥˧ ɻ˥˧ ɻ˩ siɛw˨˦ jyuɛʔ(t)˩. kɔʔ(t) ki ʔiɛn jyuŋ˨˦ (ŋ)iow˩ taw. tsɨ˥˧ jiow˩ tui˨˦ jyuɛʔ(t)˩. siʔ(k) tʃiɛ˥˧ ʔiɛn˥˧ jiɛ˥˧. vun˩ tʃy fu tsɨ˥˧ jyuɛʔ(t)˩. kyun tsɨ˥˧ ɦiɒʔ(k)˩ daw’˨˦ tsəʔ(k) ʔai˨˦ ʒin˩. siɛw˥˧ ʒin˩ ɦiɒʔ(k)˩ daw’˨˦ tsəʔ(k) ji˨˦ ʂɨ˥˧ jiɛ˥˧. tsɨ˥˧ jyuɛʔ(t)˩. ɻ˨˦ sam tsɨ˥˧. ʔiɛn˥˧ tʃɨ jiɛn˩ ʃʱɨ’˨˦ jiɛ˥˧. tsʱiɛn˩ jiɛn˩ hi˨˦ tʃɨ ɻ˥˧.
-·　꜂ㄗ　ㄓ　꜂ㄪㄨ　꜁ㄔ'ㄧㄥ。　꜁ㄪㄨㄣ　꜁ㄒ'ㄧㄝㄣ　ㄍㄛ　ㄓ　ㄕㄧㄥ。　ㄈㄨ　꜂ㄗ　꜂ㄏ'ㄨㄢ　꜂ㄦ　꜁ㄦ　ㄙㄧㄠ꜄　ㄩㄝ꜇ㆵ。　ㄍㄛㄉ　ㄐㄧ　阝ㄧㄝㄣ　ㄩㄨㆭ꜅　꜁(ㄫ)ㄧㄡ　ㄉㄠ。　꜂ㄗ　꜁ㄧㄡ　ㄉㄨㄟ꜄　ㄩㄝ꜇ㆵ。　ㄙㄧㆶ　꜂ㄓㄧㄝ　꜂阝ㄧㄝㄣ　꜂ㄧㄝ。　꜁ㄪㄨㄣ　ㄓㄩ　ㄈㄨ　꜂ㄗ　ㄩㄝ꜇ㆵ。　ㄐㄩㄣ　꜂ㄗ　ㄒ'ㄧㆦ꜇ㆶ　ㄉ'ㄠ꜃꜅　ㄗㄜㆶ　阝ㄞ꜄　꜁ㄖㄧㄣ。　꜂ㄙㄧㄠ　꜁ㄖㄧㄣ　ㄒ'ㄧㆦ꜇ㆶ　ㄉ'ㄠ꜃꜅　ㄗㄜㆶ　ㄧ꜅　꜂ㄕㄭ　꜂ㄧㄝ。　꜂ㄗ　ㄩㄝ꜇ㆵ。　ㄦ꜅　ㄙㆰ　꜂ㄗ。　꜂阝ㄧㄝㄣ　ㄓ　꜁ㄧㄝㄣ　ㄕ'꜃꜅　꜂ㄧㄝ。　꜁ㄘ'ㄧㄢ　꜁ㄧㄝㄣ　ㄒㄧ꜄　ㄓ　꜂ㄦ。
+·　꜂ㄗ　ㄓ　꜂ㄪㄨ　꜁ㄔ'ㄧㄥ。　꜁ㄪㄨㄣ　꜁ㄒ'ㄧㄝㄣ　ㄍㄛ　ㄓ　ㄕㄧㄥ。　ㄈㄨ　꜂ㄗ　꜂ㄏ'ㄨㄢ　꜂ㄦ　꜁ㄦ　ㄙㄧㄠ꜄　ㄩㄝ꜇ㆵ。　ㄍㄛㆵ　ㄐㄧ　阝ㄧㄝㄣ　ㄩㄨㆭ꜅　꜁(ㄫ)ㄧㄡ　ㄉㄠ。　꜂ㄗ　꜁ㄧㄡ　ㄉㄨㄟ꜄　ㄩㄝ꜇ㆵ。　ㄙㄧㆶ　꜂ㄓㄧㄝ　꜂阝ㄧㄝㄣ　꜂ㄧㄝ。　꜁ㄪㄨㄣ　ㄓㄩ　ㄈㄨ　꜂ㄗ　ㄩㄝ꜇ㆵ。　ㄐㄩㄣ　꜂ㄗ　ㄒ'ㄧㆦ꜇ㆶ　ㄉ'ㄠ꜃꜅　ㄗㄜㆶ　阝ㄞ꜄　꜁ㄖㄧㄣ。　꜂ㄙㄧㄠ　꜁ㄖㄧㄣ　ㄒ'ㄧㆦ꜇ㆶ　ㄉ'ㄠ꜃꜅　ㄗㄜㆶ　ㄧ꜅　꜂ㄕㄭ　꜂ㄧㄝ。　꜂ㄗ　ㄩㄝ꜇ㆵ。　ㄦ꜅　ㄙㆰ　꜂ㄗ。　꜂阝ㄧㄝㄣ　ㄓ　꜁ㄧㄝㄣ　ㄕ'꜃꜅　꜂ㄧㄝ。　꜁ㄘ'ㄧㄢ　꜁ㄧㄝㄣ　ㄒㄧ꜄　ㄓ　꜂ㄦ。
 
 〇公山弗擾〈【音義】而小反〉以費〈【音義】悲位反〉畔。召。子欲往。（孔曰弗擾爲季氏宰與陽虎共執季桓子而召孔子）子路不說。〈【音義】【集註】音恱〉曰。末之也已。何必公山氏之之也。（孔曰之適也無可之則止何必公山氏之適）子曰。夫〈【音義】音符【集註】音扶〉召我者。而豈徒哉。如有用我者。吾其爲東周乎。（興周道於東方故曰東周）
 · kuwng srean pjut nyewX yiX pijH banH. drjewH. tsiX yowk hjwangX. tsiX luH pjuw ywet. hjwot. mat tsyi yaeX yiX. ha pjit kuwng srean dzyeX tsyi tsyi yaeX. tsiX hjwot. bju drjewH ngaX tsyaeX. nyi khj+jX du tsoj. nyo hjuwX yowngH ngaX tsyaeX. ngu gi hjwe tuwng tsyuw hu.
 · kuŋ ʂan fuʔ(t) ʒiɛw˥˧ ji˥˧ pi˨˦ bwɔn˨˦. dʒiɛw˨˦. tsɨ˥˧ jyuʔ(k)˩ wɑŋ˥˧. tsɨ˥˧ lu˨˦ puʔ(t) jyuɛʔ(t)˩. jyuɛʔ(t)˩. mwɔʔ(t)˩ tʃɨ jiɛ˥˧ ji˥˧. ɦɔ˩ piʔ(t) kuŋ ʂan ʃʱɨ’˨˦ tʃɨ tʃɨ jiɛ˥˧. tsɨ˥˧ jyuɛʔ(t)˩. fʱu˩ dʒiɛw˨˦ ŋɔ˥˧ tʃiɛ˥˧. ɻ˩ kʰi˥˧ tʱu˩ tsai. ʒy˩ jiow˥˧ jyuŋ˨˦ ŋɔ˥˧ tʃiɛ˥˧. ŋu˩ kʱi˩ ui˩ tuŋ tʃiow ɦu˩.
-·　ㄍㄨㆭ　ㄕㄢ　ㄈㄨㆵ　꜂ㄖㄧㄠ　꜂ㄧ　ㄅㄧ꜄　ㆠㄨㄛㄣ꜅。　ㄓ'ㄧㄠ꜅。　꜂ㄗ　ㄩㄨ꜇ㆶ　꜂ㄨㄤ。　꜂ㄗ　ㄌㄨ꜅　ㄅㄨ꜆　ㄩㄝ꜇ㆵ。　ㄩㄝ꜇ㆵ。　ㄇㄨㄛ꜇ㄉ　ㄓ　꜂ㄧㄝ　꜂ㄧ。　꜁ㄏ'ㄛ　ㄅㄧㆵ　ㄍㄨㆭ　ㄕㄢ　ㄕ'꜃꜅　ㄓ　ㄓ　꜂ㄧㄝ。　꜂ㄗ　ㄩㄝ꜇ㆵ。　꜁ㄈ'ㄨ　ㄓ'ㄧㄠ꜅　꜂ㄫㄛ　꜂ㄓㄧㄝ。　꜁ㄦ　꜂ㄑㄧ　꜁ㄊ'ㄨ　ㄗㄞ。　꜁ㄖㄩ　꜂ㄧㄡ　ㄩㄨㆭ꜅　꜂ㄫㄛ　꜂ㄓㄧㄝ。　꜁ㄫㄨ　꜁ㄑ'ㄧ　꜁ㄨㄟ　ㄉㄨㆭ　ㄓㄧㄡ　꜁ㄏ'ㄨ。
+·　ㄍㄨㆭ　ㄕㄢ　ㄈㄨㆵ　꜂ㄖㄧㄠ　꜂ㄧ　ㄅㄧ꜄　ㆠㄨㄛㄣ꜅。　ㄓ'ㄧㄠ꜅。　꜂ㄗ　ㄩㄨ꜇ㆶ　꜂ㄨㄤ。　꜂ㄗ　ㄌㄨ꜅　ㄅㄨ꜆　ㄩㄝ꜇ㆵ。　ㄩㄝ꜇ㆵ。　ㄇㄨㄛ꜇ㆵ　ㄓ　꜂ㄧㄝ　꜂ㄧ。　꜁ㄏ'ㄛ　ㄅㄧㆵ　ㄍㄨㆭ　ㄕㄢ　ㄕ'꜃꜅　ㄓ　ㄓ　꜂ㄧㄝ。　꜂ㄗ　ㄩㄝ꜇ㆵ。　꜁ㄈ'ㄨ　ㄓ'ㄧㄠ꜅　꜂ㄫㄛ　꜂ㄓㄧㄝ。　꜁ㄦ　꜂ㄑㄧ　꜁ㄊ'ㄨ　ㄗㄞ。　꜁ㄖㄩ　꜂ㄧㄡ　ㄩㄨㆭ꜅　꜂ㄫㄛ　꜂ㄓㄧㄝ。　꜁ㄫㄨ　꜁ㄑ'ㄧ　꜁ㄨㄟ　ㄉㄨㆭ　ㄓㄧㄡ　꜁ㄏ'ㄨ。
 
 〇子張問仁於孔子。孔子曰。能行五者於天下。爲仁矣。請問之。曰。恭。寬。信。敏。惠。恭則不侮。（孔曰不見侮慢）寬則得衆。信則人任焉。敏則有功。（孔曰應事疾則多成功）惠則足以使人。
 · tsiX trjang mjunH nyin ’jo khuwngX tsiX. khuwngX tsiX hjwot. nong haeng nguX tsyaeX ’jo then haeX. hjwe nyin hiX. tshjengX mjunH tsyi. hjwot. kjowng. khwan. sinH. minX. hwejH. kjowng tsok pjuw mjuX. khwan tsok tok tsyuwngH. sinH tsok nyin nyim(?) hjen. minX tsok hjuwX kuwng. hwejH tsok tsjowk yiX sriX nyin.
@@ -2370,7 +2370,7 @@ jiɑŋ˩ hwɔ˨˦ di˨˦ ʃʱiʔ(p)˩ tsʰiʔ(t)
 〇子曰。惡〈【音義】烏路反下同【集註】去聲〉紫之奪朱也。（孔曰朱正色紫間〈【音義】閒厠之間〉色之好者惡其邪〈【音義】似嗟反〉好而奪正色）惡〈【音義】烏路反【集註】去聲〉鄭聲之亂雅樂也。（包曰鄭聲淫聲之哀者惡其亂雅樂）惡〈【音義】烏路反【集註】去聲〉利口之覆〈【音義】【集註】芳服反〉邦家者。（孔曰利口之人多言少實苟能悅〈【音義】說音恱本今作恱〉媚時君傾覆〈【音義】芳服反〉國家）
 · tsiX hjwot. ’uH tsjeX tsyi dwat tsyu yaeX. ’uH drjengH syeng tsyi lwanH ngaeX ngaewk yaeX. ’uH lijH khuwX tsyi phjuwk paewng kae tsyaeX.
 · tsɨ˥˧ jyuɛʔ(t)˩. ʔu˨˦ tsɨ˥˧ tʃɨ dwɔʔ(t)˩ tʃy jiɛ˥˧. ʔu˨˦ dʒiŋ˨˦ ʃiŋ tʃɨ lwɔn˨˦ (ŋ)ia˥˧ (ŋ)iɒʔ(k)˩ jiɛ˥˧. ʔu˨˦ li˨˦ kʰow˥˧ tʃɨ fuʔ(k) pɑŋ kia tʃiɛ˥˧.
-·　꜂ㄗ　ㄩㄝ꜇ㆵ。　阝ㄨ꜄　꜂ㄗ　ㄓ　ㄉ'ㄨㄛ꜇ㄉ　ㄓㄩ　꜂ㄧㄝ。　阝ㄨ꜄　ㄓ'ㄧㄥ꜅　ㄕㄧㄥ　ㄓ　ㄌㄨㄛㄣ꜅　꜂ㄧㄚ　ㄧㆦ꜇ㆶ　꜂ㄧㄝ。　阝ㄨ꜄　ㄌㄧ꜅　꜂ㄎㄡ　ㄓ　ㄈㄨㆶ　ㄅㄤ　ㄐㄧㄚ　꜂ㄓㄧㄝ。
+·　꜂ㄗ　ㄩㄝ꜇ㆵ。　阝ㄨ꜄　꜂ㄗ　ㄓ　ㄉ'ㄨㄛ꜇ㆵ　ㄓㄩ　꜂ㄧㄝ。　阝ㄨ꜄　ㄓ'ㄧㄥ꜅　ㄕㄧㄥ　ㄓ　ㄌㄨㄛㄣ꜅　꜂ㄧㄚ　ㄧㆦ꜇ㆶ　꜂ㄧㄝ。　阝ㄨ꜄　ㄌㄧ꜅　꜂ㄎㄡ　ㄓ　ㄈㄨㆶ　ㄅㄤ　ㄐㄧㄚ　꜂ㄓㄧㄝ。
 
 〇子曰。予欲無言。子貢曰。子如不言。則小子何述焉。（言之爲益少故欲無言）子曰。天〈【音義】魯讀天爲夫今從古〉何言哉。四時行焉。百物生焉。天何言哉。
 · tsiX hjwot. yo yowk mju ngjon. tsiX kuwngH hjwot. tsiX nyo pjuw ngjon. tsok sjewX tsiX ha zywit hjen. tsiX hjwot. then ha ngjon tsoj. sijH dzyi haeng hjen. paek mjut srjaeng hjen. then ha ngjon tsoj.
@@ -2470,7 +2470,7 @@ vi˩ tsɨ˥˧ di˨˦ ʃʱiʔ(p)˩ paʔ(t)
 〇周有八士。〈【音義】鄭云成王時劉向馬融皆以爲宣王時〉伯達。伯适。〈【音義】古活反〉仲突。仲忽。叔夜。叔夏。季隨。季騧。〈【音義】古花反【集註】烏瓜反〉（包曰周時四乳〈【音義】如注反又如主反〉生〈【音義】所幸反又如字〉八子皆爲顯士故記之爾）
 · tsyuw hjuwX peat dzriX. paek dat. paek kwat. drjuwngH dwot. drjuwngH xwot. syuwk yaeH. syuwk haeH. kjwijH zjwe. kjwijH kwae.
 · tʃiow jiow˥˧ paʔ(t) ʂʱɨ’˨˦. pəʔ(k) daʔ(t)˩. pəʔ(k) kwɔʔ(t). dʒyuŋ˨˦ duʔ(t)˩. dʒyuŋ˨˦ huʔ(t). ʃyuʔ(k) jiɛ˨˦. ʃyuʔ(k) ɦia˨˦. ki˨˦ sʱui˩. ki˨˦ kwa.
-·　ㄓㄧㄡ　꜂ㄧㄡ　ㄅㄚㆵ　ㄕ'ㄭ꜃꜅。　ㄅㄜㆶ　ㄉ'ㄚ꜇ㆵ。　ㄅㄜㆶ　ㄍㄨㄛㄉ。　ㄓ'ㄩㄨㆭ꜅　ㄉ'ㄨ꜇ㆵ。　ㄓ'ㄩㄨㆭ꜅　ㄏㄨㆵ。　ㄕㄩㄨㆶ　ㄧㄝ꜅。　ㄕㄩㄨㆶ　ㄒ'ㄧㄚ꜅。　ㄐㄧ꜄　꜁ㄙ'ㄨㄟ。　ㄐㄧ꜄　ㄍㄨㄚ。
+·　ㄓㄧㄡ　꜂ㄧㄡ　ㄅㄚㆵ　ㄕ'ㄭ꜃꜅。　ㄅㄜㆶ　ㄉ'ㄚ꜇ㆵ。　ㄅㄜㆶ　ㄍㄨㄛㆵ。　ㄓ'ㄩㄨㆭ꜅　ㄉ'ㄨ꜇ㆵ。　ㄓ'ㄩㄨㆭ꜅　ㄏㄨㆵ。　ㄕㄩㄨㆶ　ㄧㄝ꜅。　ㄕㄩㄨㆶ　ㄒ'ㄧㄚ꜅。　ㄐㄧ꜄　꜁ㄙ'ㄨㄟ。　ㄐㄧ꜄　ㄍㄨㄚ。
 
 子張第十九
 tsiX trjang dejH dzyip kjuwX
