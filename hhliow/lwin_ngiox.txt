@@ -1,7 +1,7 @@
 #《論語》中古音及中州音
 # 論語 in Middle Chinese and Classical Mandarin.
 # author: hhliow (github.com/hhliow)
-# version: 20200716
+# version: 20200717
 # license: cc by-nc-sa 4.0
 # Middle Chinese is in Baxter transcription, converted and proof-read by hhliow from the compilation done by biopolyhedron (github.com/biopolyhedron).
 # Mandarin pronunciation is transcribed by hhliow following the system of 洪武正韻譯訓
@@ -750,7 +750,7 @@ kuŋ jiɛ˥˧ tʃʱiɑŋ˩ di˨˦ ŋu˥˧
 〇子曰。知者樂水。仁者樂山。知者動。仁者靜。知者樂。仁者壽。
 · tsiX hjwot. trjeH tsyaeX ngaewH sywijX. nyin tsyaeX ngaewH srean. trjeH tsyaeX duwngX. nyin tsyaeX dzjengX. trjeH tsyaeX lak. nyin tsyaeX dzyuwH.
 · tsɨ˥˧ jyuɛʔ(t)˩. tʃi˨˦ tʃiɛ˥˧ (ŋ)iaw˨˦ ʂui˥˧. ʒin˩ tʃiɛ˥˧ (ŋ)iaw˨˦ ʂan. tʃi˨˦ tʃiɛ˥˧ duŋ’˨˦. ʒin˩ tʃiɛ˥˧ dziŋ’˨˦. tʃi˨˦ tʃiɛ˥˧ lɒʔ(k)˩. ʒin˩ tʃiɛ˥˧ ʃʱiow˨˦.
-·　꜂ㄗ　ㄩㄝ꜇ㆵ。　ㄓㄧ꜄　꜂ㄓㄧㄝ　(ㄫ)ㄧㄠ꜅　꜂ㄕㄨㄟ。　꜁ㄖㄧㄣ　꜂ㄓㄧㄝ　(ㄫ)ㄧㄠ꜅　ㄕㄢ。　ㄓㄧ꜄　꜂ㄓㄧㄝ　ㄉ'ㄨㆭ꜃꜅。　꜁ㄖㄧㄣ　꜂ㄓㄧㄝ　ㆡㄧㄥ꜃꜅。　ㄓㄧ꜄　꜂ㄓㄧㄝ　ㄌㆦ꜇ㆶ。　꜁ㄖㄧㄣ　꜂ㄓㄧㄝ　ㄕ'ㄧㄡ꜅。
+·　꜂ㄗ　ㄩㄝ꜇ㆵ。　ㄓㄧ꜄　꜂ㄓㄧㄝ　(ㄫ)ㄧㄚㄨ꜅　꜂ㄕㄨㄟ。　꜁ㄖㄧㄣ　꜂ㄓㄧㄝ　(ㄫ)ㄧㄚㄨ꜅　ㄕㄢ。　ㄓㄧ꜄　꜂ㄓㄧㄝ　ㄉ'ㄨㆭ꜃꜅。　꜁ㄖㄧㄣ　꜂ㄓㄧㄝ　ㆡㄧㄥ꜃꜅。　ㄓㄧ꜄　꜂ㄓㄧㄝ　ㄌㆦ꜇ㆶ。　꜁ㄖㄧㄣ　꜂ㄓㄧㄝ　ㄕ'ㄧㄡ꜅。
 
 〇子曰。齊一變。至於魯。魯一變。至於道。
 · tsiX hjwot. dzej ’jit pjenH. tsyijH ’jo luX. luX ’jit pjenH. tsyijH ’jo dawX.
@@ -2240,7 +2240,7 @@ ki˨˦ ʃʱɨ’˨˦ di˨˦ ʃʱiʔ(p)˩ luʔ(k)˩
 〇孔子曰。益者三樂。〈【音義】五敎反下不出者同【集註】五敎反〉損者三樂。〈【音義】五敎反〉樂〈【音義】五敎反〉節禮樂。〈【音義】【集註】音岳〉（動得禮樂之節）樂〈【音義】五敎反〉道人之善。樂〈【音義】五敎反〉多賢友。益矣。樂〈【音義】五敎反〉驕樂。〈【音義】【集註】音洛〉（孔曰恃尊貴以自恣）樂〈【音義】五敎反〉佚〈【音義】本亦作逸音同〉遊。（王曰佚遊出入不節）樂〈【音義】五敎反〉宴樂。〈【音義】【集註】音洛〉損矣。（孔曰宴樂沈荒淫瀆三者自損之道）
 · khuwngX tsiX hjwot. ’jiek tsyaeX sam ngaewH. swonX tsyaeX sam ngaewH. ngaewH tset lejX ngaewk. ngaewH dawX nyin tsyi dzyenX. ngaewH ta hen hjuwX. ’jiek hiX. ngaewH kjew lak. ngaewH yit yuw. ngaewH ’enH lak. swonX hiX.
 · kʰuŋ˥˧ tsɨ˥˧ jyuɛʔ(t)˩. ʔiʔ(k) tʃiɛ˥˧ sam (ŋ)iaw˨˦. sun˥˧ tʃiɛ˥˧ sam (ŋ)iaw˨˦. (ŋ)iaw˨˦ tsiɛʔ(t) li˥˧ (ŋ)iɒʔ(k)˩. (ŋ)iaw˨˦ daw’˨˦ ʒin˩ tʃɨ ʃʱiɛn’˨˦. (ŋ)iaw˨˦ tɔ ɦiɛn˩ jiow˥˧. ʔiʔ(k) ji˥˧. (ŋ)iaw˨˦ kiɛw lɒʔ(k)˩. (ŋ)iaw˨˦ jiʔ(t)˩ jiow˩. (ŋ)iaw˨˦ ʔiɛn˨˦ lɒʔ(k)˩. sun˥˧ ji˥˧.
-·　꜂ㄎㄨㆭ　꜂ㄗ　ㄩㄝ꜇ㆵ。　阝ㄧㆶ　꜂ㄓㄧㄝ　ㄙㆰ　(ㄫ)ㄧㄠ꜅。　꜂ㄙㄨㄣ　꜂ㄓㄧㄝ　ㄙㆰ　(ㄫ)ㄧㄠ꜅。　(ㄫ)ㄧㄠ꜅　ㄗㄧㄝㆵ　꜂ㄌㄧ　(ㄫ)ㄧㆦ꜇ㆶ。　(ㄫ)ㄧㄠ꜅　ㄉ'ㄠ꜃꜅　꜁ㄖㄧㄣ　ㄓ　ㄕ'ㄧㄢ꜃꜅。　(ㄫ)ㄧㄠ꜅　ㄉㄛ　꜁ㄒ'ㄧㄝㄣ　꜂ㄧㄡ。　阝ㄧㆶ　꜂ㄧ。　(ㄫ)ㄧㄠ꜅　ㄐㄧㄝㄨ　ㄌㆦ꜇ㆶ。　(ㄫ)ㄧㄠ꜅　ㄧ꜇ㆵ　꜁ㄧㄡ。　(ㄫ)ㄧㄠ꜅　阝ㄧㄝㄣ꜄　ㄌㆦ꜇ㆶ。　꜂ㄙㄨㄣ　꜂ㄧ。
+·　꜂ㄎㄨㆭ　꜂ㄗ　ㄩㄝ꜇ㆵ。　阝ㄧㆶ　꜂ㄓㄧㄝ　ㄙㆰ　(ㄫ)ㄧㄚㄨ꜅。　꜂ㄙㄨㄣ　꜂ㄓㄧㄝ　ㄙㆰ　(ㄫ)ㄧㄚㄨ꜅。　(ㄫ)ㄧㄚㄨ꜅　ㄗㄧㄝㆵ　꜂ㄌㄧ　(ㄫ)ㄧㆦ꜇ㆶ。　(ㄫ)ㄧㄚㄨ꜅　ㄉ'ㄠ꜃꜅　꜁ㄖㄧㄣ　ㄓ　ㄕ'ㄧㄢ꜃꜅。　(ㄫ)ㄧㄚㄨ꜅　ㄉㄛ　꜁ㄒ'ㄧㄝㄣ　꜂ㄧㄡ。　阝ㄧㆶ　꜂ㄧ。　(ㄫ)ㄧㄚㄨ꜅　ㄐㄧㄝㄨ　ㄌㆦ꜇ㆶ。　(ㄫ)ㄧㄚㄨ꜅　ㄧ꜇ㆵ　꜁ㄧㄡ。　(ㄫ)ㄧㄚㄨ꜅　阝ㄧㄝㄣ꜄　ㄌㆦ꜇ㆶ。　꜂ㄙㄨㄣ　꜂ㄧ。
 
 〇孔子曰。侍於君子有三愆。〈【音義】起䖍反〉（孔曰愆過也）言未及之而言。謂之躁。〈【音義】早報反魯讀躁爲傲今從古〉（鄭曰躁不安靜）言及之而不言。謂之隱。（孔曰隱匿〈【音義】女力反〉不盡情實）未見顏色而言。謂之瞽。〈【音義】音古〉（周曰未見君子顏色所趣向〈【音義】郷許亮反本又作向〉而便逆先意語者猶瞽也）
 · khuwngX tsiX hjwot. dzyiH ’jo kjun tsiX hjuwX sam khjen. ngjon mj+jH gip tsyi nyi ngjon. hjw+jH tsyi tsawH. ngjon gip tsyi nyi pjuw ngjon. hjw+jH tsyi ’j+nX. mj+jH kenH ngaen srik nyi ngjon. hjw+jH tsyi kuX.
