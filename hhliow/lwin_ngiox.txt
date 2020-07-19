@@ -1,7 +1,7 @@
 #《論語》中古音及中州音
 # 論語 in Middle Chinese and Classical Mandarin.
 # author: hhliow (github.com/hhliow)
-# version: 20200717
+# version: 20200719
 # license: cc by-nc-sa 4.0
 # Middle Chinese is in Baxter transcription, converted and proof-read by hhliow from the compilation done by biopolyhedron (github.com/biopolyhedron).
 # Mandarin pronunciation is transcribed by hhliow following the system of 洪武正韻譯訓
@@ -355,7 +355,7 @@ paʔ(t) jiʔ(t)˩ di˨˦ sam
 里仁第四
 liX nyin dejH sijH
 li˥˧ ʒin˩ di˨˦ sɨ˨˦
-ㄌㄧ꜄　꜁ㄖㄧㄣ　ㄉ'ㄧ꜅　ㄙ꜄
+꜂ㄌㄧ　꜁ㄖㄧㄣ　ㄉ'ㄧ꜅　ㄙ꜄
 
 〇子曰。里仁爲美。擇不處仁。焉得知。
 · tsiX hjwot. liX nyin hjwe mijX. draek pjuw tsyhoX nyin. ’jen tok trjeH.
@@ -1095,7 +1095,7 @@ tʰai˨˦ pəʔ(k) di˨˦ paʔ(t)
 子罕第九
 tsiX xanX dejH kjuwX
 tsɨ˥˧ hɑn˥˧ di˨˦ kiow˥˧
-ㄗ꜄　꜂ㄏㄢ　ㄉ'ㄧ꜅　꜂ㄐㄧㄡ
+꜂ㄗ　꜂ㄏㄢ　ㄉ'ㄧ꜅　꜂ㄐㄧㄡ
 
 〇子罕言利。與命與仁。
 · tsiX xanX ngjon lijH. yoX mjaengH yoX nyin.
@@ -1620,7 +1620,7 @@ ngaen ’wen dejH dzyip nyijH
 子路第十三
 tsiX luH dejH dzyip sam
 tsɨ˥˧ lu˨˦ di˨˦ ʃʱiʔ(p)˩ sam
-ㄗ꜄　ㄌㄨ꜅　ㄉ'ㄧ꜅　ㄕ'ㄧ꜇ㆴ　ㄙㆰ
+꜂ㄗ　ㄌㄨ꜅　ㄉ'ㄧ꜅　ㄕ'ㄧ꜇ㆴ　ㄙㆰ
 
 〇子路問政。子曰。先之。勞之。請益。曰。無倦。
 · tsiX luH mjunH tsyengH. tsiX hjwot. sen(H) tsyi. law(H) tsyi. tshjengX ’jiek. hjwot. mju gjwenH.
@@ -2475,7 +2475,7 @@ vi˩ tsɨ˥˧ di˨˦ ʃʱiʔ(p)˩ paʔ(t)
 子張第十九
 tsiX trjang dejH dzyip kjuwX
 tsɨ˥˧ tʃiɑŋ di˨˦ ʃʱiʔ(p)˩ kiow˥˧
-ㄗ꜄　ㄓㄧㄤ　ㄉ'ㄧ꜅　ㄕ'ㄧ꜇ㆴ　꜂ㄐㄧㄡ
+꜂ㄗ　ㄓㄧㄤ　ㄉ'ㄧ꜅　ㄕ'ㄧ꜇ㆴ　꜂ㄐㄧㄡ
 
 〇子張曰。士見危致命。（孔曰致命不愛其身）見得思義。祭思敬。喪思哀。其可已矣。
 · tsiX trjang hjwot. dzriX kenH ngjwe trijH mjaengH. kenH tok si ngjeH. tsjejH si kjaengH. sang si ’oj. gi khaX yiX hiX.
